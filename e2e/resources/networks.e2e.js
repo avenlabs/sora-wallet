@@ -28,7 +28,7 @@ const PopularNetworksList = {
     providerConfig: {
       type: 'rpc',
       chainId: toHex('250'),
-      rpcUrl: 'https://rpc.ftm.tools/',
+      rpcUrl: '`https://rpc.ftm.tools/`',
       nickname: 'Fantom Opera',
       ticker: 'FTM',
     },

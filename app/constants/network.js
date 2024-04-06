@@ -3,6 +3,8 @@ import { NetworkType, toHex } from '@metamask/controller-utils';
 export const MAINNET = 'mainnet';
 export const HOMESTEAD = 'homestead';
 export const GOERLI = 'goerli';
+
+export const SORA = 'sora';
 export const SEPOLIA = 'sepolia';
 export const LINEA_GOERLI = 'linea-goerli';
 export const LINEA_SEPOLIA = 'linea-sepolia';
@@ -17,8 +19,10 @@ export const IPFS_DEFAULT_GATEWAY_URL = 'https://cloudflare-ipfs.com/ipfs/';
  * @enum {string}
  */
 export const NETWORKS_CHAIN_ID = {
-  MAINNET: toHex('1'),
+  // MAINNET: toHex('1'),
+  MAINNET: toHex('56'),
   OPTIMISM: toHex('10'),
+  SORA: toHex('145'),
   BSC: toHex('56'),
   POLYGON: toHex('137'),
   FANTOM: toHex('250'),
@@ -47,7 +51,9 @@ export const DEPRECATED_NETWORKS = [
   NETWORKS_CHAIN_ID.MUMBAI,
 ];
 export const CHAINLIST_CURRENCY_SYMBOLS_MAP = {
-  MAINNET: 'ETH',
+  // MAINNET: 'ETH',
+  MAINNET: "BNB",
+  SORA: 'SETH',
   OPTIMISM: 'ETH',
   BNB: 'BNB',
   MATIC: 'MATIC',
@@ -67,6 +73,7 @@ export const CHAINLIST_CURRENCY_SYMBOLS_MAP = {
 
 export const CURRENCY_SYMBOL_BY_CHAIN_ID = {
   [NETWORKS_CHAIN_ID.MAINNET]: CHAINLIST_CURRENCY_SYMBOLS_MAP.MAINNET,
+  [NETWORKS_CHAIN_ID.SORA]: CHAINLIST_CURRENCY_SYMBOLS_MAP.SORA,
   [NETWORKS_CHAIN_ID.OPTIMISM]: CHAINLIST_CURRENCY_SYMBOLS_MAP.OPTIMISM,
   [NETWORKS_CHAIN_ID.BSC]: CHAINLIST_CURRENCY_SYMBOLS_MAP.BNB,
   [NETWORKS_CHAIN_ID.POLYGON]: CHAINLIST_CURRENCY_SYMBOLS_MAP.MATIC,

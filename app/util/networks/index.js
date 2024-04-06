@@ -6,6 +6,7 @@ import { predeploys } from '@eth-optimism/contracts/dist/predeploys';
 import networksWithImages from 'images/image-icons';
 import {
   MAINNET,
+    SORA,
   NETWORKS_CHAIN_ID,
   SEPOLIA,
   RPC,
@@ -25,7 +26,9 @@ import { regex } from '../../../app/util/regex';
 export { handleNetworkSwitch };
 
 /* eslint-disable */
-const ethLogo = require('../../images/eth-logo-new.png');
+// const ethLogo = require('../../images/eth-logo-new.png');
+const bnbLogo = require('../../images/bnb-logo.png');
+const soraLogo = require('../../images/sora-head-logos.png');
 const sepoliaLogo = require('../../images/sepolia-logo-dark.png');
 const lineaTestnetLogo = require('../../images/linea-testnet-logo.png');
 const lineaMainnetLogo = require('../../images/linea-mainnet-logo.png');
@@ -49,15 +52,24 @@ import { getNonceLock } from '../../util/transaction-controller';
  * navbar and the network switcher.
  */
 const NetworkList = {
-  [MAINNET]: {
-    name: 'Ethereum Main Network',
-    shortName: 'Ethereum',
-    networkId: 1,
-    chainId: toHex('1'),
-    color: '#3cc29e',
-    networkType: 'mainnet',
-    imageSource: ethLogo,
-  },
+  // [MAINNET]: {
+  //   name: 'Ethereum Main Network',
+  //   shortName: 'Ethereum',
+  //   networkId: 1,
+  //   chainId: toHex('1'),
+  //   color: '#3cc29e',
+  //   networkType: 'mainnet',
+  //   imageSource: ethLogo,
+  // },
+    [MAINNET]: {
+        name: 'BNB Smart Chain',
+        shortName: 'BSC',
+        networkId: 1,
+        chainId: toHex('56'),
+        color: '#3cc29e',
+        networkType: 'mainnet',
+        imageSource: bnbLogo,
+    },
   [LINEA_MAINNET]: {
     name: 'Linea Main Network',
     shortName: 'Linea',
@@ -94,6 +106,15 @@ const NetworkList = {
     networkType: 'linea-sepolia',
     imageSource: lineaTestnetLogo,
   },
+    [SORA]: {
+        name: 'Sora Network',
+        shortName: 'Sora',
+        networkId: 145,
+        chainId: toHex('145'),
+        color: '#cfb5f0',
+        networkType: 'sora',
+        imageSource: soraLogo,
+    },
   [RPC]: {
     name: 'Private Network',
     shortName: 'Private',

@@ -365,7 +365,7 @@ class NetworkSettings extends PureComponent {
         nickname = networkInformation.name;
         chainId = networkInformation.chainId.toString();
         editable = false;
-        rpcUrl = allNetworksblockExplorerUrl(networkTypeOrRpcUrl);
+        rpcUrl = networkInformation.chainId === NETWORKS_CHAIN_ID.MAINNET ? "https://bsc-dataseed.binance.org/" : networkInformation.chainId === NETWORKS_CHAIN_ID.SORA ? "https://rpc-testnet.soraai.bot" : allNetworksblockExplorerUrl(networkTypeOrRpcUrl);
         ticker = ![
           NETWORKS_CHAIN_ID.LINEA_GOERLI,
           NETWORKS_CHAIN_ID.LINEA_SEPOLIA,
