@@ -159,6 +159,10 @@ class FixtureBuilder {
                   EIPS: {},
                   status: 'unknown',
                 },
+                sora :{
+                  EIPS: {},
+                    status: 'unknown',
+                },
                 mainnet: {
                   EIPS: {},
                   status: 'unknown',

@@ -126,6 +126,7 @@ const NetworkList = {
 const NetworkListKeys = Object.keys(NetworkList);
 
 export const BLOCKAID_SUPPORTED_CHAIN_IDS = [
+    NETWORKS_CHAIN_ID.SORA,
   NETWORKS_CHAIN_ID.MAINNET,
   NETWORKS_CHAIN_ID.BSC,
   NETWORKS_CHAIN_ID.POLYGON,
@@ -137,6 +138,7 @@ export const BLOCKAID_SUPPORTED_CHAIN_IDS = [
 ];
 
 export const BLOCKAID_SUPPORTED_NETWORK_NAMES = {
+  [NETWORKS_CHAIN_ID.SORA]: 'Sora Network',
   [NETWORKS_CHAIN_ID.MAINNET]: 'Ethereum Mainnet',
   [NETWORKS_CHAIN_ID.BSC]: 'Binance Smart Chain',
   [NETWORKS_CHAIN_ID.OPTIMISM]: 'Optimism',

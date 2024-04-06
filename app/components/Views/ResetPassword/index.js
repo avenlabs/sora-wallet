@@ -607,15 +607,16 @@ class ResetPassword extends PureComponent {
         {loading ? (
           <View style={styles.loadingWrapper}>
             <View style={styles.foxWrapper}>
-              {Device.isAndroid() ? (
-                <Image
-                  source={require('../../../images/fox.png')}
+              {/*{Device.isAndroid() ? (*/}
+              <Image
+                  // source={require('../../../images/fox.png')}
+                  source={require('../../../images/sora-head-logos.png')}
                   style={styles.image}
                   resizeMethod={'auto'}
-                />
-              ) : (
-                <AnimatedFox bgColor={colors.background.default} />
-              )}
+              />
+              { /* }) : (
+                   <AnimatedFox bgColor={colors.background.default} />
+                )} */}
             </View>
             <ActivityIndicator size="large" color={colors.icon.default} />
             <Text variant={TextVariant.HeadingLG} style={styles.title}>

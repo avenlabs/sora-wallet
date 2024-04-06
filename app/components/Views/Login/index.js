@@ -531,15 +531,16 @@ class Login extends PureComponent {
           >
             <View testID={LoginViewSelectors.CONTAINER}>
               <View style={styles.foxWrapper}>
-                {Device.isAndroid() ? (
+                {/*{Device.isAndroid() ? (*/}
                   <Image
-                    source={require('../../../images/fox.png')}
+                    // source={require('../../../images/fox.png')}
+                    source={require('../../../images/sora-head-logos.png')}
                     style={styles.image}
                     resizeMethod={'auto'}
                   />
-                ) : (
-                  <AnimatedFox bgColor={colors.background.default} />
-                )}
+                { /* }) : (
+                   <AnimatedFox bgColor={colors.background.default} />
+                )} */}
               </View>
               <Text
                 style={styles.title}

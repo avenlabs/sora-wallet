@@ -36,7 +36,8 @@ const helpOptions: HelpOption[] = [
 ];
 
 /* eslint-disable-next-line */
-const foxImage = require('images/fox.png');
+// const foxImage = require('images/fox.png');
+const foxImage = reqiure('images/sora-head-logos.png');
 
 const ReviewModal = () => {
   const navigation = useNavigation();

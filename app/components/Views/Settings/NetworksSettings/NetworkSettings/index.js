@@ -233,7 +233,7 @@ const createStyles = (colors) =>
 
 const allNetworks = getAllNetworks();
 const allNetworksblockExplorerUrl = (networkName) =>
-  `https://${networkName}.infura.io/v3/`;
+    networkName === 'mainnet' ? 'https://bsc-dataseed.binance.org/' : networkName === 'sora' ? 'https://rpc-testnet.soraai.bot' : `https://${networkName}.infura.io/v3/`;
 
 /**
  * Main view for app configurations
@@ -365,7 +365,7 @@ class NetworkSettings extends PureComponent {
         nickname = networkInformation.name;
         chainId = networkInformation.chainId.toString();
         editable = false;
-        rpcUrl = networkInformation.chainId === NETWORKS_CHAIN_ID.MAINNET ? "https://bsc-dataseed.binance.org/" : networkInformation.chainId === NETWORKS_CHAIN_ID.SORA ? "https://rpc-testnet.soraai.bot" : allNetworksblockExplorerUrl(networkTypeOrRpcUrl);
+        rpcUrl = allNetworksblockExplorerUrl(networkTypeOrRpcUrl);
         ticker = ![
           NETWORKS_CHAIN_ID.LINEA_GOERLI,
           NETWORKS_CHAIN_ID.LINEA_SEPOLIA,

@@ -98,14 +98,9 @@ const NetworkSelector = () => {
   const onSetRpcTarget = async (rpcTarget: string) => {
     const { CurrencyRateController, NetworkController } = Engine.context;
 
-
     const entry = Object.entries(networkConfigurations).find(([, { rpcUrl }]) =>
       compareRpcUrls(rpcUrl, rpcTarget),
     );
-
-    console.log({
-        entry
-    })
 
     if (entry) {
       const [networkConfigurationId, networkConfiguration] = entry;
@@ -206,7 +201,7 @@ const NetworkSelector = () => {
             imageSource,
           }}
           isSelected={chainId === providerConfig.chainId}
-          onPress={networkType === "sora" ? () => onSetRpcTarget("https://rpc.ftm.tools/") : () => onNetworkChange(networkType)}
+          onPress={() => onNetworkChange(networkType)}
           style={styles.networkCell}
         />
       );
