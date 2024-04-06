@@ -61,14 +61,14 @@
   },
   "onboarding": {
     "title": "Configuração da carteira",
-    "sync_desc": "Caso você já tenha a extensão da MetaMask ou outra carteira, sincronize-a ou importe-a para gerenciar seus ativos existentes.",
+    "sync_desc": "Caso você já tenha a extensão da Sora Wallet ou outra carteira, sincronize-a ou importe-a para gerenciar seus ativos existentes.",
     "create_desc": "Configure sua primeira carteira e comece a explorar aplicativos descentralizados.",
     "import": "Importe uma carteira existente ou crie uma nova",
     "import_wallet_button": "Sincronizar ou importar carteira",
     "new_to_crypto": "Novo nas criptomoedas?",
     "start_exploring_now": "Criar uma nova carteira",
     "unlock": "Desbloquear",
-    "new_to_metamask": "Novo na MetaMask?",
+    "new_to_metamask": "Novo na Sora Wallet?",
     "already_have_wallet": "Já tem uma carteira?",
     "optin_back_title": "Atenção!",
     "optin_back_desc": "Por favor, concorde ou discorde do uso de análise de dados. Você também pode atualizar essa opção nas configurações.",
@@ -76,15 +76,15 @@
     "warning_text_1": "Sua carteira e suas contas atuais serão",
     "warning_text_2": "removidas",
     "warning_text_3": "se você prosseguir.",
-    "warning_text_4": "Você SOMENTE poderá recuperá-las com a Frase de Recuperação Secreta. A MetaMask não poderá ajudar você a recuperá-las.",
+    "warning_text_4": "Você SOMENTE poderá recuperá-las com a Frase de Recuperação Secreta. A Sora Wallet não poderá ajudar você a recuperá-las.",
     "warning_proceed": "Remover a carteira e prosseguir",
     "warning_cancel": "Cancelar",
     "step1": "Configuração da carteira",
     "step2": "Criar senha",
     "step3": "Carteira segura",
     "already_have": "Já tem uma carteira?",
-    "sync_existing": "Sincronize sua carteira MetaMask existente usando a extensão do navegador ou a importe manualmente.",
-    "scan_title": "Passos para sincronizar com a extensão da MetaMask",
+    "sync_existing": "Sincronize sua carteira Sora Wallet existente usando a extensão do navegador ou a importe manualmente.",
+    "scan_title": "Passos para sincronizar com a extensão da Sora Wallet",
     "scan": "Leia",
     "scan_step_1": "Abra a extensão no computador",
     "scan_step_2": "Acesse Configurações > Avançado",
@@ -95,12 +95,12 @@
     "delete_current": "Excluindo carteira atual"
   },
   "onboarding_carousel": {
-    "title1": "Boas-vindas à MetaMask",
+    "title1": "Boas-vindas à Sora Wallet",
     "title2": "Administre seus ativos digitais",
     "title3": "Sua porta de entrada para a Web3",
-    "subtitle1": "Com a confiança de milhões de usuários, a MetaMask é uma carteira segura que torna o mundo da Web3 acessível a todos.",
-    "subtitle2": "Armazene, gaste e envie ativos digitais como tokens, Ethereum e colecionáveis únicos.",
-    "subtitle3": "Entre com a MetaMask e faça transações para investir, ganhar, jogar, vender e mais!",
+    "subtitle1": "Com a confiança de milhões de usuários, a Sora Wallet é uma carteira segura que torna o mundo da Web3 acessível a todos.",
+    "subtitle2": "Armazene, gaste e envie ativos digitais como tokens, Sora e colecionáveis únicos.",
+    "subtitle3": "Entre com a Sora Wallet e faça transações para investir, ganhar, jogar, vender e mais!",
     "get_started": "Primeiros passos"
   },
   "onboarding_wizard": {
@@ -113,8 +113,8 @@
     },
     "step1": {
       "title": "Boas-vindas à sua nova carteira!",
-      "content1": "Para usar a blockchain, você precisa de uma carteira! Algumas ações custam Ether (ETH).",
-      "content2": "Vamos mostrar como comprar ETH. Ou você pode solicitar um valor a um amigo."
+      "content1": "Para usar a blockchain, você precisa de uma carteira! Algumas ações custam Ether (SETH).",
+      "content2": "Vamos mostrar como comprar SETH. Ou você pode solicitar um valor a um amigo."
     },
     "step2": {
       "title": "Suas contas",
@@ -130,7 +130,7 @@
     "step4": {
       "title": "Menu principal",
       "content1": "Você pode acessar o histórico de Transações, Configurações e Suporte nesse menu.",
-      "content2": "Você pode realizar mais ações com suas configurações de contas e acesso na MetaMask."
+      "content2": "Você pode realizar mais ações com suas configurações de contas e acesso na Sora Wallet."
     },
     "step5": {
       "title": "Explore o navegador",
@@ -149,7 +149,7 @@
     },
     "step1": {
       "title": "Boas-vindas à sua carteira!",
-      "content1": "Na blockchain, você precisa de uma carteira (e talvez um pouco de ETH). Vamos dar uma olhada em como usar sua carteira MetaMask."
+      "content1": "Na blockchain, você precisa de uma carteira (e talvez um pouco de SETH). Vamos dar uma olhada em como usar sua carteira Sora Wallet."
     },
     "step2": {
       "title": "Suas contas",
@@ -177,14 +177,14 @@
     "subtitle": "Não deve demorar muito"
   },
   "import_wallet": {
-    "title": "Já é usuário da MetaMask?",
+    "title": "Já é usuário da Sora Wallet?",
     "sub_title": "Sincronize com a extensão",
     "sync_help": "Sincronize sua carteira com a extensão",
     "sync_help_step_one": "1. Abra a extensão",
     "sync_help_step_two": "2. Acesse Configurações > Avançado",
     "sync_help_step_three": "3. Clique em \"Sincronizar com dispositivo móvel\"",
     "sync_help_step_four": "4. Leia o código QR para iniciar a sincronização",
-    "sync_from_browser_extension_button": "Sincronizar com a extensão da MetaMask",
+    "sync_from_browser_extension_button": "Sincronizar com a extensão da Sora Wallet",
     "or": "OU",
     "import_from_seed_button": "Importe usando a Frase de Recuperação Secreta"
   },
@@ -204,13 +204,13 @@
     "this_action": "Esta ação não poderá ser desfeita.",
     "you_can_only": "Você SÓ poderá recuperar esta carteira com a sua",
     "recovery_phrase": "Frase de Recuperação Secreta ",
-    "metamask_does_not": "A MetaMask não sabe a sua Frase de Recuperação Secreta.",
+    "metamask_does_not": "A Sora Wallet não sabe a sua Frase de Recuperação Secreta.",
     "i_understand": "Eu compreendo. Continuar.",
     "passcode_not_set_error": "Erro: código de acesso não definido.",
     "wrong_password_error": "Erro: falha ao descriptografar",
     "wrong_password_error_android": "Erro: error:1e000065:Cipher functions:OPENSSL_internal:BAD_DECRYPT",
     "vault_error": "Erro: não é possível desbloquear sem um cofre anterior.",
-    "clean_vault_error": "A MetaMask encontrou um erro por ter atingido um limite de armazenamento. Os dados locais foram corrompidos. Reinstale a MetaMask e restaure os dados com sua Frase de Recuperação Secreta.",
+    "clean_vault_error": "A Sora Wallet encontrou um erro por ter atingido um limite de armazenamento. Os dados locais foram corrompidos. Reinstale a Sora Wallet e restaure os dados com sua Frase de Recuperação Secreta.",
     "security_alert_title": "Alerta de segurança",
     "security_alert_desc": "Para prosseguir, você precisa ativar o código de acesso ou outro método de autenticação biométrica compatível com seu dispositivo (Face ID, Touch ID ou impressão digital)"
   },
@@ -227,7 +227,7 @@
   },
   "choose_password": {
     "title": "Criar senha",
-    "subtitle": "Esta senha desbloqueará sua carteira MetaMask somente neste dispositivo.",
+    "subtitle": "Esta senha desbloqueará sua carteira Sora Wallet somente neste dispositivo.",
     "password": "Nova senha",
     "confirm_password": "Confirmar senha",
     "create_button": "Criar senha",
@@ -245,7 +245,7 @@
     "remember_me": "Lembrar de mim",
     "security_alert_title": "Alerta de segurança",
     "security_alert_message": "Para prosseguir, você precisa ativar o código de acesso ou algum método de autenticação por biometria compatível com o seu dispositivo (Face ID, Touch ID ou impressão digital)",
-    "i_understand": "Eu compreendo que a MetaMask não poderá recuperar essa senha para mim.",
+    "i_understand": "Eu compreendo que a Sora Wallet não poderá recuperar essa senha para mim.",
     "learn_more": "Saiba mais.",
     "secure": "Carteira segura",
     "confirm": "Confirmar Frase de Recuperação Secreta",
@@ -253,7 +253,7 @@
   },
   "reset_password": {
     "title": "Alterar senha",
-    "subtitle": "Esta senha desbloqueará sua carteira MetaMask somente neste dispositivo.",
+    "subtitle": "Esta senha desbloqueará sua carteira Sora Wallet somente neste dispositivo.",
     "password": "Nova senha",
     "confirm_password": "Confirmar senha",
     "reset_button": "Redefinir senha",
@@ -271,7 +271,7 @@
     "remember_me": "Lembrar de mim",
     "security_alert_title": "Alerta de segurança",
     "security_alert_message": "Para prosseguir, você precisa ativar o código de acesso ou algum método de autenticação por biometria compatível com o seu dispositivo (Face ID, Touch ID ou impressão digital)",
-    "i_understand": "Eu compreendo que a MetaMask não poderá recuperar essa senha para mim.",
+    "i_understand": "Eu compreendo que a Sora Wallet não poderá recuperar essa senha para mim.",
     "learn_more": "Saiba mais.",
     "secure": "Carteira segura",
     "confirm": "Confirmar Frase de Recuperação Secreta",
@@ -321,7 +321,7 @@
     "lock_ok": "SIM",
     "lock_cancel": "NÃO",
     "feedback": "Comentário",
-    "metamask_support": "Suporte da MetaMask",
+    "metamask_support": "Suporte da Sora Wallet",
     "public_address": "Endereço público"
   },
   "send": {
@@ -373,7 +373,7 @@
     "no_tokens": "Você não tem nenhum token!",
     "no_nfts_yet": "Nenhum NFT até agora",
     "nfts_autodetection_title": "Detecção de NFTs",
-    "nfts_autodetection_desc": "Permita que a MetaMask detecte NFTs automaticamente da OpenSea e os exiba na sua carteira MetaMask.",
+    "nfts_autodetection_desc": "Permita que a Sora Wallet detecte NFTs automaticamente da OpenSea e os exiba na sua carteira Sora Wallet.",
     "network_details_check": "A verificação dos dados da rede",
     "network_with_chain_id": "A rede com a ID de cadeia",
     "potential_scam": "Isto é um possível golpe",
@@ -467,15 +467,15 @@
   "privacy_policy": {
     "title": "Política de privacidade",
     "fine_print_1": "Esses dados são agregados e, portanto, anônimos para os fins do Regulamento Geral sobre a Proteção de Dados (EU) 2016/679.",
-    "fine_print_2a": "*Quando você usa a Infura como seu provedor RPC padrão na MetaMask, a Infura coleta seu endereço IP e da carteira de Ethereum quando você envia uma transação. Não armazenamos essas informações de forma que permita aos nossos sistemas cruzarem os dois fragmentos de dados. Você pode configurar seu provedor RPC",
-    "fine_print_2b": "antes de prosseguir.\nPara obter mais informações sobre como a MetaMask e a Infura interagem sob a perspectiva da coleta de dados, veja nossa atualização",
+    "fine_print_2a": "*Quando você usa a Infura como seu provedor RPC padrão na Sora Wallet, a Infura coleta seu endereço IP e da carteira de Sora quando você envia uma transação. Não armazenamos essas informações de forma que permita aos nossos sistemas cruzarem os dois fragmentos de dados. Você pode configurar seu provedor RPC",
+    "fine_print_2b": "antes de prosseguir.\nPara obter mais informações sobre como a Sora Wallet e a Infura interagem sob a perspectiva da coleta de dados, veja nossa atualização",
     "fine_print_2c": ". Para obter mais informações sobre as nossas práticas de privacidade em geral, veja nossa Política de Privacidade",
     "here": "aqui",
     "agree": "Concordo",
     "decline": "Não, obrigado",
-    "description_title": "Ajude a melhorar a MetaMask",
-    "description_content_1": "A MetaMask gostaria de coletar dados de utilização para entender melhor como os usuários interagem com a MetaMask. Esses dados serão usados para prestar o serviço, o que inclui melhorá-lo com base na utilização.",
-    "description_content_2": "A MetaMask...",
+    "description_title": "Ajude a melhorar a Sora Wallet",
+    "description_content_1": "A Sora Wallet gostaria de coletar dados de utilização para entender melhor como os usuários interagem com a Sora Wallet. Esses dados serão usados para prestar o serviço, o que inclui melhorá-lo com base na utilização.",
+    "description_content_2": "A Sora Wallet...",
     "action_description_1": "Sempre permitirá que você revogue a permissão nas Configurações",
     "action_description_2": "Enviará eventos anonimizados de cliques e visualizações de páginas",
     "action_description_3": "coletará informações de que não precisamos para prestar o serviço (tais como chaves, endereços, hashes de transações ou saldos)",
@@ -573,9 +573,9 @@
     "deceptive_site_ahead": "Site enganoso à vista",
     "deceptive_site_desc": "O site que você está tentando visitar não é seguro. Invasores podem induzir você a fazer algo perigoso por engano.",
     "learn_more": "Saiba mais",
-    "advisory_by": "Aconselhamento fornecido por Ethereum Phishing Detector e PhishFort",
+    "advisory_by": "Aconselhamento fornecido por Sora Phishing Detector e PhishFort",
     "potential_threat": "Ameaças potenciais incluem",
-    "fake_metamask": "Versões falsas da MetaMask",
+    "fake_metamask": "Versões falsas da Sora Wallet",
     "srp_theft": "Roubo da Frase de Recuperação Secreta ou senha",
     "malicious_transactions": "Transações mal-intencionadas que resultam no roubo de ativos"
   },
@@ -617,7 +617,7 @@
     "current_conversion": "Moeda base",
     "current_language": "Idioma atual",
     "ipfs_gateway": "Gateway IPFS",
-    "ipfs_gateway_content": "A MetaMask usa serviços terceirizados para exibir imagens de seus NFTs armazenados no IPFS, exibir informações relacionadas a endereços ENS inseridos na barra de endereço do seu navegador e buscar ícones para diferentes tokens. Seu endereço IP pode ser exposto a esses serviços ao usá-los.",
+    "ipfs_gateway_content": "A Sora Wallet usa serviços terceirizados para exibir imagens de seus NFTs armazenados no IPFS, exibir informações relacionadas a endereços ENS inseridos na barra de endereço do seu navegador e buscar ícones para diferentes tokens. Seu endereço IP pode ser exposto a esses serviços ao usá-los.",
     "ipfs_gateway_down": "Seu gateway IPFS atual está fora do ar",
     "ipfs_gateway_desc": "Selecione seu gateway IPFS preferencial.",
     "search_engine": "Motor de busca",
@@ -626,7 +626,7 @@
     "add_network_title": "Adicionar uma rede",
     "auto_lock": "Bloqueio automático",
     "auto_lock_desc": "Selecione o tempo para bloquear o aplicativo automaticamente.",
-    "state_logs_desc": "Isso ajudará a MetaMask a depurar qualquer problema que você possa encontrar. Envie ao suporte da MetaMask através do ícone de hambúrguer > Enviar comentário ou responda ao seu chamado existente, se for o caso.",
+    "state_logs_desc": "Isso ajudará a Sora Wallet a depurar qualquer problema que você possa encontrar. Envie ao suporte da Sora Wallet através do ícone de hambúrguer > Enviar comentário ou responda ao seu chamado existente, se for o caso.",
     "autolock_immediately": "Imediatamente",
     "autolock_never": "Nunca",
     "autolock_after": "Depois de {{time}} segundos",
@@ -660,7 +660,7 @@
     "protect_title": "Proteja sua carteira",
     "video_failed": "Falha ao carregar o vídeo.",
     "protect_desc": "Proteja sua carteira guardando sua Frase de Recuperação Secreta em vários lugares, como uma folha de papel, um gerenciador de senhas ou a nuvem.",
-    "protect_desc_no_backup": "Esta é a frase de 12 palavras da sua carteira. Ela pode ser usada para assumir o controle de todas as suas contas atuais e futuras, incluindo a possibilidade de retirar valores da sua carteira. Guarde esta frase em segurança e NÃO a compartilhe com ninguém. A MetaMask não poderá ajudar a recuperar esta chave.",
+    "protect_desc_no_backup": "Esta é a frase de 12 palavras da sua carteira. Ela pode ser usada para assumir o controle de todas as suas contas atuais e futuras, incluindo a possibilidade de retirar valores da sua carteira. Guarde esta frase em segurança e NÃO a compartilhe com ninguém. A Sora Wallet não poderá ajudar a recuperar esta chave.",
     "learn_more": "Saiba mais.",
     "seedphrase_not_backed_up": "Importante! Não foi feito backup da Frase de Recuperação Secreta",
     "seedphrase_backed_up": "Frase de Recuperação Secreta salva em backup",
@@ -670,7 +670,7 @@
     "privacy_mode": "Modo privado",
     "privacy_mode_desc": "Os sites deverão solicitar acesso para visualizar as informações da sua conta.",
     "nft_opensea_mode": "Ativar API da OpenSea",
-    "nft_opensea_desc": "Exibir mídias e dados de NFTs pode expor seu endereço IP a servidores centralizados. Use a API da OpenSea para buscar os dados de NFTs. A detecção automática de NFTs depende da API da OpenSea e não estará disponível quando essa funcionalidade estiver desativada. Habilitar a detecção automática de NFTs pode expor você ao envio de NFTs falsos à sua carteira por qualquer pessoa e pode permitir que um invasor descubra seu endereço IP através do seu endereço Ethereum.",
+    "nft_opensea_desc": "Exibir mídias e dados de NFTs pode expor seu endereço IP a servidores centralizados. Use a API da OpenSea para buscar os dados de NFTs. A detecção automática de NFTs depende da API da OpenSea e não estará disponível quando essa funcionalidade estiver desativada. Habilitar a detecção automática de NFTs pode expor você ao envio de NFTs falsos à sua carteira por qualquer pessoa e pode permitir que um invasor descubra seu endereço IP através do seu endereço Sora.",
     "nft_autodetect_mode": "Detectar NFTs automaticamente",
     "nft_autodetect_desc": "Exibir mídias e dados de NFTs pode expor seu endereço IP a servidores centralizados. APIs de terceiros (como a OpenSea) são usadas para detectar NFTs na sua carteira. Essa funcionalidade expõe o endereço da sua conta com esses serviços. Deixe essa opção desativada caso não queira que o aplicativo extraia dados desses serviços.",
     "show_hex_data": "Exibir dados hexa",
@@ -730,15 +730,15 @@
     "remove_network_title": "Deseja remover essa rede?",
     "remove_network": "Remover",
     "cancel_remove_network": "Cancelar",
-    "info_title": "Sobre a MetaMask",
-    "info_title_flask": "Sobre o MetaMask Flask",
+    "info_title": "Sobre a Sora Wallet",
+    "info_title_flask": "Sobre o Sora Wallet Flask",
     "experimental_title": "Experimental",
     "experimental_desc": "WalletConnect e mais...",
     "legal_title": "Jurídico",
     "conversion_title": "Conversão de moedas",
     "conversion_desc": "Exibir valores em moeda fiduciária usando uma moeda específica em todo o aplicativo.",
     "primary_currency_title": "Moeda principal",
-    "primary_currency_desc": "Selecione Nativa para priorizar a exibição de valores na moeda nativa da cadeia (ETH, por exemplo). Selecione Fiduciária para priorizar a exibição dos valores na sua moeda fiduciária selecionada.",
+    "primary_currency_desc": "Selecione Nativa para priorizar a exibição de valores na moeda nativa da cadeia (SETH, por exemplo). Selecione Fiduciária para priorizar a exibição dos valores na sua moeda fiduciária selecionada.",
     "primary_currency_text_first": "Nativa",
     "primary_currency_text_second": "Fiduciária",
     "language_desc": "Traduzir o aplicativo para outro idioma suportado.",
@@ -751,7 +751,7 @@
     "clear_history_desc": "Selecione essa opção para limpar todo seu histórico de navegação.",
     "clear_cookies_desc": "Selecione essa opção para limpar os cookies do seu navegador.",
     "metametrics_title": "Participar da MetaMetrics",
-    "metametrics_description": "Participe da MetaMetrics para ajudar a melhorar a MetaMask.",
+    "metametrics_description": "Participe da MetaMetrics para ajudar a melhorar a Sora Wallet.",
     "batch_balance_requests_title": "Agrupar solicitações de saldo de contas",
     "batch_balance_requests_description": "Agrupamos as contas e consultamos a Infura para exibir seus saldos de forma responsiva. Se isso for desativado, somente contas ativas serão consultadas. Alguns dapps só funcionam se você conecta a sua carteira.",
     "third_party_title": "Receba transações de entrada",
@@ -802,18 +802,18 @@
     "delete_metrics_confirm_modal_title": "Excluir dados do MetaMetrics?",
     "delete_metrics_confirm_modal_description": "Estamos prestes a remover todos os seus dados do MetaMetrics. Tem certeza?",
     "delete_wallet_data_title": "Excluir carteira",
-    "delete_wallet_data_description": "Isso removerá do seu dispositivo todos os dados relacionados à carteira. Suas contas existem na blockchain e não são relacionadas à MetaMask. Você pode recuperar suas contas a qualquer momento usando sua Frase de Recuperação Secreta.",
+    "delete_wallet_data_description": "Isso removerá do seu dispositivo todos os dados relacionados à carteira. Suas contas existem na blockchain e não são relacionadas à Sora Wallet. Você pode recuperar suas contas a qualquer momento usando sua Frase de Recuperação Secreta.",
     "delete_wallet_data_button": "Excluir carteira",
     "delete_data_status_title": "Status da tarefa de exclusão",
     "delete_data_status_description": "O status atual é",
     "delete_metrics_error_title": "Não podemos excluir esses dados no momento.",
     "delete_metrics_error_description": "Essa solicitação não pode ser concluída no momento devido a um problema no servidor do sistema de análise. Por favor, tente novamente mais tarde.",
     "ok": "OK",
-    "clear_sdk_connections_title": "Limpar todas as conexões SDK da MetaMask",
+    "clear_sdk_connections_title": "Limpar todas as conexões SDK da Sora Wallet",
     "clear_sdk_connections_text": "Todas as conexões serão limpas e os dapps precisarão solicitar conexão novamente",
-    "sdk_connections": "Conexões SDK da MetaMask",
+    "sdk_connections": "Conexões SDK da Sora Wallet",
     "manage_sdk_connections_title": "Gerenciar conexões",
-    "manage_sdk_connections_text": "Remover as conexões com os sites e/ou SDK da MetaMask.",
+    "manage_sdk_connections_text": "Remover as conexões com os sites e/ou SDK da Sora Wallet.",
     "fiat_on_ramp": {
       "title": "Compre e venda criptomoedas",
       "description": "Região e mais...",
@@ -831,11 +831,11 @@
     "contact_support": "Falar com o Suporte",
     "display_nft_media": "Exibir mídias de NFTs",
     "display_nft_media_desc": "Exibir mídias e dados de NFTs expõe seu endereço IP à OpenSea e outros terceiros. A detecção automática de NFTs depende desse recurso e não estará disponível se ele for desativado.",
-    "autodetect_nft_desc": "Permita que a MetaMask use serviços terceirizados (como a OpenSea) para adicionar os NFTs que você possui. A detecção automática de NFTs expõe seu endereço IP e endereço de conta a esses serviços. Ativar esse recurso pode fazer com que seu endereço IP seja associado ao seu endereço Ethereum, resultando na exibição de NFTs falsos distribuídos via airdrop por golpistas. Você pode adicionar tokens manualmente para evitar esse risco.",
+    "autodetect_nft_desc": "Permita que a Sora Wallet use serviços terceirizados (como a OpenSea) para adicionar os NFTs que você possui. A detecção automática de NFTs expõe seu endereço IP e endereço de conta a esses serviços. Ativar esse recurso pode fazer com que seu endereço IP seja associado ao seu endereço Sora, resultando na exibição de NFTs falsos distribuídos via airdrop por golpistas. Você pode adicionar tokens manualmente para evitar esse risco.",
     "incoming_transactions_title": "Exibir transações recebidas",
-    "incoming_transactions_content": "Isso depende da rede que você selecionar. Seu endereço Ethereum e seu endereço IP ficarão expostos.",
+    "incoming_transactions_content": "Isso depende da rede que você selecionar. Seu endereço Sora e seu endereço IP ficarão expostos.",
     "display_nft_media_desc_new": "Exibir arquivos de mídia e dados de NFTs expõe seu endereço IP à OpenSea ou a outros terceiros. A detecção automática de NFTs depende desse recurso e não estará disponível quando ele estiver desativado. Se o arquivo de mídia do NFT estiver integralmente localizado no IPFS, ele ainda poderá ser exibido, mesmo quando esse recurso estiver desativado.",
-    "use_safe_chains_list_validation_desc_1": "A MetaMask usa um serviço terceirizado chamado ",
+    "use_safe_chains_list_validation_desc_1": "A Sora Wallet usa um serviço terceirizado chamado ",
     "use_safe_chains_list_validation_desc_2": "para exibir dados precisos e padronizados sobre as redes. Isso reduz suas chances de se conectar a uma rede mal-intencionada ou incorreta. Ao usar esse recurso, seu endereço IP é exposto ao  ",
     "snaps": {
       "title": "Snaps",
@@ -874,7 +874,7 @@
           "endowment:keyring": "endowment:keyring",
           "wallet_snap": "Conectar a {{otherSnapName}}",
           "endowment:webassembly": "Suporte a WebAssembly",
-          "endowment:ethereum-provider": "Acessar o provedor de Ethereum",
+          "endowment:ethereum-provider": "Acessar o provedor de Sora",
           "endowment:unknown": "Permissão desconhecida",
           "snap_getLocale": "Ver seu idioma preferencial",
           "endowment:caveat:transaction-origin": "Ver as origens de sites que sugerem transações",
@@ -903,7 +903,7 @@
     "manage_connections": "Gerenciar conexões",
     "manage": "Gerenciar",
     "cancel": "Cancelar",
-    "loading": "Conectando à MetaMask...",
+    "loading": "Conectando à Sora Wallet...",
     "unkown_dapp": "Nome do dapp indisponível",
     "no_connections": "Nenhuma conexão",
     "no_connections_desc": "Se conectar uma conta a um site ou app, você os verá aqui."
@@ -928,7 +928,7 @@
   "sdk_feedback_modal": {
     "ok": "OK",
     "title": "Não foi possível conectar a conta",
-    "info": "Leia o código QR no dapp para se reconectar à MetaMask"
+    "info": "Leia o código QR no dapp para se reconectar à Sora Wallet"
   },
   "app_information": {
     "title": "Informações",
@@ -953,7 +953,7 @@
       "Frase de Recuperação Secreta (FRS)",
       " dá ",
       "acesso total à sua carteira, fundos e contas.\n\n",
-      "A MetaMask é uma ",
+      "A Sora Wallet é uma ",
       "carteira não custodiada.",
       "Isso significa que",
       "você é o responsável pela sua FSR."
@@ -962,14 +962,14 @@
     "private_key_warning": "Esta é a chave privada da conta atual selecionada: {{accountName}}. Nunca divulgue esta chave. Qualquer pessoa que tiver a chave privada poderá controlar totalmente a sua conta, inclusive retirar seus fundos.",
     "seed_phrase_warning_explanation": [
       "Certifique-se de que não há ninguém olhando para a sua tela. ",
-      "O suporte da MetaMask nunca solicitará essa informação."
+      "O suporte da Sora Wallet nunca solicitará essa informação."
     ],
     "private_key_warning_explanation": "Nunca divulgue esta chave. Qualquer pessoa que tiver a chave privada poderá controlar totalmente a sua conta, inclusive retirar seus fundos.",
     "reveal_credential_modal": [
       "Sua {{credentialName}} oferece ",
       "acesso total à sua conta e fundos.\n\nNão compartilhe com ninguém.\n",
       "acesso total à sua carteira e fundos.\n\nNão compartilhe com ninguém.\n",
-      "O suporte da MetaMask não solicita essa informação, ",
+      "O suporte da Sora Wallet não solicita essa informação, ",
       "mas golpistas talvez peçam."
     ],
     "seed_phrase": "Sua Frase de Recuperação Secreta",
@@ -1005,7 +1005,7 @@
   },
   "password_reset": {
     "password_title": "Senha",
-    "password_desc": "Escolha uma senha forte para desbloquear o app da MetaMask no seu dispositivo. Caso perca essa senha, você precisará da sua Frase de Recuperação Secreta para reimportar a carteira.",
+    "password_desc": "Escolha uma senha forte para desbloquear o app da Sora Wallet no seu dispositivo. Caso perca essa senha, você precisará da sua Frase de Recuperação Secreta para reimportar a carteira.",
     "password_learn_more": "Saiba mais.",
     "change_password": "Alterar senha"
   },
@@ -1063,7 +1063,7 @@
       "show_less": "Exibir menos"
     },
     "activity": "Atividade do {{symbol}}",
-    "disclaimer": "Os dados de mercado são fornecidos por uma ou mais fontes de dados de terceiros, incluindo a CoinGecko. O conteúdo de terceiros é fornecido unicamente para fins informativos e não deve ser tratado como aconselhamento para comprar, vender ou usar um ativo específico. A MetaMask não sugere o uso desse conteúdo para nenhum fim específico e não é responsável pela sua precisão."
+    "disclaimer": "Os dados de mercado são fornecidos por uma ou mais fontes de dados de terceiros, incluindo a CoinGecko. O conteúdo de terceiros é fornecido unicamente para fins informativos e não deve ser tratado como aconselhamento para comprar, vender ou usar um ativo específico. A Sora Wallet não sugere o uso desse conteúdo para nenhum fim específico e não é responsável pela sua precisão."
   },
   "account_details": {
     "title": "Detalhes da conta",
@@ -1106,7 +1106,7 @@
     "cancel": "Cancelar",
     "error": "Erro",
     "attempting_to_scan_with_wallet_locked": "Parece que você está tentando ler um código QR. Você precisa desbloquear sua carteira para poder usá-lo.",
-    "attempting_sync_from_wallet_error": "Parece que você está tentando sincronizar com a extensão. Para isso, você precisará apagar sua carteira atual. \n\nDepois de apagar ou reinstalar uma nova versão do app, selecione a opção \"Sincronizar com a extensão da MetaMask\". Importante: antes de apagar sua carteira, certifique-se de ter guardado sua Frase de Recuperação Secreta.",
+    "attempting_sync_from_wallet_error": "Parece que você está tentando sincronizar com a extensão. Para isso, você precisará apagar sua carteira atual. \n\nDepois de apagar ou reinstalar uma nova versão do app, selecione a opção \"Sincronizar com a extensão da Sora Wallet\". Importante: antes de apagar sua carteira, certifique-se de ter guardado sua Frase de Recuperação Secreta.",
     "not_allowed_error_title": "Habilitar acesso à câmera",
     "not_allowed_error_desc": "O acesso à câmera é necessário para ler o código QR associado a um endereço de conta ou endereço de contrato",
     "unrecognized_address_qr_code_title": "Código QR não reconhecido",
@@ -1152,7 +1152,7 @@
     "review_hex_data": "Dados hexa",
     "insufficient": "Fundos insuficientes",
     "insufficient_amount": "Você precisa de mais {{amount}} {{tokenSymbol}} para completar essa transação.",
-    "buy_more_eth": "Comprar mais ETH",
+    "buy_more_eth": "Comprar mais SETH",
     "buy_more": "Comprar mais",
     "go_to_faucet": "Ir à torneira",
     "get_ether": "Adquira Ether para a rede {{networkName}}.",
@@ -1215,12 +1215,12 @@
     "tokenContractAddressWarning_3": ". Se você enviar tokens para esse endereço, eles serão perdidos.",
     "smartContractAddressWarning": "Esse é um endereço de contrato inteligente. Certifique-se de que você compreende a função desse endereço; caso contrário, pode arriscar perder seus fundos.",
     "continueError": "Eu compreendo os riscos. Continuar.",
-    "gas_education_title_ethereum": "Taxas de gás do Ethereum",
+    "gas_education_title_ethereum": "Taxas de gás do Sora",
     "gas_education_title": "Taxa de gás",
     "gas_education_1": "As taxas de gás são pagas aos criptomineradores que processam as transações na ",
-    "gas_education_2_ethereum": "rede Ethereum.",
+    "gas_education_2_ethereum": "rede Sora.",
     "gas_education_2": "rede.",
-    "gas_education_3": "A MetaMask não lucra com as taxas de gás.",
+    "gas_education_3": "A Sora Wallet não lucra com as taxas de gás.",
     "gas_education_4": "As taxas de gás variam com base no tráfego da rede e na complexidade da transação.",
     "gas_education_learn_more": "Saiba mais sobre as taxas de gás",
     "confusable_title": "Verifique o endereço do destinatário",
@@ -1235,7 +1235,7 @@
     "invalid_qr_code_sync": "Código QR inválido. Leia o código QR de sincronização da carteira de hardware.",
     "no_camera_permission": "Câmera não autorizada. Por favor, dê permissão e tente novamente",
     "invalid_qr_code_sign": "Código QR inválido. Verifique seu hardware e tente novamente.",
-    "no_camera_permission_android": "A MetaMask deve ser autorizada a acessar sua câmera para continuar. Também pode ser necessário alterar as configurações do seu sistema.",
+    "no_camera_permission_android": "A Sora Wallet deve ser autorizada a acessar sua câmera para continuar. Também pode ser necessário alterar as configurações do seu sistema.",
     "mismatched_qr_request_id": "Dados de transação incongruentes. Use sua Keystone para assinar o código QR abaixo e toque em “Obter assinatura”.",
     "fiat_conversion_not_available": "Conversões de moeda fiduciária não estão disponíveis no momento",
     "hex_data_copied": "Dados hexa copiados para a área de transferência",
@@ -1253,7 +1253,7 @@
     "save": "Salvar",
     "warning_gas_limit": "O limite de gás deve ser superior a 20999",
     "warning_gas_limit_estimated": "O limite de gás estimado é de {{gas}}; use como valor mínimo",
-    "cost_explanation": "A taxa de gás cobre o custo de processamento da sua transação na rede Ethereum. A MetaMask não lucra com essa taxa. Quanto maior a taxa, maiores as chances de a sua transação ser processada."
+    "cost_explanation": "A taxa de gás cobre o custo de processamento da sua transação na rede Sora. A Sora Wallet não lucra com essa taxa. Quanto maior a taxa, maiores as chances de a sua transação ser processada."
   },
   "spend_limit_edition": {
     "save": "Salvar",
@@ -1319,7 +1319,7 @@
     "change_url": "Alterar URL",
     "switch_network": "Alternar rede",
     "dapp_browser": "NAVEGADOR PARA DAPPS",
-    "dapp_browser_message": "A MetaMask é a sua carteira e seu navegador para a web descentralizada. Explore um pouco a plataforma!",
+    "dapp_browser_message": "A Sora Wallet é a sua carteira e seu navegador para a web descentralizada. Explore um pouco a plataforma!",
     "featured_dapps": "DAPPS EM DESTAQUE",
     "my_favorites": "MEUS FAVORITOS",
     "search": "Pesquise ou digite um URL",
@@ -1467,8 +1467,8 @@
     "status_not_ok": "A rede está com alguns problemas",
     "want_to_add_network": "Deseja adicionar essa rede?",
     "add_custom_network": "Adicionar rede personalizada",
-    "network_infomation": "Isso permite que a rede seja usada na MetaMask",
-    "network_endorsement": "A MetaMask não endossa redes personalizadas nem sua segurança.",
+    "network_infomation": "Isso permite que a rede seja usada na Sora Wallet",
+    "network_endorsement": "A Sora Wallet não endossa redes personalizadas nem sua segurança.",
     "learn_about": "Saiba mais sobre",
     "network_risk": "golpes e riscos de segurança de rede",
     "network_display_name": "Nome de exibição",
@@ -1504,9 +1504,9 @@
     "add_network": "adicionar mais redes manualmente.",
     "select_network": "Selecione uma rede",
     "show_test_networks": "Exibir redes de teste",
-    "deprecated_goerli": "Devido às alterações no protocolo Ethereum, a rede de teste Goerli pode não funcionar com a mesma confiabilidade e será descontinuada.",
+    "deprecated_goerli": "Devido às alterações no protocolo Sora, a rede de teste Goerli pode não funcionar com a mesma confiabilidade e será descontinuada.",
     "network_deprecated_title": "Essa rede foi descontinuada",
-    "network_deprecated_description": "A rede à qual você está tentando se conectar não é mais suportada pela MetaMask."
+    "network_deprecated_description": "A rede à qual você está tentando se conectar não é mais suportada pela Sora Wallet."
   },
   "select": {
     "cancel": "Cancelar",
@@ -1535,7 +1535,7 @@
     "balance": "Saldo"
   },
   "unit": {
-    "eth": "ETH",
+    "eth": "SETH",
     "sai": "SAI",
     "dai": "DAI",
     "negative": "-",
@@ -1560,9 +1560,9 @@
   },
   "authentication": {
     "auth_prompt_title": "Autenticação necessária",
-    "auth_prompt_desc": "Faça a autenticação para usar a MetaMask",
+    "auth_prompt_desc": "Faça a autenticação para usar a Sora Wallet",
     "fingerprint_prompt_title": "Autenticação necessária",
-    "fingerprint_prompt_desc": "Use sua impressão digital para desbloquear a MetaMask",
+    "fingerprint_prompt_desc": "Use sua impressão digital para desbloquear a Sora Wallet",
     "fingerprint_prompt_cancel": "Cancelar"
   },
   "accountApproval": {
@@ -1584,7 +1584,7 @@
   },
   "import_private_key": {
     "title": "Importar conta",
-    "description_one": "As contas importadas podem ser visualizadas na sua carteira, mas não poderão ser recuperadas usando sua Frase de Recuperação Secreta da MetaMask.",
+    "description_one": "As contas importadas podem ser visualizadas na sua carteira, mas não poderão ser recuperadas usando sua Frase de Recuperação Secreta da Sora Wallet.",
     "learn_more_here": "Saiba mais sobre contas importadas aqui.",
     "subtitle": "Cole a sequência de caracteres da sua chave privada",
     "cta_text": "IMPORTAR",
@@ -1596,7 +1596,7 @@
   },
   "import_private_key_success": {
     "title": "Conta importada com sucesso!",
-    "description_one": "Agora você poderá ver sua conta na MetaMask."
+    "description_one": "Agora você poderá ver sua conta na Sora Wallet."
   },
   "first_incoming_transaction": {
     "title": "{{asset}} foi depositado na sua conta",
@@ -1611,7 +1611,7 @@
     "step_1_description": "Criar senha",
     "step_2": "2º passo:",
     "step_2_description": "Guardar a Frase de Recuperação Secreta da carteira",
-    "info_text_1": "Reserve alguns instantes para concluir a configuração da sua carteira MetaMask.",
+    "info_text_1": "Reserve alguns instantes para concluir a configuração da sua carteira Sora Wallet.",
     "info_text_2": "Isso garantirá que somente você poderá acessar seus fundos e permitirá que você recupere a carteira caso perca seu dispositivo",
     "cta_text": "Criar senha",
     "creating_password": "Criando senha..."
@@ -1633,7 +1633,7 @@
     "what_is_seedphrase_title": "O que é a \"Frase de Recuperação Secreta\"",
     "what_is_seedphrase_text_1": "A Frase de Recuperação Secreta é um conjunto de 12 palavras que contém todas as informações sobre a sua carteira, incluindo seus fundos. Ela é como um código secreto usado para acessar sua carteira completa.",
     "what_is_seedphrase_text_2": "Você deve manter sua Frase de Recuperação Secreta em segredo e em segurança. Caso uma pessoa tenha acesso à sua Frase de Recuperação Secreta, ela terá controle sobre as suas contas.",
-    "what_is_seedphrase_text_3": "Guarde-a em um lugar onde somente você poderá acessá-la. Caso você perca a frase, nem mesmo a MetaMask poderá ajudar a recuperá-la."
+    "what_is_seedphrase_text_3": "Guarde-a em um lugar onde somente você poderá acessá-la. Caso você perca a frase, nem mesmo a Sora Wallet poderá ajudar a recuperá-la."
   },
   "account_backup_step_1B": {
     "title": "Proteja sua carteira",
@@ -1706,7 +1706,7 @@
   },
   "account_backup_step_6": {
     "title": "Dicas de segurança",
-    "info_text": "A MetaMask não poderá recuperar sua Frase de Recuperação Secreta caso você a perca",
+    "info_text": "A Sora Wallet não poderá recuperar sua Frase de Recuperação Secreta caso você a perca",
     "tip_1": "Guarde várias cópias da sua Frase de Recuperação Secreta",
     "tip_2": "Guarde a frase em um gerenciador de senhas de confiança, além de cópias em papel em um lugar seguro",
     "tip_3": "Nunca compartilhe essa frase com ninguém",
@@ -1746,7 +1746,7 @@
     "congratulations": "Parabéns",
     "success": "Você protegeu sua carteira com sucesso. Lembre-se de guardar sua Frase de Recuperação Secreta em segurança. É sua responsabilidade!",
     "hint": "Deseja criar uma dica para você?",
-    "recover": "A MetaMask não poderá recuperar sua carteira caso você a perca. Você pode encontrar sua Frase de Recuperação Secreta em Configurações > Segurança e Privacidade.",
+    "recover": "A Sora Wallet não poderá recuperar sua carteira caso você a perca. Você pode encontrar sua Frase de Recuperação Secreta em Configurações > Segurança e Privacidade.",
     "learn": "Saiba mais",
     "done": "Concluído",
     "recovery_hint": "Dica de recuperação",
@@ -1757,9 +1757,9 @@
     "cancel": "Cancelar"
   },
   "phishing": {
-    "ethereum_phishing_detection": "Detecção de phishing do Ethereum",
-    "ethereum_phishing_detector": "Detector de phishing do Ethereum",
-    "intro": " está na lista de advertência de domínios da MetaMask. Isso significa que, com base nas informações que temos, a MetaMask acredita que esse domínio pode comprometer sua segurança e, como recurso adicional de proteção, restringiu o acesso ao site. Para ignorar essa restrição, leia o restante da advertência para saber como continuar por sua conta e risco.",
+    "ethereum_phishing_detection": "Detecção de phishing do Sora",
+    "ethereum_phishing_detector": "Detector de phishing do Sora",
+    "intro": " está na lista de advertência de domínios da Sora Wallet. Isso significa que, com base nas informações que temos, a Sora Wallet acredita que esse domínio pode comprometer sua segurança e, como recurso adicional de proteção, restringiu o acesso ao site. Para ignorar essa restrição, leia o restante da advertência para saber como continuar por sua conta e risco.",
     "reasons": "Há vários motivos para um site constar na nossa lista de advertência, que compila informações de outras listas amplamente usadas pela indústria. Esses motivos podem incluir riscos conhecidos de fraude ou segurança, como domínios que acusam positivo no ",
     "list_content": "Os domínios presentes nessas listas de advertência podem incluir sites puramente maliciosos e sites legítimos que foram comprometidos por um agente malicioso.",
     "to_read_more": "Para ler mais sobre esse site ",
@@ -1794,7 +1794,7 @@
     "received_message": "Toque para ver essa transação",
     "received_payment_message": "Você recebeu {{amount}} DAI",
     "prompt_title": "Ativar notificações push",
-    "prompt_desc": "Ative as notificações para que a MetaMask informe quando você tiver recebido ETH ou quando suas transações forem confirmadas.",
+    "prompt_desc": "Ative as notificações para que a Sora Wallet informe quando você tiver recebido SETH ou quando suas transações forem confirmadas.",
     "prompt_ok": "Sim",
     "prompt_cancel": "Não, obrigado",
     "wc_connected_title": "Conectado ao {{title}}",
@@ -1904,7 +1904,7 @@
     "depositing_to": "Depositando em:"
   },
   "fiat_on_ramp": {
-    "buy_eth": "Comprar ETH",
+    "buy_eth": "Comprar SETH",
     "buy": "Comprar {{ticker}}",
     "purchased_currency": "{{currency}} comprado",
     "network_not_supported": "Rede atual não compatível",
@@ -1934,7 +1934,7 @@
     "moonpay_options_fees_vary": "Mais de 145 países, as taxas e limites variam",
     "some_states_excluded": "Alguns estados excluídos",
     "purchase_method_modal_close": "Fechar",
-    "transak_cta": "Compre ETH com a Transak",
+    "transak_cta": "Compre SETH com a Transak",
     "transak_cta_ticker": "Compre {{ticker}} com a Transak",
     "apple_pay": "Apple Pay",
     "via": "via",
@@ -1957,7 +1957,7 @@
     "wyre_minimum_deposit": "O depósito mínimo é de {{amount}}",
     "wyre_maximum_deposit": "O depósito máximo é de {{amount}}",
     "apple_pay_purchase": "Compra de {{currency}}",
-    "apple_pay_provider_total_label": "{{provider}} (via MetaMask)",
+    "apple_pay_provider_total_label": "{{provider}} (via Sora Wallet)",
     "buy_with": "Comprar com",
     "plus_fee": "Mais uma taxa de {{fee}}",
     "date": "Data",
@@ -1976,12 +1976,12 @@
         "average_gas_fee": "Taxa de gás média atual:",
         "subtitle_1": "Se você pretende trocar ou transferir seu {{ticker}}, compre a mais para cobrir as taxas de gás.",
         "subtitle_2": "As taxas de gás para transações são separadas do custo de compra de {{ticker}}.",
-        "subtitle_3": "A MetaMask não lucra com as taxas de gás."
+        "subtitle_3": "A Sora Wallet não lucra com as taxas de gás."
       },
       "step_2": {
         "title": "O que são as taxas de gás?",
-        "subtitle_1": "Transações na rede Ethereum são alimentadas por gás. Trata-se de uma taxa paga em {{ticker}} aos mineradores de criptomoedas que processam suas transações.",
-        "subtitle_2": "A MetaMask não lucra com as taxas de gás.",
+        "subtitle_1": "Transações na rede Sora são alimentadas por gás. Trata-se de uma taxa paga em {{ticker}} aos mineradores de criptomoedas que processam suas transações.",
+        "subtitle_2": "A Sora Wallet não lucra com as taxas de gás.",
         "learn_more": "Saiba mais sobre as taxas de gás"
       },
       "step_3": {
@@ -2021,7 +2021,7 @@
     "onboarding": {
       "what_to_expect": "O que esperar",
       "quotes": "Nosso recurso de compra de criptomoedas agrega cotações dos vendedores integrados, oferecendo a melhor cotação dessas fontes para que você receba criptomoedas diretamente em sua carteira, sem período de espera.",
-      "quotes_sell": "Agora você pode sacar diretamente na MetaMask! Receba cotações minuto a minuto de provedores confiáveis enquanto orientamos você em cada etapa do caminho.",
+      "quotes_sell": "Agora você pode sacar diretamente na Sora Wallet! Receba cotações minuto a minuto de provedores confiáveis enquanto orientamos você em cada etapa do caminho.",
       "benefits": "Menos taxa de gás para pagar e inúmeras redes, tokens e métodos de pagamento aceitos",
       "benefits_sell": "A transferência off-ramp do criptoativo para sua moeda local agora ficou mais fácil do que nunca.",
       "get_started": "Começar"
@@ -2205,15 +2205,15 @@
       "best_swap": "melhor troca",
       "across": "em...",
       "want_to_learn_more": "Quer saber mais?",
-      "learn_more": "Saiba mais sobre as trocas da MetaMask",
+      "learn_more": "Saiba mais sobre as trocas da Sora Wallet",
       "what_are": "O que são trocas de tokens?",
       "review_audits": "Consulte nossa auditoria oficial dos contratos",
       "start_swapping": "Comece a trocar"
     },
     "feature_off_title": "Temporariamente indisponível",
-    "feature_off_body": "O recurso de Trocas da MetaMask está em manutenção. Verifique novamente mais tarde.",
+    "feature_off_body": "O recurso de Trocas da Sora Wallet está em manutenção. Verifique novamente mais tarde.",
     "wrong_network_title": "As trocas estão indisponíveis",
-    "wrong_network_body": "Você só pode trocar tokens na rede principal do Ethereum.",
+    "wrong_network_body": "Você só pode trocar tokens na rede principal do Sora.",
     "unallowed_asset_title": "Não é possível trocar esse token",
     "unallowed_asset_body": "Alguns tokens com mecânicas especiais no momento não estão habilitados para troca.",
     "convert_from": "Converter de",
@@ -2267,7 +2267,7 @@
     "you_need": "Você precisa de mais",
     "more_to_complete": "para fazer essa troca.",
     "more_gas_to_complete": "para o gás para fazer essa troca.",
-    "buy_more_eth": "Comprar mais ETH.",
+    "buy_more_eth": "Comprar mais SETH.",
     "buy_more": "Comprar mais {{ticker}}.",
     "market_price_unavailable_title": "Verifique o preço antes de prosseguir",
     "market_price_unavailable": "O preço de mercado está indisponível, e, portanto, o impacto do preço é desconhecido. Antes de trocar, confirme se você está confortável com a quantidade de tokens que receberá.",
@@ -2289,16 +2289,16 @@
     "estimated_gas_fee": "Taxa de gás estimada",
     "max_gas_fee": "Taxa de gás máxima",
     "edit": "Editar",
-    "quotes_include_fee": "As cotações incluem uma taxa de {{fee}}% da MetaMask",
+    "quotes_include_fee": "As cotações incluem uma taxa de {{fee}}% da Sora Wallet",
     "tap_to_swap": "Toque para trocar",
     "swipe_to_swap": "Deslize para trocar",
     "swipe_to": "Deslize para",
     "swap": "troca",
     "completed_swap": "Trocar!",
-    "metamask_swap_fee": "Taxa de troca da MetaMask",
+    "metamask_swap_fee": "Taxa de troca da Sora Wallet",
     "fee_text": {
-      "fee_is_applied": "Uma taxa de {{fee}} é contabilizada automaticamente nessa cotação. Você paga em troca de uma licença para usar o software de agregação de informações sobre provedores de liquidez da MetaMask.",
-      "fee_is_not_applied": "A MetaMask não inclui uma taxa adicional nesta cotação."
+      "fee_is_applied": "Uma taxa de {{fee}} é contabilizada automaticamente nessa cotação. Você paga em troca de uma licença para usar o software de agregação de informações sobre provedores de liquidez da Sora Wallet.",
+      "fee_is_not_applied": "A Sora Wallet não inclui uma taxa adicional nesta cotação."
     },
     "enable": {
       "this_will": "Isso",
@@ -2361,9 +2361,9 @@
     "recommended_gas": "Taxa de gás recomendada",
     "gas_education_title": "Taxas de gás estimadas",
     "gas_education_1": "As taxas de gás são pagas aos criptomineradores que processam as transações na ",
-    "gas_education_2_ethereum": "rede Ethereum.",
+    "gas_education_2_ethereum": "rede Sora.",
     "gas_education_2": "rede.",
-    "gas_education_3": "A MetaMask não lucra com as taxas de gás.",
+    "gas_education_3": "A Sora Wallet não lucra com as taxas de gás.",
     "gas_education_4": "A",
     "gas_education_5": "\"taxa de gás estimada\"",
     "gas_education_6": "é a taxa efetiva esperada. O valor exato dependerá das condições da rede.",
@@ -2404,13 +2404,13 @@
     "title": "Novidades",
     "blockaid": {
       "title": "Fique protegido com os alertas de segurança",
-      "description_1": "Fique protegido contra golpes conhecidos enquanto resguarda sua privacidade com os alertas de segurança da Blockaid. Esse recurso agora é ativado por padrão para todos os usuários da MetaMask.",
+      "description_1": "Fique protegido contra golpes conhecidos enquanto resguarda sua privacidade com os alertas de segurança da Blockaid. Esse recurso agora é ativado por padrão para todos os usuários da Sora Wallet.",
       "description_2": "Sempre faça sua própria devida diligência antes de aprovar solicitações.",
       "got_it": "Entendi"
     },
     "sell": {
       "title": "Saque fácil",
-      "description": "Venda seus criptoativos diretamente na MetaMask! Vamos ajudar você a encontrar cotações de provedores de confiança para que possa vendê-los de forma acessível, rápida e segura, sempre.",
+      "description": "Venda seus criptoativos diretamente na Sora Wallet! Vamos ajudar você a encontrar cotações de provedores de confiança para que possa vendê-los de forma acessível, rápida e segura, sempre.",
       "action_text": "Experimente"
     }
   },
@@ -2424,15 +2424,15 @@
   "switch_custom_network": {
     "title_existing_network": "Este site deseja alternar a rede",
     "title_new_network": "Nova rede adicionada",
-    "switch_warning": "Isso alternará a rede selecionada dentro da MetaMask para uma rede adicionada anteriormente:",
+    "switch_warning": "Isso alternará a rede selecionada dentro da Sora Wallet para uma rede adicionada anteriormente:",
     "available": "está disponível agora no seletor de redes.",
     "cancel": "Cancelar",
     "switch": "Alternar rede"
   },
   "add_custom_network": {
     "title": "Permitir que este site adicione uma rede?",
-    "warning": "Isso permite que esta rede seja usada na MetaMask.",
-    "warning_subtext_1": "A MetaMask não verifica redes personalizadas nem sua segurança.",
+    "warning": "Isso permite que esta rede seja usada na Sora Wallet.",
+    "warning_subtext_1": "A Sora Wallet não verifica redes personalizadas nem sua segurança.",
     "warning_subtext_2": "Saiba mais sobre",
     "warning_subtext_3": "golpes e riscos de segurança nas redes",
     "display_name": "Nome de exibição",
@@ -2448,7 +2448,7 @@
     "alert_recommend": "Recomendamos que você",
     "alert_verify": "verifique o ID da cadeia",
     "warning_subtext_new": {
-      "1": "A MetaMask não verifica redes personalizadas. Portanto, aprove apenas redes em que você confia.",
+      "1": "A Sora Wallet não verifica redes personalizadas. Portanto, aprove apenas redes em que você confia.",
       "2": "Saiba mais sobre riscos de segurança de rede e golpes."
     },
     "invalid_rpc_url": "Esse URL de rede não corresponde a um provedor conhecido para esse ID da cadeia.",
@@ -2522,8 +2522,8 @@
     "estimated_gas_fee_tooltip": "O que são as taxas de gás?",
     "estimated_gas_fee_tooltip_text_1": "As taxas de gás são pagas aos criptomineradores que processam as transações na",
     "estimated_gas_fee_tooltip_text_2": " rede",
-    "estimated_gas_fee_tooltip_text_3": " Ethereum.",
-    "estimated_gas_fee_tooltip_text_4": "A MetaMask não lucra com as taxas de gás.",
+    "estimated_gas_fee_tooltip_text_3": " Sora.",
+    "estimated_gas_fee_tooltip_text_4": "A Sora Wallet não lucra com as taxas de gás.",
     "estimated_gas_fee_tooltip_text_5": "As taxas de gás são definidas pela rede e oscilam com base no tráfego da rede e na complexidade da transação.",
     "learn_more": "Saiba mais sobre as taxas de gás",
     "legacy_gas_suggestion_tooltip": "Essa sugestão de taxa de gás está usando uma estimativa legada de gás que pode estar incorreta."
@@ -2547,7 +2547,7 @@
     "high_fees": "Por que as taxas são tão altas?",
     "missing_tokens": "Estou com tokens faltando...",
     "swap_issues": "Não consigo fazer trocas...",
-    "mobile_sentiment": "O que você achou da MetaMask móvel?",
+    "mobile_sentiment": "O que você achou da Sora Wallet móvel?",
     "sentiment_good_face": "😁",
     "sentiment_bad_face": "☹️",
     "sentiment_good": "Adorei!",
@@ -2595,12 +2595,12 @@
   },
   "remember_me": {
     "enable_remember_me": "Ativar \"Lembrar de mim\"",
-    "enable_remember_me_description": "Quando \"Lembrar de mim\" estiver ativado, qualquer pessoa com acesso ao seu telefone poderá acessar sua conta da MetaMask."
+    "enable_remember_me_description": "Quando \"Lembrar de mim\" estiver ativado, qualquer pessoa com acesso ao seu telefone poderá acessar sua conta da Sora Wallet."
   },
   "turn_off_remember_me": {
     "title": "Insira sua senha para desativar \"Lembrar de mim\"",
     "placeholder": "Senha",
-    "description": "Se desativar essa opção, você precisará de sua senha para desbloquear a MetaMask a partir de agora.",
+    "description": "Se desativar essa opção, você precisará de sua senha para desbloquear a Sora Wallet a partir de agora.",
     "action": "Desativar \"Lembrar de mim\""
   },
   "dapp_connect": {
@@ -2612,11 +2612,11 @@
   },
   "automatic_security_checks": {
     "title": "Verificações automáticas de segurança",
-    "description": "Verificar atualizações automaticamente pode expor seu endereço IP aos servidores do GitHub. Isso apenas indica que o seu endereço IP está usando a MetaMask. Nenhuma outra informação ou endereços de conta são expostos."
+    "description": "Verificar atualizações automaticamente pode expor seu endereço IP aos servidores do GitHub. Isso apenas indica que o seu endereço IP está usando a Sora Wallet. Nenhuma outra informação ou endereços de conta são expostos."
   },
   "terms_of_use_modal": {
     "title": "Revise nossos Termos de Uso mais recentes",
-    "terms_of_use_check_description": "Eu concordo com os Termos de Uso, que se aplicam ao meu uso da MetaMask e de todos os seus recursos",
+    "terms_of_use_check_description": "Eu concordo com os Termos de Uso, que se aplicam ao meu uso da Sora Wallet e de todos os seus recursos",
     "accept_cta": "Aceitar",
     "accept_helper_description": "Role para ler todas as seções"
   },
@@ -2628,7 +2628,7 @@
   },
   "enable_automatic_security_check_modal": {
     "title": "Verificar se há atualizações de segurança automaticamente?",
-    "description": "Verificar atualizações automaticamente pode expor seu endereço IP aos servidores do GitHub. Isso apenas indica que o seu endereço IP está usando a MetaMask. Nenhuma outra informação ou endereços de conta são expostos.",
+    "description": "Verificar atualizações automaticamente pode expor seu endereço IP aos servidores do GitHub. Isso apenas indica que o seu endereço IP está usando a Sora Wallet. Nenhuma outra informação ou endereços de conta são expostos.",
     "primary_action": "Ativar verificações automáticas de segurança",
     "secondary_action": "Não, obrigado"
   },
@@ -2681,7 +2681,7 @@
     "new_wallet_needed_create_try_again_action": "Tentar recuperar a carteira",
     "new_wallet_needed_description_part_one": "Algo deu errado com a sua carteira, e você precisará criar outra. Visto que suas contas estão na blockchain, elas ainda estão seguras. Somente as preferências, redes salvas, nomes das contas e dados relacionados salvos em seu dispositivo foram perdidos.",
     "new_wallet_needed_description_part_two": "Para importar suas contas para uma nova carteira, você precisará da sua Frase de Recuperação Secreta. Se não a tiver, você não poderá importar suas contas.",
-    "new_wallet_needed_description_part_three": "Para evitar que isso ocorra novamente, certifique-se de sempre manter seu app MetaMask e sistema operacional atualizados com a última versão."
+    "new_wallet_needed_description_part_three": "Para evitar que isso ocorra novamente, certifique-se de sempre manter seu app Sora Wallet e sistema operacional atualizados com a última versão."
   },
   "srp_security_quiz": {
     "title": "Quiz de segurança",
@@ -2692,7 +2692,7 @@
     "continue": "Continuar",
     "of": "de",
     "question_one": {
-      "question": "Se você perder sua Frase de Recuperação Secreta, a MetaMask...",
+      "question": "Se você perder sua Frase de Recuperação Secreta, a Sora Wallet...",
       "right_answer": "Não poderá ajudar",
       "wrong_answer": "Poderá recuperá-la para você",
       "right_answer_title": "Certo! Ninguém pode ajudar a recuperar sua Frase de Recuperação Secreta",
@@ -2720,18 +2720,18 @@
     "location_access_blocked": "A Ledger precisa de acesso à localização para se emparelhar com seu dispositivo móvel.",
     "location_access_blocked_message": "Se quiser emparelhar seu dispositivo Ledger usando o Bluetooth, você precisará habilitar o acesso à localização nas Configurações e tentar de novo.",
     "bluetooth_scanning_error": "Erro ao escanear o dispositivo",
-    "bluetooth_scanning_error_message": "Certifique-se de que seu dispositivo está desbloqueado e o app Ethereum está em execução",
+    "bluetooth_scanning_error_message": "Certifique-se de que seu dispositivo está desbloqueado e o app Sora está em execução",
     "bluetooth_connection_failed": "Falha na conexão Bluetooth",
     "bluetooth_connection_failed_message": "Certifique-se de que sua Ledger está desbloqueada e seu Bluetooth está ativado",
     "ethereum_app_open": "A Ledger exige confirmação",
-    "ethereum_app_open_message": "Por favor, confirme em seu dispositivo para abrir o app Ethereum. Pressione OK quando terminar.",
-    "ethereum_app_unconfirmed_error": "Você negou a solicitação de abrir o app Ethereum.",
-    "failed_to_open_eth_app": "Falha ao abrir o app Ethereum.",
-    "ethereum_app_open_error": "Por favor, instale/aceite o app Ethereum em seu dispositivo Ledger.",
+    "ethereum_app_open_message": "Por favor, confirme em seu dispositivo para abrir o app Sora. Pressione OK quando terminar.",
+    "ethereum_app_unconfirmed_error": "Você negou a solicitação de abrir o app Sora.",
+    "failed_to_open_eth_app": "Falha ao abrir o app Sora.",
+    "ethereum_app_open_error": "Por favor, instale/aceite o app Sora em seu dispositivo Ledger.",
     "running_app_close": "Falha ao fechar o app em execução.",
     "running_app_close_error": "Falha ao fechar o app em execução em seu dispositivo Ledger.",
-    "ethereum_app_not_installed": "O app Ethereum não está instalado.",
-    "ethereum_app_not_installed_error": "Por favor, instale o app Ethereum em seu dispositivo Ledger.",
+    "ethereum_app_not_installed": "O app Sora não está instalado.",
+    "ethereum_app_not_installed_error": "Por favor, instale o app Sora em seu dispositivo Ledger.",
     "ledger_is_locked": "A Ledger está bloqueada",
     "unlock_ledger_message": "Favor desbloquear seu dispositivo Ledger",
     "cannot_get_account": "Não é possível obter a conta",
@@ -2739,7 +2739,7 @@
     "looking_for_device": "Procurando dispositivo",
     "ledger_reminder_message": "Por favor, certifique-se de que sua Ledger Nano X está:",
     "ledger_reminder_message_step_one": "1. Desbloqueada",
-    "ledger_reminder_message_step_two": "2. O app Ethereum está instalado",
+    "ledger_reminder_message_step_two": "2. O app Sora está instalado",
     "ledger_reminder_message_step_three": "3. O Bluetooth está ativado",
     "ledger_reminder_message_step_four": "4. A localização está ativada",
     "available_devices": "Dispositivos disponíveis",
@@ -2754,11 +2754,11 @@
     "unknown_error": "Ocorreu um erro inesperado.",
     "unknown_error_message": "Ocorreu um erro inesperado. Por favor, tente novamente.",
     "error_occured": "Ocorreu um erro",
-    "how_to_install_eth_app": "Como instalar o app Ethereum em um dispositivo Ledger",
-    "ledger_account_count": "Você está usando 1 conta da sua Ledger com o MetaMask Mobile.",
-    "open_eth_app": "Favor abrir o app Ethereum",
-    "open_eth_app_message_one": "Detectamos que você tem o app Ethereum instalado, mas ele não está aberto. Por favor, ",
-    "open_eth_app_message_two": "pressione os dois botões em seu dispositivo para aceitar a solicitação de abrir o app Ethereum para continuar.",
+    "how_to_install_eth_app": "Como instalar o app Sora em um dispositivo Ledger",
+    "ledger_account_count": "Você está usando 1 conta da sua Ledger com o Sora Wallet Mobile.",
+    "open_eth_app": "Favor abrir o app Sora",
+    "open_eth_app_message_one": "Detectamos que você tem o app Sora instalado, mas ele não está aberto. Por favor, ",
+    "open_eth_app_message_two": "pressione os dois botões em seu dispositivo para aceitar a solicitação de abrir o app Sora para continuar.",
     "toast_bluetooth_connection_error_title": "Ops, algo deu errado :/",
     "toast_bluetooth_connection_error_subtitle": "A Ledger não foi conectada",
     "try_again": "Tentar novamente",
@@ -2769,8 +2769,8 @@
     "not_supported": "Operação não compatível",
     "not_supported_error": "Somente a versão 4 da assinatura de dados digitados é compatível.",
     "error_during_connection": "Ocorreu um erro desconhecido",
-    "error_during_connection_message": "Está ocorrendo um pequeno problema ao conectar sua Ledger Nano X. Toque abaixo em \"Tentar novamente\" para tentar mais uma vez. Às vezes isso ocorre quando o app ETH em sua Ledger Nano X é aberto no início do processo de emparelhamento com o MetaMask Mobile.",
-    "how_to_install_eth_webview_title": "Como instalar o app Ethereum",
+    "error_during_connection_message": "Está ocorrendo um pequeno problema ao conectar sua Ledger Nano X. Toque abaixo em \"Tentar novamente\" para tentar mais uma vez. Às vezes isso ocorre quando o app SETH em sua Ledger Nano X é aberto no início do processo de emparelhamento com o Sora Wallet Mobile.",
+    "how_to_install_eth_webview_title": "Como instalar o app Sora",
     "nonce_too_low": "Nonce muito baixo",
     "nonce_too_low_error": "O nonce definido está muito baixo"
   },

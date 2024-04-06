@@ -61,14 +61,14 @@
   },
   "onboarding": {
     "title": "ウォレットのセットアップ",
-    "sync_desc": "すでにMetaMask拡張機能または別のウォレットをお持ちの場合は、既存のアセットを管理できるよう同期またはインポートしてください。",
+    "sync_desc": "すでにSora Wallet拡張機能または別のウォレットをお持ちの場合は、既存のアセットを管理できるよう同期またはインポートしてください。",
     "create_desc": "最初のウォレットを設定して分散型アプリを使い始めましょう。",
     "import": "既存のウォレットをインポートするか、新しいウォレットを作成してください",
     "import_wallet_button": "ウォレットを同期またはインポート",
     "new_to_crypto": "暗号資産は初めてですか？",
     "start_exploring_now": "新規ウォレットを作成",
     "unlock": "ロックを解除",
-    "new_to_metamask": "MetaMaskを初めてご利用ですか？",
+    "new_to_metamask": "Sora Walletを初めてご利用ですか？",
     "already_have_wallet": "すでにウォレットをお持ちですか？",
     "optin_back_title": "ご注意！",
     "optin_back_desc": "データ分析の使用に同意または拒否してください。このオプションは設定で更新することもできます。",
@@ -76,15 +76,15 @@
     "warning_text_1": "続行した場合、",
     "warning_text_2": "現在のウォレットとアカウントは",
     "warning_text_3": "削除されます。",
-    "warning_text_4": "ウォレットのシークレットリカバリーフレーズでしか復元できません。MetaMaskは復元をお手伝いできません。",
+    "warning_text_4": "ウォレットのシークレットリカバリーフレーズでしか復元できません。Sora Walletは復元をお手伝いできません。",
     "warning_proceed": "ウォレットを削除して先に進む",
     "warning_cancel": "キャンセル",
     "step1": "ウォレットのセットアップ",
     "step2": "パスワードを作成",
     "step3": "ウォレットの安全を確保",
     "already_have": "すでにウォレットをお持ちですか？",
-    "sync_existing": "既存のMetaMaskウォレットをブラウザの拡張機能から同期するか、手動でインポートしてください。",
-    "scan_title": "MetaMask拡張機能と同期させる方法",
+    "sync_existing": "既存のSora Walletウォレットをブラウザの拡張機能から同期するか、手動でインポートしてください。",
+    "scan_title": "Sora Wallet拡張機能と同期させる方法",
     "scan": "スキャン",
     "scan_step_1": "デスクトップで拡張機能を開きます",
     "scan_step_2": "「設定」>「高度な設定」に移動します",
@@ -95,12 +95,12 @@
     "delete_current": "現在のウォレットを削除しています"
   },
   "onboarding_carousel": {
-    "title1": "MetaMaskへようこそ",
+    "title1": "Sora Walletへようこそ",
     "title2": "デジタル資産の管理",
     "title3": "Web3へのゲートウェイ",
-    "subtitle1": "多くのユーザーを持つMetaMaskは、すべての人にWeb3への門戸を開く安全なウォレットです。",
+    "subtitle1": "多くのユーザーを持つSora Walletは、すべての人にWeb3への門戸を開く安全なウォレットです。",
     "subtitle2": "トークン、イーサリアム、ユニークなコレクティブルなどのデジタル資産を保管、使用、転送できます。",
-    "subtitle3": "MetaMaskにログインすることで、投資、収益の獲得、売却、ゲームなどのトランザクションを行うことができます。",
+    "subtitle3": "Sora Walletにログインすることで、投資、収益の獲得、売却、ゲームなどのトランザクションを行うことができます。",
     "get_started": "開始"
   },
   "onboarding_wizard": {
@@ -113,8 +113,8 @@
     },
     "step1": {
       "title": "新しいウォレットへようこそ！",
-      "content1": "ブロックチェーンを利用するにはウォレットが必要です！アクションによっては イーサ (ETH) が必要なものもあります。",
-      "content2": "ETHの購入方法をご案内します。また、友達にリクエストすることもできます。"
+      "content1": "ブロックチェーンを利用するにはウォレットが必要です！アクションによっては イーサ (SETH) が必要なものもあります。",
+      "content2": "SETHの購入方法をご案内します。また、友達にリクエストすることもできます。"
     },
     "step2": {
       "title": "お客様のアカウント",
@@ -130,7 +130,7 @@
     "step4": {
       "title": "メインメニュー",
       "content1": "このメニューからトランザクション履歴、設定、サポートにアクセスできます。",
-      "content2": "アカウントで他のアクションを実行したり、MetaMaskの設定にアクセスしたりできます。"
+      "content2": "アカウントで他のアクションを実行したり、Sora Walletの設定にアクセスしたりできます。"
     },
     "step5": {
       "title": "ブラウザの使用",
@@ -149,7 +149,7 @@
     },
     "step1": {
       "title": "ウォレットへようこそ！",
-      "content1": "ブロックチェーンではウォレット (およびいくらかのETH) が必要なため、MetaMaskウォレットの使い方を説明します。"
+      "content1": "ブロックチェーンではウォレット (およびいくらかのSETH) が必要なため、Sora Walletウォレットの使い方を説明します。"
     },
     "step2": {
       "title": "アカウント",
@@ -177,14 +177,14 @@
     "subtitle": "少しだけお待ちください"
   },
   "import_wallet": {
-    "title": "すでにMetaMaskをご使用ですか？",
+    "title": "すでにSora Walletをご使用ですか？",
     "sub_title": "拡張機能との同期",
     "sync_help": "拡張機能とウォレットを同期します",
     "sync_help_step_one": "1. 拡張機能を開きます",
     "sync_help_step_two": "2. 「設定」>「詳細設定」に移動します",
     "sync_help_step_three": "3. 「モバイルと同期」をクリックします",
     "sync_help_step_four": "4. QRコードをスキャンして同期を開始します",
-    "sync_from_browser_extension_button": "MetaMask拡張機能と同期",
+    "sync_from_browser_extension_button": "Sora Wallet拡張機能と同期",
     "or": "または",
     "import_from_seed_button": "シークレットリカバリーフレーズを使用してインポートします"
   },
@@ -204,13 +204,13 @@
     "this_action": "この操作は元に戻せません。",
     "you_can_only": "このウォレットを復元するには",
     "recovery_phrase": "シークレットリカバリーフレーズを使用するしかありません",
-    "metamask_does_not": "MetaMaskはお客様のシークレットリカバリーフレーズを把握していません。",
+    "metamask_does_not": "Sora Walletはお客様のシークレットリカバリーフレーズを把握していません。",
     "i_understand": "理解したうえで続けます",
     "passcode_not_set_error": "エラー: パスコードが設定されていません。",
     "wrong_password_error": "エラー: 解読に失敗しました",
     "wrong_password_error_android": "エラー: error:1e000065:Cipher functions:OPENSSL_internal:BAD_DECRYPT",
     "vault_error": "エラー: 以前のボールトなしにロックを解除できません。",
-    "clean_vault_error": "ストレージの制限に達したためMetaMaskでエラーが発生しました。ローカルデータが破損しています。MetaMaskを再インストールして、シークレットリカバリーフレーズで復元してください。",
+    "clean_vault_error": "ストレージの制限に達したためSora Walletでエラーが発生しました。ローカルデータが破損しています。Sora Walletを再インストールして、シークレットリカバリーフレーズで復元してください。",
     "security_alert_title": "セキュリティアラート",
     "security_alert_desc": "先に進むには、パスコードもしくはデバイスが対応している生体認証方法 (FaceID、TouchID、または指紋) をオンにする必要があります"
   },
@@ -227,7 +227,7 @@
   },
   "choose_password": {
     "title": "パスワードを作成",
-    "subtitle": "このパスワードはこのデバイスでのみMetaMaskウォレットのロックを解除します。",
+    "subtitle": "このパスワードはこのデバイスでのみSora Walletウォレットのロックを解除します。",
     "password": "新しいパスワード",
     "confirm_password": "パスワードの確認",
     "create_button": "パスワードを作成",
@@ -245,7 +245,7 @@
     "remember_me": "認証情報を保存",
     "security_alert_title": "セキュリティアラート",
     "security_alert_message": "先に進むには、パスコードもしくはデバイスが対応している生体認証方法 (FaceID、TouchID、または指紋) をオンにする必要があります",
-    "i_understand": "MetaMaskがこのパスワードを復元できないことを理解しています。",
+    "i_understand": "Sora Walletがこのパスワードを復元できないことを理解しています。",
     "learn_more": "詳細。",
     "secure": "ウォレットの安全を確保",
     "confirm": "シークレットリカバリーフレーズの確認",
@@ -253,7 +253,7 @@
   },
   "reset_password": {
     "title": "パスワードを変更",
-    "subtitle": "このパスワードはこのデバイスでのみMetaMaskウォレットのロックを解除します。",
+    "subtitle": "このパスワードはこのデバイスでのみSora Walletウォレットのロックを解除します。",
     "password": "新しいパスワード",
     "confirm_password": "パスワードの確認",
     "reset_button": "パスワードをリセット",
@@ -271,7 +271,7 @@
     "remember_me": "認証情報を保存",
     "security_alert_title": "セキュリティアラート",
     "security_alert_message": "先に進むには、パスコードもしくはデバイスが対応している生体認証方法 (FaceID、TouchID、または指紋) をオンにする必要があります",
-    "i_understand": "MetaMaskがこのパスワードを復元できないことを理解しています。",
+    "i_understand": "Sora Walletがこのパスワードを復元できないことを理解しています。",
     "learn_more": "詳細。",
     "secure": "ウォレットの安全を確保",
     "confirm": "シークレットリカバリーフレーズの確認",
@@ -321,7 +321,7 @@
     "lock_ok": "はい",
     "lock_cancel": "いいえ",
     "feedback": "フィードバック",
-    "metamask_support": "MetaMaskサポート",
+    "metamask_support": "Sora Walletサポート",
     "public_address": "パブリックアドレス"
   },
   "send": {
@@ -373,7 +373,7 @@
     "no_tokens": "トークンがありません！",
     "no_nfts_yet": "まだNFTがありません",
     "nfts_autodetection_title": "NFTの検出",
-    "nfts_autodetection_desc": "MetaMaskがOpenSeaからNFTを自動検出し、MetaMaskウォレットに表示できるように許可してください。",
+    "nfts_autodetection_desc": "Sora WalletがOpenSeaからNFTを自動検出し、Sora Walletウォレットに表示できるように許可してください。",
     "network_details_check": "ネットワーク情報の確認",
     "network_with_chain_id": "チェーンIDを持つネットワーク",
     "potential_scam": "これは詐欺の可能性があります",
@@ -467,15 +467,15 @@
   "privacy_policy": {
     "title": "プライバシーポリシー",
     "fine_print_1": "一般データ保護規則 (EU) 2016/679の目的に従い、このデータは集約され匿名化されます。",
-    "fine_print_2a": "*MetaMaskでInfuraをデフォルトのRPCプロバイダーとして使用する場合、Infuraはトランザクションの送信時にユーザーのIPアドレスおよびイーサリアムウォレットアドレスを収集します。当社がこれらの情報を、システムによりこれら2つのデータが関連付けられる形で保管することはありません。続行する前に、RPCプロバイダーを構成できます。",
-    "fine_print_2b": "データ収集の観点におけるMetaMaskとInfuraのやり取りに関する詳細は、最新情報をご覧ください。",
+    "fine_print_2a": "*Sora WalletでInfuraをデフォルトのRPCプロバイダーとして使用する場合、Infuraはトランザクションの送信時にユーザーのIPアドレスおよびイーサリアムウォレットアドレスを収集します。当社がこれらの情報を、システムによりこれら2つのデータが関連付けられる形で保管することはありません。続行する前に、RPCプロバイダーを構成できます。",
+    "fine_print_2b": "データ収集の観点におけるSora WalletとInfuraのやり取りに関する詳細は、最新情報をご覧ください。",
     "fine_print_2c": "当社のプライバシー慣行全般に関する詳細は、プライバシーポリシーをご覧ください。",
     "here": "こちらのプライバシーポリシーをご覧ください",
     "agree": "同意する",
     "decline": "同意しない",
-    "description_title": "MetaMaskの改善にご協力ください",
-    "description_content_1": "MetaMaskは、ユーザーがモバイルアプリをどのように利用しているのかをより詳しく把握するため、基本的な使用状況データを収集したいと考えています。このデータは、製品の使いやすさとユーザーエクスペリエンスを引き続き改善するために使用されます。",
-    "description_content_2": "MetaMaskは...",
+    "description_title": "Sora Walletの改善にご協力ください",
+    "description_content_1": "Sora Walletは、ユーザーがモバイルアプリをどのように利用しているのかをより詳しく把握するため、基本的な使用状況データを収集したいと考えています。このデータは、製品の使いやすさとユーザーエクスペリエンスを引き続き改善するために使用されます。",
+    "description_content_2": "Sora Walletは...",
     "action_description_1": "ユーザーが設定でいつでもオプトアウトできるようにしています",
     "action_description_2": "匿名のクリック・ページ閲覧情報を送信します",
     "action_description_3": "国、地域、市区町村データ (具体的な場所を除く) のデータを送信します",
@@ -575,7 +575,7 @@
     "learn_more": "詳細",
     "advisory_by": "イーサリアムフィッシング検知システムとPhishFortからの忠告",
     "potential_threat": "潜在的な脅威には次のものが含まれます",
-    "fake_metamask": "MetaMaskの偽バージョン",
+    "fake_metamask": "Sora Walletの偽バージョン",
     "srp_theft": "シークレットリカバリーフレーズまたはパスワードの窃取",
     "malicious_transactions": "資産の窃取に繋がる悪質なトランザクション"
   },
@@ -617,7 +617,7 @@
     "current_conversion": "ベース通貨",
     "current_language": "現在の言語",
     "ipfs_gateway": "IPFSゲートウェイ",
-    "ipfs_gateway_content": "MetaMaskは、サードパーティサービスを使用して、IPFSに保管されているNFTの画像の表示、ブラウザのアドレスバーに入力されたENSアドレスに関する情報の表示、様々なトークンのアイコンの取得を行います。これらのサービスの使用時には、IPアドレスが当該サービスに公開される可能性があります。",
+    "ipfs_gateway_content": "Sora Walletは、サードパーティサービスを使用して、IPFSに保管されているNFTの画像の表示、ブラウザのアドレスバーに入力されたENSアドレスに関する情報の表示、様々なトークンのアイコンの取得を行います。これらのサービスの使用時には、IPアドレスが当該サービスに公開される可能性があります。",
     "ipfs_gateway_down": "現在のIPFSゲートウェイがダウンしています",
     "ipfs_gateway_desc": "優先IPFSゲートウェイを選択してください。",
     "search_engine": "検索エンジン",
@@ -626,7 +626,7 @@
     "add_network_title": "ネットワークを追加",
     "auto_lock": "自動ロック",
     "auto_lock_desc": "アプリケーションが自動的にロックされるまでの時間を選択してください。",
-    "state_logs_desc": "これはMetaMaskが問題のデバッグを行ううえで参考になります。「ハンバーガーアイコン」>「フィードバックを送信」から、またはチケットがある場合はそのチケットに返信して、MetaMaskサポートまでお送りください。",
+    "state_logs_desc": "これはSora Walletが問題のデバッグを行ううえで参考になります。「ハンバーガーアイコン」>「フィードバックを送信」から、またはチケットがある場合はそのチケットに返信して、Sora Walletサポートまでお送りください。",
     "autolock_immediately": "すぐに",
     "autolock_never": "しない",
     "autolock_after": "{{time}}秒後",
@@ -660,7 +660,7 @@
     "protect_title": "ウォレットを保護",
     "video_failed": "動画を読み込めませんでした。",
     "protect_desc": "紙やパスワードマネージャー、クラウドなど、さまざまな場所にシークレットリカバリーフレーズを保管して、ウォレットを守りましょう。",
-    "protect_desc_no_backup": "これは12の単語からなるウォレット専用のフレーズです。このフレーズはウォレットの資金の送金を含む、現在と未来のすべてのアカウントのコントロールに使用できます。このフレーズを安全に保管し、他人に絶対に教えないでください。MetaMaskはこのキーの復元をお手伝いできません。",
+    "protect_desc_no_backup": "これは12の単語からなるウォレット専用のフレーズです。このフレーズはウォレットの資金の送金を含む、現在と未来のすべてのアカウントのコントロールに使用できます。このフレーズを安全に保管し、他人に絶対に教えないでください。Sora Walletはこのキーの復元をお手伝いできません。",
     "learn_more": "詳細。",
     "seedphrase_not_backed_up": "重要！シークレットリカバリーフレーズがバックアップされていません",
     "seedphrase_backed_up": "シークレットリカバリーフレーズのバックアップ",
@@ -730,15 +730,15 @@
     "remove_network_title": "このネットワークを削除しますか？",
     "remove_network": "削除",
     "cancel_remove_network": "キャンセル",
-    "info_title": "MetaMaskについて",
-    "info_title_flask": "MetaMask Flaskについて",
+    "info_title": "Sora Walletについて",
+    "info_title_flask": "Sora Wallet Flaskについて",
     "experimental_title": "試験運用",
     "experimental_desc": "WalletConnectなど...",
     "legal_title": "法的情報",
     "conversion_title": "通貨換算",
     "conversion_desc": "アプリケーション全体で特定の通貨を使って法定通貨の金額を表示します。",
     "primary_currency_title": "主要通貨",
-    "primary_currency_desc": "「ネイティブ」を選択すると、チェーンのネイティブ通貨 (ETHなど) での値が優先的に表示されます。「法定通貨」を選択すると、選択した法定通貨での値が優先的に表示されます。",
+    "primary_currency_desc": "「ネイティブ」を選択すると、チェーンのネイティブ通貨 (SETHなど) での値が優先的に表示されます。「法定通貨」を選択すると、選択した法定通貨での値が優先的に表示されます。",
     "primary_currency_text_first": "ネイティブ",
     "primary_currency_text_second": "フィアット",
     "language_desc": "アプリケーションを他の対応言語に翻訳します。",
@@ -751,7 +751,7 @@
     "clear_history_desc": "ブラウザの履歴をすべて消去するにはこのオプションを選択します。",
     "clear_cookies_desc": "ブラウザのCookieを消去するにはこのオプションを選択します。",
     "metametrics_title": "MetaMetricsに参加",
-    "metametrics_description": "MetaMetricsに参加して、MetaMaskの改善にご協力ください。",
+    "metametrics_description": "MetaMetricsに参加して、Sora Walletの改善にご協力ください。",
     "batch_balance_requests_title": "アカウント残高の一括リクエスト",
     "batch_balance_requests_description": "当社は残高を素早く表示できるよう、アカウントをまとめてInfuraにクエリを送ります。この機能をオフにすると、アクティブなアカウントのみクエリの対象となります。DAppによっては、ウォレットを接続しないと機能しないものもあります。",
     "third_party_title": "受信トランザクションを取得",
@@ -802,18 +802,18 @@
     "delete_metrics_confirm_modal_title": "MetaMetricsデータを削除しますか？",
     "delete_metrics_confirm_modal_description": "すべてのMetaMetricsデータを削除しようとしています。よろしいですか？",
     "delete_wallet_data_title": "ウォレットを削除",
-    "delete_wallet_data_description": "これにより、デバイスからウォレット関連のデータがすべて削除されます。アカウントはブロックチェーン上に存在し、MetaMaskとは関係ありません。シークレットリカバリーフレーズを使用すればいつでもアカウントを復元できます。",
+    "delete_wallet_data_description": "これにより、デバイスからウォレット関連のデータがすべて削除されます。アカウントはブロックチェーン上に存在し、Sora Walletとは関係ありません。シークレットリカバリーフレーズを使用すればいつでもアカウントを復元できます。",
     "delete_wallet_data_button": "ウォレットを削除",
     "delete_data_status_title": "削除タスクステータス",
     "delete_data_status_description": "現在のステータス:",
     "delete_metrics_error_title": "現在このデータを削除できません。",
     "delete_metrics_error_description": "アナリティクスシステムサーバーの問題により、現在このリクエストを完了させることができません。後ほど再度お試しください。",
     "ok": "OK",
-    "clear_sdk_connections_title": "すべてのMetaMask SDK接続の消去",
+    "clear_sdk_connections_title": "すべてのSora Wallet SDK接続の消去",
     "clear_sdk_connections_text": "すべての接続が消去され、DAppは再び接続のリクエストが必要になります",
-    "sdk_connections": "MetaMask SDK接続",
+    "sdk_connections": "Sora Wallet SDK接続",
     "manage_sdk_connections_title": "接続の管理",
-    "manage_sdk_connections_text": "サイトやMetaMask SDKへの接続を削除します。",
+    "manage_sdk_connections_text": "サイトやSora Wallet SDKへの接続を削除します。",
     "fiat_on_ramp": {
       "title": "仮想通貨の売買",
       "description": "地域、その他...",
@@ -831,11 +831,11 @@
     "contact_support": "サポートへのお問い合わせ",
     "display_nft_media": "NFTメディアの表示",
     "display_nft_media_desc": "NFTのメディアとデータを表示した場合、IPアドレスがOpenSeaをはじめとするサードパーティに公開されます。NFTの自動検出はこの機能に依存しており、この設定を無効にすると利用できなくなります。",
-    "autodetect_nft_desc": "MetaMaskが、サードパーティサービス (例: OpenSea) を使って、ユーザーが所有するNFTを追加することを許可します。NFTの自動検出機能を利用すると、ユーザーのIPとアカウントアドレスがこれらのサービスに公開されます。この機能を有効にした場合、ユーザーのIPアドレスとイーサリアムアドレスが紐付けられ、詐欺師によりエアドロップされた偽のNFTが表示される可能性があります。このリスクを回避するため、手動でトークンを追加することもできます。",
+    "autodetect_nft_desc": "Sora Walletが、サードパーティサービス (例: OpenSea) を使って、ユーザーが所有するNFTを追加することを許可します。NFTの自動検出機能を利用すると、ユーザーのIPとアカウントアドレスがこれらのサービスに公開されます。この機能を有効にした場合、ユーザーのIPアドレスとイーサリアムアドレスが紐付けられ、詐欺師によりエアドロップされた偽のNFTが表示される可能性があります。このリスクを回避するため、手動でトークンを追加することもできます。",
     "incoming_transactions_title": "受信トランザクションを表示",
     "incoming_transactions_content": "これは、ユーザーの選択するネットワークに依存し、イーサリアムアドレスおよびIPアドレスが公開されます。",
     "display_nft_media_desc_new": "NFTのメディアとデータを表示した場合、IPアドレスがOpenSeaをはじめとするサードパーティに公開されます。NFTの自動検出はこの機能に依存しており、無効にすると利用できなくなります。NFTメディアがIPFSに完全に保管されている場合は、この機能が無効になっていても表示されます。",
-    "use_safe_chains_list_validation_desc_1": "MetaMaskは",
+    "use_safe_chains_list_validation_desc_1": "Sora Walletは",
     "use_safe_chains_list_validation_desc_2": "というサードパーティサービスを利用して、正確かつ標準化されたネットワーク情報を表示しています。これにより、悪質なネットワークや正しくないネットワークに接続してしまう可能性が減ります。この機能を使用すると、ユーザーのIPアドレスが次の相手に公開されます:  ",
     "snaps": {
       "title": "Snap",
@@ -903,7 +903,7 @@
     "manage_connections": "接続の管理",
     "manage": "管理",
     "cancel": "キャンセル",
-    "loading": "MetaMaskに接続しています...",
+    "loading": "Sora Walletに接続しています...",
     "unkown_dapp": "DApp名が利用できません",
     "no_connections": "接続がありません",
     "no_connections_desc": "サイトまたはアプリにアカウントを接続すると、ここに表示されます。"
@@ -928,7 +928,7 @@
   "sdk_feedback_modal": {
     "ok": "OK",
     "title": "アカウントを接続できませんでした",
-    "info": "MetaMaskに再接続するDAppのQRコードをスキャンしてください"
+    "info": "Sora Walletに再接続するDAppのQRコードをスキャンしてください"
   },
   "app_information": {
     "title": "情報",
@@ -953,7 +953,7 @@
       "シークレットリカバリーフレーズ (SRP)",
       "gives",
       "ウォレット、資金、アカウントへのフルアクセスを可能にします。\n\n",
-      "MetaMaskは",
+      "Sora Walletは",
       "ノンカストディアルウォレットです",
       "そのため、",
       "ユーザーがSRPの唯一の所有者となります。"
@@ -962,14 +962,14 @@
     "private_key_warning": "これは現在選択されたアカウント {{accountName}} の秘密鍵です。この鍵は絶対に開示しないでください。資金の送金を含め、秘密鍵を持っていれば誰でもアカウントを完全にコントロールできます。",
     "seed_phrase_warning_explanation": [
       "誰にも画面を見られていないことを確認してください。",
-      "MetaMaskサポートがこれを求めることはありません。"
+      "Sora Walletサポートがこれを求めることはありません。"
     ],
     "private_key_warning_explanation": "この鍵は絶対に開示しないでください。資金の送金を含め、秘密鍵を持っていれば誰でもアカウントを完全にコントロールできます。",
     "reveal_credential_modal": [
       "{{credentialName}}があれば、",
       "アカウントと資金に完全にアクセスできます。\n\n誰にも教えないでください。",
       "ウォレットと資金に完全にアクセスできます。\n\n誰にも教えないでください。",
-      "MetaMaskサポートがこの情報を尋ねることはなく、",
+      "Sora Walletサポートがこの情報を尋ねることはなく、",
       "もし尋ねられた場合はフィッシング詐欺の可能性があります。"
     ],
     "seed_phrase": "シークレットリカバリーフレーズ",
@@ -1005,7 +1005,7 @@
   },
   "password_reset": {
     "password_title": "パスワード",
-    "password_desc": "デバイスでMetaMaskアプリのロックを解除するための強いパスワードを選択してください。このパスワードを紛失した場合、ウォレットを再インポートするのにシークレットリカバリーフレーズが必要になります。",
+    "password_desc": "デバイスでSora Walletアプリのロックを解除するための強いパスワードを選択してください。このパスワードを紛失した場合、ウォレットを再インポートするのにシークレットリカバリーフレーズが必要になります。",
     "password_learn_more": "詳細。",
     "change_password": "パスワードを変更"
   },
@@ -1063,7 +1063,7 @@
       "show_less": "表示を戻す"
     },
     "activity": "{{symbol}}のアクティビティ",
-    "disclaimer": "市場データは、CoinGeckoをはじめとする1つまたは複数のサードパーティーデータソースから提供されています。このようなサードパーティーコンテンツは情報提供のみを目的としており、特定資産の購入、売却、または使用の助言として扱われるべきものではありません。MetaMaskはこのコンテンツを特定の目的に使用することを推奨しておらず、その正確性について責任を負いません。"
+    "disclaimer": "市場データは、CoinGeckoをはじめとする1つまたは複数のサードパーティーデータソースから提供されています。このようなサードパーティーコンテンツは情報提供のみを目的としており、特定資産の購入、売却、または使用の助言として扱われるべきものではありません。Sora Walletはこのコンテンツを特定の目的に使用することを推奨しておらず、その正確性について責任を負いません。"
   },
   "account_details": {
     "title": "アカウント詳細",
@@ -1106,7 +1106,7 @@
     "cancel": "キャンセル",
     "error": "エラー",
     "attempting_to_scan_with_wallet_locked": "QRコードをスキャンしようとしているようですが、使用するにはウォレットのロックを解除する必要があります。",
-    "attempting_sync_from_wallet_error": "拡張機能と同期しようとしているようですが、これを行うには現在のウォレットを消去する必要があります。\n\n消去してアプリの新しいバージョンを再インストールしたら、「MetaMask拡張機能と同期」オプションを選択してください。ウォレットを消去する前に、必ずシークレットリカバリーフレーズがバックアップされていることを確認してください。",
+    "attempting_sync_from_wallet_error": "拡張機能と同期しようとしているようですが、これを行うには現在のウォレットを消去する必要があります。\n\n消去してアプリの新しいバージョンを再インストールしたら、「Sora Wallet拡張機能と同期」オプションを選択してください。ウォレットを消去する前に、必ずシークレットリカバリーフレーズがバックアップされていることを確認してください。",
     "not_allowed_error_title": "カメラへのアクセスを有効にしてください",
     "not_allowed_error_desc": "アカウントアドレスやコントラクトアドレスに関連したQRコードをスキャンするには、カメラへのアクセスが必要です",
     "unrecognized_address_qr_code_title": "認識されないQRコード",
@@ -1152,7 +1152,7 @@
     "review_hex_data": "16進データ",
     "insufficient": "資金不足",
     "insufficient_amount": "このトランザクションを完了させるには、あと{{amount}} {{tokenSymbol}}必要です。",
-    "buy_more_eth": "ETHを追加購入",
+    "buy_more_eth": "SETHを追加購入",
     "buy_more": "さらに購入",
     "go_to_faucet": "フォーセットに移動",
     "get_ether": "{{networkName}}ネットワーク用のイーサを入手してください。",
@@ -1220,7 +1220,7 @@
     "gas_education_1": "ガス代は、",
     "gas_education_2_ethereum": "イーサリアムネットワークでトランザクションを処理するクリプトマイナーに支払われます。",
     "gas_education_2": "ネットワーク。",
-    "gas_education_3": "MetaMaskはガス代で利益を得ることはありません。",
+    "gas_education_3": "Sora Walletはガス代で利益を得ることはありません。",
     "gas_education_4": "ガス代は、ネットワークトラフィックとトランザクションの複雑さに応じて変動します。",
     "gas_education_learn_more": "ガス代の詳細をご覧ください",
     "confusable_title": "受取人のアドレスを確認してください",
@@ -1235,7 +1235,7 @@
     "invalid_qr_code_sync": "QRコードが無効です。ハードウェアの同期QR コードをスキャンしてください。",
     "no_camera_permission": "カメラが承認されていません。アクセス許可を付与して再度お試しください",
     "invalid_qr_code_sign": "無効なQRコードです。ハードウェアを確認して再度お試しください。",
-    "no_camera_permission_android": "続けるには、MetaMaskによるカメラへのアクセスを許可する必要があります。また、システム設定の変更が必要な場合もあります。",
+    "no_camera_permission_android": "続けるには、Sora Walletによるカメラへのアクセスを許可する必要があります。また、システム設定の変更が必要な場合もあります。",
     "mismatched_qr_request_id": "トランザクションデータが一致していません。Keystoneで下のQRコードに署名して、「署名を取得」をタップしてください。",
     "fiat_conversion_not_available": "法定通貨への換算は現在利用できません",
     "hex_data_copied": "16進データがクリップボードにコピーされました",
@@ -1253,7 +1253,7 @@
     "save": "保存",
     "warning_gas_limit": "ガスリミットの上限は20999よりも高く設定する必要があります",
     "warning_gas_limit_estimated": "ガスリミットの見積もりは{{gas}}です。最低値として使用してください",
-    "cost_explanation": "ガス代は、イーサリアムネットワーク上でトランザクションの処理コストに支払われます。MetaMaskがガス代で利益を得ることはありません。ガス代が高いほど、トランザクションが処理される可能性が高くなります。"
+    "cost_explanation": "ガス代は、イーサリアムネットワーク上でトランザクションの処理コストに支払われます。Sora Walletがガス代で利益を得ることはありません。ガス代が高いほど、トランザクションが処理される可能性が高くなります。"
   },
   "spend_limit_edition": {
     "save": "保存",
@@ -1319,7 +1319,7 @@
     "change_url": "URLを変更",
     "switch_network": "ネットワークを切り替える",
     "dapp_browser": "DAppブラウザ",
-    "dapp_browser_message": "MetaMaskは分散型インターネット用のブラウザであり、ウォレットです。ぜひ一度ご覧ください！",
+    "dapp_browser_message": "Sora Walletは分散型インターネット用のブラウザであり、ウォレットです。ぜひ一度ご覧ください！",
     "featured_dapps": "注目のDApp",
     "my_favorites": "お気に入り",
     "search": "検索するか、URLを入力してください",
@@ -1467,8 +1467,8 @@
     "status_not_ok": "ネットワークに問題があります",
     "want_to_add_network": "このネットワークを追加しますか？",
     "add_custom_network": "カスタムネットワークを追加",
-    "network_infomation": "これにより、このネットワークがMetaMaskで使用可能になります。",
-    "network_endorsement": "MetaMaskはカスタムネットワークやそのセキュリティを保証しません。",
+    "network_infomation": "これにより、このネットワークがSora Walletで使用可能になります。",
+    "network_endorsement": "Sora Walletはカスタムネットワークやそのセキュリティを保証しません。",
     "learn_about": "こちらをご覧ください:",
     "network_risk": "詐欺やネットワークセキュリティのリスク",
     "network_display_name": "表示名",
@@ -1506,7 +1506,7 @@
     "show_test_networks": "テストネットワークを表示",
     "deprecated_goerli": "イーサリアムのプロトコルの変更により、Goerliテストネットワークは安定して動作しない可能性があり、近日中に非推奨になります。",
     "network_deprecated_title": "このネットワークはサポートされなくなりました",
-    "network_deprecated_description": "接続しようとしているネットワークは現在MetaMaskによりサポートされていません。"
+    "network_deprecated_description": "接続しようとしているネットワークは現在Sora Walletによりサポートされていません。"
   },
   "select": {
     "cancel": "キャンセル",
@@ -1535,7 +1535,7 @@
     "balance": "残高"
   },
   "unit": {
-    "eth": "ETH",
+    "eth": "SETH",
     "sai": "SAI",
     "dai": "DAI",
     "negative": "-",
@@ -1560,9 +1560,9 @@
   },
   "authentication": {
     "auth_prompt_title": "認証が必要です",
-    "auth_prompt_desc": "MetaMaskを使用するには認証してください",
+    "auth_prompt_desc": "Sora Walletを使用するには認証してください",
     "fingerprint_prompt_title": "認証が必要です",
-    "fingerprint_prompt_desc": "指紋でMetaMaskのロックを解除してください",
+    "fingerprint_prompt_desc": "指紋でSora Walletのロックを解除してください",
     "fingerprint_prompt_cancel": "キャンセル"
   },
   "accountApproval": {
@@ -1584,7 +1584,7 @@
   },
   "import_private_key": {
     "title": "アカウントをインポート",
-    "description_one": "インポートされたアカウントはウォレットに表示されますが、MetaMaskのシークレットリカバリーフレーズでは復元できません。",
+    "description_one": "インポートされたアカウントはウォレットに表示されますが、Sora Walletのシークレットリカバリーフレーズでは復元できません。",
     "learn_more_here": "インポートされたアカウントに関する詳細はこちらをご覧ください。",
     "subtitle": "秘密鍵の文字列を貼り付けてください",
     "cta_text": "インポート",
@@ -1596,7 +1596,7 @@
   },
   "import_private_key_success": {
     "title": "アカウントがインポートされました！",
-    "description_one": "これでMetaMaskにアカウントが表示されるようになりました。"
+    "description_one": "これでSora Walletにアカウントが表示されるようになりました。"
   },
   "first_incoming_transaction": {
     "title": "アカウントに{{asset}}が入金されました。",
@@ -1611,7 +1611,7 @@
     "step_1_description": "パスワードを作成",
     "step_2": "ステップ 2:",
     "step_2_description": "ウォレットのシークレットリカバリーフレーズを保存",
-    "info_text_1": "MetaMaskウォレットのセットアップを完了させてください。",
+    "info_text_1": "Sora Walletウォレットのセットアップを完了させてください。",
     "info_text_2": "これにより、本人だけが資金にアクセスでき、デバイスを紛失した場合でもウォレットを復元できるようになります",
     "cta_text": "パスワードを作成",
     "creating_password": "パスワードを作成中..."
@@ -1633,7 +1633,7 @@
     "what_is_seedphrase_title": "「シークレットリカバリーフレーズ」とは",
     "what_is_seedphrase_text_1": "シークレットリカバリーフレーズは、12の単語からなる文であり、ここには資金をはじめとするウォレットの情報がすべて含まれています。つまり、ウォレットのすべてにアクセスするための暗号のようなものです。",
     "what_is_seedphrase_text_2": "シークレットリカバリーフレーズは、極秘かつ安全に保管する必要があります。シークレットリカバリーフレーズが他人に知られると、アカウントをコントロールされます。",
-    "what_is_seedphrase_text_3": "自分だけがアクセスできる場所に保管してください。紛失すると、MetaMaskでも復元できません。"
+    "what_is_seedphrase_text_3": "自分だけがアクセスできる場所に保管してください。紛失すると、Sora Walletでも復元できません。"
   },
   "account_backup_step_1B": {
     "title": "ウォレットの安全を確保",
@@ -1706,7 +1706,7 @@
   },
   "account_backup_step_6": {
     "title": "セキュリティに関するアドバイス",
-    "info_text": "シークレットリカバリーフレーズを紛失すると、MetaMaskでは復元できません",
+    "info_text": "シークレットリカバリーフレーズを紛失すると、Sora Walletでは復元できません",
     "tip_1": "シークレットリカバリーフレーズは複数のバックアップをとっておいてください",
     "tip_2": "フレーズは信頼できるパスワードマネージャーに保管したり、紙に書いて安全な場所に保管してください",
     "tip_3": "フレーズは誰にも教えないでください",
@@ -1746,7 +1746,7 @@
     "congratulations": "おめでとうございます",
     "success": "ウォレットが保護されました。シークレットリカバリーフレーズを安全に保管するのは、ユーザーの責任であることをお忘れなく。",
     "hint": "ヒントを残しますか？",
-    "recover": "シークレットリカバリーフレーズを紛失すると、MetaMaskでは復元できません。シークレットリカバリーフレーズは「設定」>「セキュリティとプライバシー」で確認できます。",
+    "recover": "シークレットリカバリーフレーズを紛失すると、Sora Walletでは復元できません。シークレットリカバリーフレーズは「設定」>「セキュリティとプライバシー」で確認できます。",
     "learn": "詳細",
     "done": "完了",
     "recovery_hint": "復元のヒント",
@@ -1759,8 +1759,8 @@
   "phishing": {
     "ethereum_phishing_detection": "イーサリアムフィッシング検知",
     "ethereum_phishing_detector": "イーサリアムフィッシング検知ツール",
-    "intro": "は、現在MetaMaskのドメイン警告リストに登録されています。つまり、MetaMaskは、利用可能な情報に基づき、このサイトによりユーザーのセキュリティが侵害される可能性があると考えています。そのため、追加のセキュリティ対策として、MetaMaskはこのサイトへのアクセスを制限しています。この制限を解除するには、この警告の続きを読み、自己責任で続行する方法をご確認ください。",
-    "reasons": "サイトがMetaMaskの警告リストに登録される理由はさまざまですが、MetaMaskの警告リストには業界で広く使用されている他のリストの情報がまとめられています。そうした理由には、次のようなテストで不審と判断されたドメインなど、既知の詐欺またはセキュリティ上のリスクなどが含まれます",
+    "intro": "は、現在Sora Walletのドメイン警告リストに登録されています。つまり、Sora Walletは、利用可能な情報に基づき、このサイトによりユーザーのセキュリティが侵害される可能性があると考えています。そのため、追加のセキュリティ対策として、Sora Walletはこのサイトへのアクセスを制限しています。この制限を解除するには、この警告の続きを読み、自己責任で続行する方法をご確認ください。",
+    "reasons": "サイトがSora Walletの警告リストに登録される理由はさまざまですが、Sora Walletの警告リストには業界で広く使用されている他のリストの情報がまとめられています。そうした理由には、次のようなテストで不審と判断されたドメインなど、既知の詐欺またはセキュリティ上のリスクなどが含まれます",
     "list_content": "これらの警告リストに登録されているドメインには、明らかに悪質なWebサイトの他、正当なWebサイトでありながら不正行為によりセキュリティが侵害されものも含まれます。",
     "to_read_more": "このサイトに関する詳細は、",
     "review_on_etherscam": "Etherscamのドメインをご覧ください。",
@@ -1794,7 +1794,7 @@
     "received_message": "このトランザクションを表示するにはタップしてください",
     "received_payment_message": "{{amount}}DAI受け取りました",
     "prompt_title": "プッシュ通知を有効にする",
-    "prompt_desc": "ETHを受け取ったり、トランザクションが確認された際にMetaMaskが通知できるよう、通知を有効にしてください。",
+    "prompt_desc": "SETHを受け取ったり、トランザクションが確認された際にSora Walletが通知できるよう、通知を有効にしてください。",
     "prompt_ok": "はい",
     "prompt_cancel": "いいえ、結構です",
     "wc_connected_title": "{{title}}に接続されました",
@@ -1904,7 +1904,7 @@
     "depositing_to": "入金先:"
   },
   "fiat_on_ramp": {
-    "buy_eth": "ETHを購入",
+    "buy_eth": "SETHを購入",
     "buy": "{{ticker}}を購入",
     "purchased_currency": "{{currency}}を購入しました",
     "network_not_supported": "現在のネットワークはサポートされていません",
@@ -1934,7 +1934,7 @@
     "moonpay_options_fees_vary": "145か国以上、手数料と限度額は異なります",
     "some_states_excluded": "州によっては対象外となります",
     "purchase_method_modal_close": "閉じる",
-    "transak_cta": "TransakでETHを購入",
+    "transak_cta": "TransakでSETHを購入",
     "transak_cta_ticker": "Transakで{{ticker}}を購入",
     "apple_pay": "Apple Pay",
     "via": "方法:",
@@ -1957,7 +1957,7 @@
     "wyre_minimum_deposit": "最低入金額は{{amount}}です",
     "wyre_maximum_deposit": "最高入金額は{{amount}}です",
     "apple_pay_purchase": "{{currency}}の購入",
-    "apple_pay_provider_total_label": "{{provider}} (MetaMask経由)",
+    "apple_pay_provider_total_label": "{{provider}} (Sora Wallet経由)",
     "buy_with": "購入方法:",
     "plus_fee": "プラス{{fee}}の手数料",
     "date": "日付",
@@ -1976,12 +1976,12 @@
         "average_gas_fee": "現在の平均ガス代:",
         "subtitle_1": "{{ticker}}をスワップまたは送金する場合、ガス代が支払えるよう余分に購入してください。",
         "subtitle_2": "トランザクションのガス代は、{{ticker}}の購入代とは別になります。",
-        "subtitle_3": "MetaMaskはガス代で利益を得ることはありません。"
+        "subtitle_3": "Sora Walletはガス代で利益を得ることはありません。"
       },
       "step_2": {
         "title": "ガス代とは",
         "subtitle_1": "ガス代は、イーサリアムネットワークでのトランザクションに必要なトランザクションの処理手数料で、{{ticker}}でクリプトマイナーに支払われます。",
-        "subtitle_2": "MetaMaskはガス代で利益を得ることはありません。",
+        "subtitle_2": "Sora Walletはガス代で利益を得ることはありません。",
         "learn_more": "ガス代の詳細をご覧ください"
       },
       "step_3": {
@@ -2021,7 +2021,7 @@
     "onboarding": {
       "what_to_expect": "今後の流れ",
       "quotes": "当社の仮想通貨購入機能は提携ベンダーからクォートを集め、それらのソースからのクォートを提供し、待ち時間なしで直接ウォレットに仮想通貨を入金します。",
-      "quotes_sell": "MetaMaskで直接キャッシュアウトできるようになりました！画面上の詳しい案内に従って、信頼できるプロバイダーから最新のクォートを入手できます。",
+      "quotes_sell": "Sora Walletで直接キャッシュアウトできるようになりました！画面上の詳しい案内に従って、信頼できるプロバイダーから最新のクォートを入手できます。",
       "benefits": "ガス代が安く、数々のネットワーク、トークン、支払方法がサポートされています",
       "benefits_sell": "仮想通貨から現地通貨へのオフランプが今まで以上に簡単になりました。",
       "get_started": "開始"
@@ -2205,13 +2205,13 @@
       "best_swap": "スワップを",
       "across": "検索...",
       "want_to_learn_more": "さらに詳しく知りたい場合",
-      "learn_more": "MetaMask Swapsの詳細",
+      "learn_more": "Sora Wallet Swapsの詳細",
       "what_are": "トークンスワップとは",
       "review_audits": "公式コントラクト監査をご覧ください",
       "start_swapping": "スワップを開始"
     },
     "feature_off_title": "一時的に利用できません",
-    "feature_off_body": "MetaMask Swapsはメンテナンス中です。後ほどご確認ください。",
+    "feature_off_body": "Sora Wallet Swapsはメンテナンス中です。後ほどご確認ください。",
     "wrong_network_title": "Swapsが利用できません",
     "wrong_network_body": "トークンのスワップはイーサリアムメインネットでのみ可能です。",
     "unallowed_asset_title": "このトークンはスワップできません",
@@ -2267,7 +2267,7 @@
     "you_need": "このスワップを完了させるには",
     "more_to_complete": "さらに必要です。",
     "more_gas_to_complete": "さらにガス代が必要です。",
-    "buy_more_eth": "ETHを追加購入してください。",
+    "buy_more_eth": "SETHを追加購入してください。",
     "buy_more": "{{ticker}}を追加購入してください。",
     "market_price_unavailable_title": "続ける前にレートを確認してください",
     "market_price_unavailable": "市場価格が利用できないため、プライスインパクトが不明です。スワップする前に、受け取るトークンの額に問題がないことを確認してください。",
@@ -2289,16 +2289,16 @@
     "estimated_gas_fee": "ガス代の見積もり",
     "max_gas_fee": "最大ガス代",
     "edit": "編集",
-    "quotes_include_fee": "クォートには{{fee}}%のMetaMask手数料が含まれています",
+    "quotes_include_fee": "クォートには{{fee}}%のSora Wallet手数料が含まれています",
     "tap_to_swap": "タップしてスワップ",
     "swipe_to_swap": "スワイプしてスワップ",
     "swipe_to": "スワイプして",
     "swap": "スワップ",
     "completed_swap": "スワップ！",
-    "metamask_swap_fee": "MetaMaskのスワップ手数料",
+    "metamask_swap_fee": "Sora Walletのスワップ手数料",
     "fee_text": {
-      "fee_is_applied": "このクォートには、{{fee}}の手数料が自動的に含まれています。この手数料は、MetaMaskの流動性プロバイダー情報集約ソフトウェアの使用ライセンスの代金として支払うものです。",
-      "fee_is_not_applied": "MetaMaskはこのクォートに追加手数料を含めません。"
+      "fee_is_applied": "このクォートには、{{fee}}の手数料が自動的に含まれています。この手数料は、Sora Walletの流動性プロバイダー情報集約ソフトウェアの使用ライセンスの代金として支払うものです。",
+      "fee_is_not_applied": "Sora Walletはこのクォートに追加手数料を含めません。"
     },
     "enable": {
       "this_will": "これにより",
@@ -2363,7 +2363,7 @@
     "gas_education_1": "ガス代は、",
     "gas_education_2_ethereum": "イーサリアムネットワークでトランザクションを処理するクリプトマイナーに支払われます。",
     "gas_education_2": "ネットワーク。",
-    "gas_education_3": "MetaMaskはガス代で利益を得ることはありません。",
+    "gas_education_3": "Sora Walletはガス代で利益を得ることはありません。",
     "gas_education_4": "「ガス代の見積もり」　",
     "gas_education_5": "は",
     "gas_education_6": "実際の手数料の見積もりです。正確な金額はネットワークの状況により異なります。",
@@ -2404,13 +2404,13 @@
     "title": "新機能",
     "blockaid": {
       "title": "セキュリティアラートで安全を確保",
-      "description_1": "Blockaidのセキュリティアラートで、プライバシーを確保しつつ既知の詐欺から身を守ります。この機能は、MetaMaskユーザー全員を対象にデフォルトでオンになります。",
+      "description_1": "Blockaidのセキュリティアラートで、プライバシーを確保しつつ既知の詐欺から身を守ります。この機能は、Sora Walletユーザー全員を対象にデフォルトでオンになります。",
       "description_2": "要求を承認する前に、必ず独自のデューデリジェンスを行ってください。",
       "got_it": "了解"
     },
     "sell": {
       "title": "キャッシュアウトが簡単になりました",
-      "description": "MetaMaskで直接仮想通貨を売却！信頼できるプロバイダーからのクォートを取得して、毎回簡単・迅速・安全に仮想通貨を売却できます。",
+      "description": "Sora Walletで直接仮想通貨を売却！信頼できるプロバイダーからのクォートを取得して、毎回簡単・迅速・安全に仮想通貨を売却できます。",
       "action_text": "お試しください"
     }
   },
@@ -2424,15 +2424,15 @@
   "switch_custom_network": {
     "title_existing_network": "このサイトがネットワークの変更を求めています",
     "title_new_network": "新しいネットワークが追加されました",
-    "switch_warning": "これによりMetaMask内で選択されたネットワークが、以前に追加されたものに切り替わります:",
+    "switch_warning": "これによりSora Wallet内で選択されたネットワークが、以前に追加されたものに切り替わります:",
     "available": "がネットワークセレクターで利用可能になりました。",
     "cancel": "キャンセル",
     "switch": "ネットワークを切り替える"
   },
   "add_custom_network": {
     "title": "このサイトによるネットワークの追加を許可しますか？",
-    "warning": "これにより、このネットワークがMetaMaskで使用可能になります。",
-    "warning_subtext_1": "MetaMaskはカスタムネットワークやそのセキュリティを検証しません。",
+    "warning": "これにより、このネットワークがSora Walletで使用可能になります。",
+    "warning_subtext_1": "Sora Walletはカスタムネットワークやそのセキュリティを検証しません。",
     "warning_subtext_2": "詐欺やネットワークセキュリティのリスクに関する",
     "warning_subtext_3": "詳細をご覧ください",
     "display_name": "表示名",
@@ -2448,7 +2448,7 @@
     "alert_recommend": "チェーンIDを確認することを",
     "alert_verify": "お勧めします",
     "warning_subtext_new": {
-      "1": "MetaMaskはカスタムネットワークの検証を行わないため、信頼できるネットワークだけを承認してください。",
+      "1": "Sora Walletはカスタムネットワークの検証を行わないため、信頼できるネットワークだけを承認してください。",
       "2": "ネットワークのセキュリティリスクと詐欺に関する詳細をご覧ください。"
     },
     "invalid_rpc_url": "このネットワークURLは、このチェーンIDの既知のプロバイダーと一致しません。",
@@ -2523,7 +2523,7 @@
     "estimated_gas_fee_tooltip_text_1": "ガス代は",
     "estimated_gas_fee_tooltip_text_2": " イーサリアム",
     "estimated_gas_fee_tooltip_text_3": "ネットワークでトランザクションを処理するクリプトマイナーに支払われます。",
-    "estimated_gas_fee_tooltip_text_4": "MetaMaskはガス代で利益を得ることはありません。",
+    "estimated_gas_fee_tooltip_text_4": "Sora Walletはガス代で利益を得ることはありません。",
     "estimated_gas_fee_tooltip_text_5": "ガス代はネットワークにより設定され、ネットワークトラフィックとトランザクションの複雑さに応じて変動します。",
     "learn_more": "ガス代の詳細をご覧ください",
     "legacy_gas_suggestion_tooltip": "このガス代の提案には旧式のガス代の見積もりが使用されているため、不正確な可能性があります。"
@@ -2547,7 +2547,7 @@
     "high_fees": "手数料が高い理由",
     "missing_tokens": "トークンが足りない...",
     "swap_issues": "スワップできない...",
-    "mobile_sentiment": "MetaMaskモバイルの感想をお聞かせください。",
+    "mobile_sentiment": "Sora Walletモバイルの感想をお聞かせください。",
     "sentiment_good_face": "😁",
     "sentiment_bad_face": "☹️",
     "sentiment_good": "非常に満足！",
@@ -2595,12 +2595,12 @@
   },
   "remember_me": {
     "enable_remember_me": "認証情報の保存を有効にする",
-    "enable_remember_me_description": "認証情報の保存を有効にすると、携帯にアクセスできる人は誰でもMetaMaskアカウントにアクセスできるようになります。"
+    "enable_remember_me_description": "認証情報の保存を有効にすると、携帯にアクセスできる人は誰でもSora Walletアカウントにアクセスできるようになります。"
   },
   "turn_off_remember_me": {
     "title": "認証情報の保存を無効にするには、パスワードを入力してください",
     "placeholder": "パスワード",
-    "description": "このオプションを無効にすると、今後MetaMaskのロックを解除するのにパスワードが必要になります。",
+    "description": "このオプションを無効にすると、今後Sora Walletのロックを解除するのにパスワードが必要になります。",
     "action": "認証情報の保存を無効にする"
   },
   "dapp_connect": {
@@ -2612,11 +2612,11 @@
   },
   "automatic_security_checks": {
     "title": "自動セキュリティチェック",
-    "description": "自動的にアップデートを確認すると、GitHubサーバーにIPアドレスが開示される可能性があります。これにより、当該IPアドレスがMetaMaskを使用していることは明らかになりますが、他の情報やアカウントのアドレスは一切開示されません。"
+    "description": "自動的にアップデートを確認すると、GitHubサーバーにIPアドレスが開示される可能性があります。これにより、当該IPアドレスがSora Walletを使用していることは明らかになりますが、他の情報やアカウントのアドレスは一切開示されません。"
   },
   "terms_of_use_modal": {
     "title": "最新の利用規約を確認してください",
-    "terms_of_use_check_description": "私は、MetaMaskおよびその全ての機能の使用に適用される利用規約に同意します",
+    "terms_of_use_check_description": "私は、Sora Walletおよびその全ての機能の使用に適用される利用規約に同意します",
     "accept_cta": "同意する",
     "accept_helper_description": "スクロールしてすべてのセクションをお読みください"
   },
@@ -2628,7 +2628,7 @@
   },
   "enable_automatic_security_check_modal": {
     "title": "セキュリティアップデートを自動的に確認しますか？",
-    "description": "自動的にアップデートを確認すると、GitHubサーバーにIPアドレスが開示される可能性があります。これにより、当該IPアドレスがMetaMaskを使用していることは明らかになりますが、他の情報やアカウントのアドレスは一切開示されません。",
+    "description": "自動的にアップデートを確認すると、GitHubサーバーにIPアドレスが開示される可能性があります。これにより、当該IPアドレスがSora Walletを使用していることは明らかになりますが、他の情報やアカウントのアドレスは一切開示されません。",
     "primary_action": "自動セキュリティチェックを有効にする",
     "secondary_action": "結構です"
   },
@@ -2681,7 +2681,7 @@
     "new_wallet_needed_create_try_again_action": "ウォレットの復元を試す",
     "new_wallet_needed_description_part_one": "ウォレットに問題があるため、新しいウォレットの作成が必要です。ただし、アカウントはブロックチェーン上にあるため安全です。デバイスに保存された設定、保存されたネットワーク、アカウント名、関連データのみが失われました。",
     "new_wallet_needed_description_part_two": "新しいウォレットにアカウントをインポートするにはシークレットリカバリーフレーズが必要です。シークレットリカバリーフレーズがわからない場合は、アカウントをインポートできません。",
-    "new_wallet_needed_description_part_three": "再びこのような事態が起こらないように、常にMetaMaskアプリとOSを最新バージョンにアップデートしてください。"
+    "new_wallet_needed_description_part_three": "再びこのような事態が起こらないように、常にSora WalletアプリとOSを最新バージョンにアップデートしてください。"
   },
   "srp_security_quiz": {
     "title": "セキュリティの質問",
@@ -2692,7 +2692,7 @@
     "continue": "続行",
     "of": "/",
     "question_one": {
-      "question": "シークレットリカバリーフレーズをなくした場合、MetaMaskは...",
+      "question": "シークレットリカバリーフレーズをなくした場合、Sora Walletは...",
       "right_answer": "どうすることもできません",
       "wrong_answer": "それを取り戻すことができます",
       "right_answer_title": "正解です！シークレットリカバリーフレーズは誰にも取り戻すことができません",
@@ -2727,7 +2727,7 @@
     "ethereum_app_open_message": "イーサリアムアプリを開くにはデバイスで確認を行ってください。完了したら「OK」を押してください。",
     "ethereum_app_unconfirmed_error": "イーサリアムアプリの実行リクエストを拒否しました。",
     "failed_to_open_eth_app": "イーサリアムアプリを開けませんでした。",
-    "ethereum_app_open_error": "LedgerデバイスでEthereumアプリのインストール/同意を行ってください。",
+    "ethereum_app_open_error": "LedgerデバイスでSoraアプリのインストール/同意を行ってください。",
     "running_app_close": "実行中のアプリを閉じられませんでした。",
     "running_app_close_error": "Ledgerデバイスで実行中のアプリを閉じられませんでした。",
     "ethereum_app_not_installed": "イーサリアムアプリがインストールされていません。",
@@ -2755,7 +2755,7 @@
     "unknown_error_message": "予期せぬエラーが発生しました。もう一度お試しください。",
     "error_occured": "エラーが発生しました",
     "how_to_install_eth_app": "Ledgerデバイスにイーサリアムアプリをインストールする方法",
-    "ledger_account_count": "MetaMask MobileでLedgerのアカウントを1つ使用しています。",
+    "ledger_account_count": "Sora Wallet MobileでLedgerのアカウントを1つ使用しています。",
     "open_eth_app": "イーサリアムアプリを開いてください",
     "open_eth_app_message_one": "イーサリアムアプリがインストールされているものの、開かれていないことが判明しました。",
     "open_eth_app_message_two": "続行するには、デバイスの2つのボタンを押して、イーサリアムアプリを開く指示に同意してください。",
@@ -2769,7 +2769,7 @@
     "not_supported": "操作がサポートされていません。",
     "not_supported_error": "型付きデータ署名のバージョン4のみがサポートされています。",
     "error_during_connection": "不明なエラーが発生しました",
-    "error_during_connection_message": "Ledger Nano Xへの接続中に若干の問題が発生しました。下の「再試行」をタップして、もう一度お試しください。この問題は、Ledger Nano XのETHアプリが、MetaMask Mobileとのペアリングプロセスの開始時に開いているのが原因で起こることがあります。",
+    "error_during_connection_message": "Ledger Nano Xへの接続中に若干の問題が発生しました。下の「再試行」をタップして、もう一度お試しください。この問題は、Ledger Nano XのSETHアプリが、Sora Wallet Mobileとのペアリングプロセスの開始時に開いているのが原因で起こることがあります。",
     "how_to_install_eth_webview_title": "イーサリアムアプリのインストール方法",
     "nonce_too_low": "ナンスが低すぎます",
     "nonce_too_low_error": "設定されたナンスが低すぎます"
@@ -2784,7 +2784,7 @@
   },
   "show_nft": {
     "show_nft_title": "NFTを表示",
-    "show_nft_content_1": "MetaMaskは、サードパーティサービスを使用してIPFSに保管されているNFTの画像の表示、ブラウザのアドレスバーに入力されたENSアドレスに関する情報の表示、様々なトークンのアイコンの取得を行います。これらのサービスの使用時には、IPアドレスが当該サービスに公開される可能性があります。",
+    "show_nft_content_1": "Sora Walletは、サードパーティサービスを使用してIPFSに保管されているNFTの画像の表示、ブラウザのアドレスバーに入力されたENSアドレスに関する情報の表示、様々なトークンのアイコンの取得を行います。これらのサービスの使用時には、IPアドレスが当該サービスに公開される可能性があります。",
     "show_nft_content_2": "「確定」を",
     "show_nft_content_3": "選択すると、",
     "show_nft_content_4": "IPFS解決がオンになります。次の場所でオフにできます: ",
@@ -2808,7 +2808,7 @@
   },
   "ipfs_gateway": {
     "ipfs_gateway_title": "IPFSゲートウェイ",
-    "ipfs_gateway_content1": "MetaMaskは、サードパーティサービスを使用してIPFSに保管されているNFTの画像の表示、ブラウザのアドレスバーに入力されたENSアドレスに関連する情報の表示、様々なトークンのアイコンの取得を行います。これらのサービスの使用時には、IPアドレスが当該サービスに公開される可能性があります。",
+    "ipfs_gateway_content1": "Sora Walletは、サードパーティサービスを使用してIPFSに保管されているNFTの画像の表示、ブラウザのアドレスバーに入力されたENSアドレスに関連する情報の表示、様々なトークンのアイコンの取得を行います。これらのサービスの使用時には、IPアドレスが当該サービスに公開される可能性があります。",
     "ipfs_gateway_content2": "IPFSの解決は、",
     "ipfs_gateway_content3": "「設定」>「セキュリティとプライバシー」で",
     "ipfs_gateway_content4": "いつでもオフにできます。"

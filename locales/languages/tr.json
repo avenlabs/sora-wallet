@@ -61,14 +61,14 @@
   },
   "onboarding": {
     "title": "Cüzdan kurulumu",
-    "sync_desc": "Zaten MetaMask uzantısı veya başka bir cüzdan aldıysanız mevcut varlıklarınızı yönetmek için onu senkronize edin veya içe aktarın.",
+    "sync_desc": "Zaten Sora Wallet uzantısı veya başka bir cüzdan aldıysanız mevcut varlıklarınızı yönetmek için onu senkronize edin veya içe aktarın.",
     "create_desc": "İlk cüzdan kurulumunuzu yapın ve merkeziyetsiz uygulamaları keşfetmeye başlayın.",
     "import": "Mevcut bir cüzdanı içe aktarın veya yeni bir tane oluşturun.",
     "import_wallet_button": "Cüzdanı senkronize et veya içe aktar",
     "new_to_crypto": "Kriptoda yeni misiniz?",
     "start_exploring_now": "Yeni bir cüzdan oluştur",
     "unlock": "Kilidini Aç",
-    "new_to_metamask": "MetaMask'te yeni misiniz?",
+    "new_to_metamask": "Sora Wallet'te yeni misiniz?",
     "already_have_wallet": "Zaten bir cüzdanınız var mı?",
     "optin_back_title": "Dikkat!",
     "optin_back_desc": "Lütfen veri analitiklerinin kullanımını kabul edin veya reddedin. Bu seçeneği ayarlar kısmında da güncelleyebilirsiniz.",
@@ -76,15 +76,15 @@
     "warning_text_1": "İlerlediğiniz takdirde",
     "warning_text_2": "geçerli cüzdan ve hesaplarınız",
     "warning_text_3": "kaldırılacak.",
-    "warning_text_4": "Onları sadece cüzdanınızın Gizli Kurtarma İfadesi ile kurtarabilirsiniz. MetaMask onu kurtarmanıza yardımcı olamaz.",
+    "warning_text_4": "Onları sadece cüzdanınızın Gizli Kurtarma İfadesi ile kurtarabilirsiniz. Sora Wallet onu kurtarmanıza yardımcı olamaz.",
     "warning_proceed": "Cüzdanı kaldır ve ilerle",
     "warning_cancel": "İptal",
     "step1": "Cüzdan kurulumu",
     "step2": "Şifre oluştur",
     "step3": "Cüzdanı güvenli hale getir",
     "already_have": "Zaten bir cüzdanınız var mı?",
-    "sync_existing": "Tarayıcı uzantısından mevcut MetaMask cüzdanınızı senkronize edin veya manuel olarak içe aktarın.",
-    "scan_title": "MetaMask uzantısı ile senkronize etme adımları",
+    "sync_existing": "Tarayıcı uzantısından mevcut Sora Wallet cüzdanınızı senkronize edin veya manuel olarak içe aktarın.",
+    "scan_title": "Sora Wallet uzantısı ile senkronize etme adımları",
     "scan": "Tara",
     "scan_step_1": "Uzantıyı masaüstünde aç",
     "scan_step_2": "Ayarlar > Gelişmiş kısmına gidin",
@@ -95,12 +95,12 @@
     "delete_current": "Geçerli cüzdan siliniyor"
   },
   "onboarding_carousel": {
-    "title1": "MetaMask'e Hoş Geldiniz",
+    "title1": "Sora Wallet'e Hoş Geldiniz",
     "title2": "Dijital varlıklarını yönet",
     "title3": "web3 ağ geçidiniz",
-    "subtitle1": "Milyonların güvendiği MetaMask web3 dünyasını herkes için erişilebilir kılan güvenli bir cüzdandır.",
+    "subtitle1": "Milyonların güvendiği Sora Wallet web3 dünyasını herkes için erişilebilir kılan güvenli bir cüzdandır.",
     "subtitle2": "Token, ethereum, eşsiz koleksiyonlar gibi dijital varlıkları tutun, harcayın ve gönderin.",
-    "subtitle3": "MetaMask ile oturum açın ve yatırım yapmak, kazanmak, oyun oynamak ve satmak ve daha fazlası için işlem yapın!",
+    "subtitle3": "Sora Wallet ile oturum açın ve yatırım yapmak, kazanmak, oyun oynamak ve satmak ve daha fazlası için işlem yapın!",
     "get_started": "Başla"
   },
   "onboarding_wizard": {
@@ -113,8 +113,8 @@
     },
     "step1": {
       "title": "Yeni cüzdanınıza hoş geldiniz!",
-      "content1": "Blokzincirini kullanmak için bir cüzdana ihtiyacınız var! Bazı eylemlerin maliyeti Ether (ETH) olacaktır.",
-      "content2": "Nasıl ETH satın alabileceğinizi göstereceğiz veya bir arkadaşınızdan biraz isteyebilirsiniz."
+      "content1": "Blokzincirini kullanmak için bir cüzdana ihtiyacınız var! Bazı eylemlerin maliyeti Ether (SETH) olacaktır.",
+      "content2": "Nasıl SETH satın alabileceğinizi göstereceğiz veya bir arkadaşınızdan biraz isteyebilirsiniz."
     },
     "step2": {
       "title": "Hesaplarınız",
@@ -130,7 +130,7 @@
     "step4": {
       "title": "Ana Menü",
       "content1": "Bu menüden İşlem geçmişi, Ayarlar ve Destek kısımlarına erişim sağlayabilirsiniz.",
-      "content2": "Hesaplarınızla daha fazla işlem yapabilir ve MetaMask ayarlarına erişim sağlayabilirsiniz."
+      "content2": "Hesaplarınızla daha fazla işlem yapabilir ve Sora Wallet ayarlarına erişim sağlayabilirsiniz."
     },
     "step5": {
       "title": "Tarayıcıyı Keşfet",
@@ -149,7 +149,7 @@
     },
     "step1": {
       "title": "Cüzdanınıza hoş geldiniz!",
-      "content1": "Blokzincirinde bir cüzdana ihtiyacınız vardır (ve belki biraz ETH'ye). Öyleyse, MetaMask cüzdanınızı nasıl kullanacağınıza bakalım."
+      "content1": "Blokzincirinde bir cüzdana ihtiyacınız vardır (ve belki biraz SETH'ye). Öyleyse, Sora Wallet cüzdanınızı nasıl kullanacağınıza bakalım."
     },
     "step2": {
       "title": "Hesaplarınız",
@@ -177,14 +177,14 @@
     "subtitle": "Bu işlem uzun sürmeyecektir"
   },
   "import_wallet": {
-    "title": "Zaten MetaMask kullanıcısı mısınız?",
+    "title": "Zaten Sora Wallet kullanıcısı mısınız?",
     "sub_title": "Uzantı ile senkronize et",
     "sync_help": "Uzantı ile cüzdanını senkronize et",
     "sync_help_step_one": "1. Uzantıyı aç",
     "sync_help_step_two": "2. Ayarlar > Gelişmiş kısmına gidin",
     "sync_help_step_three": "3. “Mobil ile Senkronize Et” düğmesine tıklayın",
     "sync_help_step_four": "4. Senkronize etmeye başlamak için QR kodunu tarayın",
-    "sync_from_browser_extension_button": "MetaMask uzantısı ile senkronize et",
+    "sync_from_browser_extension_button": "Sora Wallet uzantısı ile senkronize et",
     "or": "VEYA",
     "import_from_seed_button": "Gizli Kurtarma İfadesini kullanarak içe aktar"
   },
@@ -204,13 +204,13 @@
     "this_action": "Bu eylem geri alınamaz.",
     "you_can_only": "Bu cüzdanı SADECE",
     "recovery_phrase": "Gizli Kurtarma İfadenizle kurtarabilirsiniz",
-    "metamask_does_not": "Gizli Kurtarma İfadeniz MetaMask'in içerisinde bulunmaz.",
+    "metamask_does_not": "Gizli Kurtarma İfadeniz Sora Wallet'in içerisinde bulunmaz.",
     "i_understand": "Anlıyorum, devam et",
     "passcode_not_set_error": "Hata: Parola ayarlanmadı.",
     "wrong_password_error": "Hata: Şifre çözme başarısız oldu",
     "wrong_password_error_android": "Hata: error:1e000065:Şifreleme fonksiyonları:OPENSSL_internal:BAD_DECRYPT",
     "vault_error": "Hata: Önceki bir vault olmadan kilidi açılamaz.",
-    "clean_vault_error": "MetaMask, depolama limitine ulaşılmasından dolayı bir hata ile karşılaştı. Yerel veriler bozuldu. Lütfen MetaMask'ı tekrar yükleyin ve Gizli Kurtarma İfadenizi kullanarak geri yükleyin.",
+    "clean_vault_error": "Sora Wallet, depolama limitine ulaşılmasından dolayı bir hata ile karşılaştı. Yerel veriler bozuldu. Lütfen Sora Wallet'ı tekrar yükleyin ve Gizli Kurtarma İfadenizi kullanarak geri yükleyin.",
     "security_alert_title": "Güvenlik Uyarısı",
     "security_alert_desc": "İlerlemek için Parolayı veya cihazınızda desteklenen herhangi bir biyometrik kimlik doğrulama yöntemini (FaceID, TouchID veya Parmak İzi) açmanız gereklidir"
   },
@@ -227,7 +227,7 @@
   },
   "choose_password": {
     "title": "Şifre oluştur",
-    "subtitle": "Bu şifre sadece bu cihazda MetaMask cüzdanınızın kilidini açar.",
+    "subtitle": "Bu şifre sadece bu cihazda Sora Wallet cüzdanınızın kilidini açar.",
     "password": "Yeni Şifre",
     "confirm_password": "Şifreyi onayla",
     "create_button": "Şifre oluştur",
@@ -245,7 +245,7 @@
     "remember_me": "Beni hatırla",
     "security_alert_title": "Güvenlik Uyarısı",
     "security_alert_message": "İlerlemek için Parolayı veya cihazınızda desteklenen herhangi bir biyometri kimlik doğrulama yöntemini (FaceID, TouchID veya Parmak İzi) açmanız gerekir",
-    "i_understand": "MetaMask'ın benim için bu şifreyi kurtaramadığını anlıyorum.",
+    "i_understand": "Sora Wallet'ın benim için bu şifreyi kurtaramadığını anlıyorum.",
     "learn_more": "Daha fazlasını öğren.",
     "secure": "Cüzdanı güvenli hale getir",
     "confirm": "Gizli Kurtarma İfadesini onayla",
@@ -253,7 +253,7 @@
   },
   "reset_password": {
     "title": "Şifreyi değiştir",
-    "subtitle": "Bu şifre sadece bu cihazda MetaMask cüzdanınızın kilidini açar.",
+    "subtitle": "Bu şifre sadece bu cihazda Sora Wallet cüzdanınızın kilidini açar.",
     "password": "Yeni Şifre",
     "confirm_password": "Şifreyi onayla",
     "reset_button": "Şifreyi sıfırla",
@@ -271,7 +271,7 @@
     "remember_me": "Beni hatırla",
     "security_alert_title": "Güvenlik Uyarısı",
     "security_alert_message": "İlerlemek için Parolayı veya cihazınızda desteklenen herhangi bir biyometri kimlik doğrulama yöntemini (FaceID, TouchID veya Parmak İzi) açmanız gerekir",
-    "i_understand": "MetaMask'ın benim için bu şifreyi kurtaramadığını anlıyorum.",
+    "i_understand": "Sora Wallet'ın benim için bu şifreyi kurtaramadığını anlıyorum.",
     "learn_more": "Daha fazlasını öğren.",
     "secure": "Cüzdanı güvenli hale getir",
     "confirm": "Gizli Kurtarma İfadesini onayla",
@@ -321,7 +321,7 @@
     "lock_ok": "EVET",
     "lock_cancel": "HAYIR",
     "feedback": "Geri Bildirim",
-    "metamask_support": "MetaMask Destek",
+    "metamask_support": "Sora Wallet Destek",
     "public_address": "Genel Adres"
   },
   "send": {
@@ -373,7 +373,7 @@
     "no_tokens": "Tokeniniz yok!",
     "no_nfts_yet": "Henüz NFT yok",
     "nfts_autodetection_title": "NFT algılama",
-    "nfts_autodetection_desc": "MetaMask'ın OpenSea'den NFT'leri otomatik olarak algılayıp MetaMask cüzdanınızda göstermesine izin verin.",
+    "nfts_autodetection_desc": "Sora Wallet'ın OpenSea'den NFT'leri otomatik olarak algılayıp Sora Wallet cüzdanınızda göstermesine izin verin.",
     "network_details_check": "Ağ bilgileri kontrolü",
     "network_with_chain_id": "Zincir kimliği olan ağ",
     "potential_scam": "Bu potansiyel bir dolandırıcılıktır",
@@ -467,15 +467,15 @@
   "privacy_policy": {
     "title": "Gizlilik Politikası",
     "fine_print_1": "Bu veriler toplanmıştır ve bu nedenle 2016/679 sayılı Genel Veri Koruma Tüzüğü (AB) kapsamında isimsizdir.",
-    "fine_print_2a": "*MetaMask'te varsayılan RPC sağlayıcınız olarak Infura'yı kullandığınızda, siz bir işlem gönderdiğinizde Infura, IP adresinizi ve Ethereum cüzdan adresinizi toplar. Bu bilgileri sistemlerimizin bu iki veri parçasını ilişkilendirmesine izin verecek şekilde saklamayız. İlerlemeden önce RPC sağlayıcınızı",
-    "fine_print_2b": "yapılandırabilirsiniz. \nMetaMask ve Infura'nın veri toplama açısından nasıl etkileşimde bulunduğu hakkında daha fazla bilgi için güncellememize bakın",
+    "fine_print_2a": "*Sora Wallet'te varsayılan RPC sağlayıcınız olarak Infura'yı kullandığınızda, siz bir işlem gönderdiğinizde Infura, IP adresinizi ve Sora cüzdan adresinizi toplar. Bu bilgileri sistemlerimizin bu iki veri parçasını ilişkilendirmesine izin verecek şekilde saklamayız. İlerlemeden önce RPC sağlayıcınızı",
+    "fine_print_2b": "yapılandırabilirsiniz. \nSora Wallet ve Infura'nın veri toplama açısından nasıl etkileşimde bulunduğu hakkında daha fazla bilgi için güncellememize bakın",
     "fine_print_2c": ". Genel olarak gizlilik uygulamalarımız hakkında daha fazla bilgi için Gizlilik Politikası bölümümüze bakın",
     "here": "bakın:",
     "agree": "Kabul Ediyorum",
     "decline": "Hayır, teşekkürler",
-    "description_title": "MetaMask'ı iyileştirmemize yardımcı olun",
-    "description_content_1": "MetaMask olarak kullanıcılarımızın mobil uygulama ile nasıl etkileşimde bulunduğunu daha iyi anlamak amacıyla temel kullanım verileri toplamak isteriz. Bu veriler ürünümüze ilişkin kullanılabilirliği ve kullanıcı deneyimini devamlı iyileştirmek amacıyla kullanılacaktır.",
-    "description_content_2": "MetaMask...",
+    "description_title": "Sora Wallet'ı iyileştirmemize yardımcı olun",
+    "description_content_1": "Sora Wallet olarak kullanıcılarımızın mobil uygulama ile nasıl etkileşimde bulunduğunu daha iyi anlamak amacıyla temel kullanım verileri toplamak isteriz. Bu veriler ürünümüze ilişkin kullanılabilirliği ve kullanıcı deneyimini devamlı iyileştirmek amacıyla kullanılacaktır.",
+    "description_content_2": "Sora Wallet...",
     "action_description_1": "Her zaman Ayarlar kısmından vazgeçebilmenize izin verir",
     "action_description_2": "İsimsiz tıklama ve sayfa görüntüleme etkinlikleri gönderir",
     "action_description_3": "Ülke, bölge, şehir (belirli bir konum değil) verileri gönderir",
@@ -573,9 +573,9 @@
     "deceptive_site_ahead": "Aldatıcı siteye gidiliyor",
     "deceptive_site_desc": "Ziyaret etmeye çalıştığınız sayfa güvenli değil. Saldırganlar tehlikeli bir şey yapmanız konusunda sizi aldatabilir.",
     "learn_more": "Daha fazla bilgi",
-    "advisory_by": "Ethereum Kimlik Avı Algılayıcı ve PhishFort tarafından sunulan uyarı",
+    "advisory_by": "Sora Kimlik Avı Algılayıcı ve PhishFort tarafından sunulan uyarı",
     "potential_threat": "Potansiyel tehditler şunları içerir",
-    "fake_metamask": "Sahte MetaMask sürümleri",
+    "fake_metamask": "Sahte Sora Wallet sürümleri",
     "srp_theft": "Gizli kurtarma ifadesi veya şifre hırsızlığı",
     "malicious_transactions": "Varlıkların çalınmasına neden olan kötü amaçlı işlemler"
   },
@@ -617,7 +617,7 @@
     "current_conversion": "Temel Para Birimi",
     "current_language": "Geçerli Dil",
     "ipfs_gateway": "IPFS Ağ Geçidi",
-    "ipfs_gateway_content": "MetaMask, IPFS'de depolanan NFT'lerinizin görüntülerini göstermek, tarayıcınızın adres çubuğuna girilen ENS adresleri ile ilgili bilgileri göstermek ve farklı token'lerin simgelerini almak için üçüncü taraf hizmetleri kullanır. Siz bunları kullanırken IP adresiniz bu hizmetlerle paylaşılabilir.",
+    "ipfs_gateway_content": "Sora Wallet, IPFS'de depolanan NFT'lerinizin görüntülerini göstermek, tarayıcınızın adres çubuğuna girilen ENS adresleri ile ilgili bilgileri göstermek ve farklı token'lerin simgelerini almak için üçüncü taraf hizmetleri kullanır. Siz bunları kullanırken IP adresiniz bu hizmetlerle paylaşılabilir.",
     "ipfs_gateway_down": "Geçerli IPFS ağ geçidiniz bozuk",
     "ipfs_gateway_desc": "Tercih ettiğiniz IPFS ağ geçidini seçin.",
     "search_engine": "Arama Motoru",
@@ -626,7 +626,7 @@
     "add_network_title": "Ağ ekle",
     "auto_lock": "Otomatik kilitle",
     "auto_lock_desc": "Uygulama otomatik olarak kilitlenmeden süre miktarını seçin.",
-    "state_logs_desc": "Bu, MetaMask'ın, karşılaşabileceğiniz her sorunu çözmesine yardımcı olur. Lütfen hamburger simgesinden > Geri Bildirim Gönder kısmından MetaMask destek bölümüne gönderin veya varsa mevcut sorgunuza yanıt verin.",
+    "state_logs_desc": "Bu, Sora Wallet'ın, karşılaşabileceğiniz her sorunu çözmesine yardımcı olur. Lütfen hamburger simgesinden > Geri Bildirim Gönder kısmından Sora Wallet destek bölümüne gönderin veya varsa mevcut sorgunuza yanıt verin.",
     "autolock_immediately": "Hemen",
     "autolock_never": "Hiçbir Zaman",
     "autolock_after": "{{time}} saniye sonra",
@@ -660,7 +660,7 @@
     "protect_title": "Cüzdanınızı koruyun",
     "video_failed": "Video Yükleme İşlemi Başarısız Oldu.",
     "protect_desc": "Gizli Kurtarma İfadenizi bir kağıt parçası, şifre yöneticisi ve/veya bulut gibi çeşitli yerlere kaydederek cüzdanını koruyun.",
-    "protect_desc_no_backup": "Bu sizin cüzdanınızın 12 sözcükten oluşan ifadesidir. Bu ifade, cüzdanınızda para gönderme kabiliyeti de dahil olmak üzere tüm şimdiki ve gelecekteki hesaplarınızı kontrol etmek için kullanılabilir. Bu ifadeyi güvenli bir şekilde saklayın, hiç kimseyle PAYLAŞMAYIN. MetaMask bu anahtarı kurtarmanıza yardımcı olamaz.",
+    "protect_desc_no_backup": "Bu sizin cüzdanınızın 12 sözcükten oluşan ifadesidir. Bu ifade, cüzdanınızda para gönderme kabiliyeti de dahil olmak üzere tüm şimdiki ve gelecekteki hesaplarınızı kontrol etmek için kullanılabilir. Bu ifadeyi güvenli bir şekilde saklayın, hiç kimseyle PAYLAŞMAYIN. Sora Wallet bu anahtarı kurtarmanıza yardımcı olamaz.",
     "learn_more": "Daha fazlasını öğren.",
     "seedphrase_not_backed_up": "Önemli! Gizli Kurtarma İfadesi yedeklenmedi",
     "seedphrase_backed_up": "Gizli Kurtarma İfadesi yedeklendi",
@@ -670,7 +670,7 @@
     "privacy_mode": "Gizli mod",
     "privacy_mode_desc": "Web siteleri, hesap bilgilerinizi görüntülemek için erişim istemelidir.",
     "nft_opensea_mode": "OpenSea API'yi etkinleştir",
-    "nft_opensea_desc": "NFT medya ve verilerinin görüntülenmesi IP adresini merkezi olan sunuculara ifşa edebilir. NFT verilerini almak için OpenSea'nin API'sini kullanın. NFT otomatik algılama OpenSea'nin API'sine güvenilir ve kapatıldığında kullanılamaz. NFT otomatik algılamanın etkinleştirilmesi cüzdanınıza herkes tarafından sahte NFT'lerin gönderilmesine maruz bırakabilir ve bir saldırganın sizin Ethereum adresinizden IP adresinizi öğrenmesine izin verebilir.",
+    "nft_opensea_desc": "NFT medya ve verilerinin görüntülenmesi IP adresini merkezi olan sunuculara ifşa edebilir. NFT verilerini almak için OpenSea'nin API'sini kullanın. NFT otomatik algılama OpenSea'nin API'sine güvenilir ve kapatıldığında kullanılamaz. NFT otomatik algılamanın etkinleştirilmesi cüzdanınıza herkes tarafından sahte NFT'lerin gönderilmesine maruz bırakabilir ve bir saldırganın sizin Sora adresinizden IP adresinizi öğrenmesine izin verebilir.",
     "nft_autodetect_mode": "NFT'leri otomatik algıla",
     "nft_autodetect_desc": "NFT medya ve verilerinin gösterimi IP adresinizi merkezi sunuculara ifşa edebilir. Cüzdanınızdaki NFT'leri algılamak için üçüncü taraf API'ler (OpenSea gibi) kullanılır. Bu da, hesap adresinizi bu hizmetlere maruz bırakır. Uygulamanın bu hizmetlerden veri çekmesini istemiyorsanız bunu devre dışı bırakın.",
     "show_hex_data": "On Altılı Verileri Göster",
@@ -730,15 +730,15 @@
     "remove_network_title": "Bu ağı kaldırmak istiyor musunuz?",
     "remove_network": "Kaldır",
     "cancel_remove_network": "İptal",
-    "info_title": "MetaMask Hakkında",
-    "info_title_flask": "MetaMask Flask Hakkında",
+    "info_title": "Sora Wallet Hakkında",
+    "info_title_flask": "Sora Wallet Flask Hakkında",
     "experimental_title": "Deneysel",
     "experimental_desc": "WalletConnect ve daha fazlası...",
     "legal_title": "Hukuki",
     "conversion_title": "Para birimi dönüştürme",
     "conversion_desc": "Uygulama genelinde belirli bir para birimini kullanarak fiat para değerlerini göster.",
     "primary_currency_title": "Birincil Para Birimi",
-    "primary_currency_desc": "Zincirin yerli para biriminde değerleri göstermeye öncelik vermek için Yerel seçeneğini seçin (ör. ETH). Kendi seçtiğiniz fiat paradaki değerleri göstermeye öncelik vermek için Fiat Para seçeneğini seçin.",
+    "primary_currency_desc": "Zincirin yerli para biriminde değerleri göstermeye öncelik vermek için Yerel seçeneğini seçin (ör. SETH). Kendi seçtiğiniz fiat paradaki değerleri göstermeye öncelik vermek için Fiat Para seçeneğini seçin.",
     "primary_currency_text_first": "Yerel",
     "primary_currency_text_second": "Fiat Para",
     "language_desc": "Uygulamayı farklı bir desteklenen dile çevir.",
@@ -751,7 +751,7 @@
     "clear_history_desc": "Tüm tarayıcı geçmişini temizlemek için bu seçeneği seçin.",
     "clear_cookies_desc": "Tarayıcının çerezlerini temizlemek için bu seçeneği seçin.",
     "metametrics_title": "MetaMetrics'e katıl",
-    "metametrics_description": "MetaMask'ı daha iyi hale getirebilmemize yardımcı olmak için MetaMetrics'e katılın.",
+    "metametrics_description": "Sora Wallet'ı daha iyi hale getirebilmemize yardımcı olmak için MetaMetrics'e katılın.",
     "batch_balance_requests_title": "Toplu hesap bakiyesi talepleri",
     "batch_balance_requests_description": "Hesapları toplarız ve bakiyelerinizi göstermek için Infura'yı sorgularız. Bunu kapattığınız takdirde sadece aktif hesaplar sorgulanır. Bazı merkeziyetsiz uygulamalar siz cüzdanınızı bağlamadığınız sürece çalışmaz.",
     "third_party_title": "Gelen işlemleri al",
@@ -802,18 +802,18 @@
     "delete_metrics_confirm_modal_title": "MetaMetrics verilerini sil?",
     "delete_metrics_confirm_modal_description": "Tüm MetaMetrics verilerini kaldırmak üzeresiniz. Emin misiniz?",
     "delete_wallet_data_title": "Cüzdanı sil",
-    "delete_wallet_data_description": "Bu işlem cüzdanla ilgili tüm verileri cihazınızdan silecek. Hesaplar blokzincirinde bulunur ve MetaMask ile ilgili değildir. Dilediğiniz zaman Gizli Kurtarma İfadenizi kullanarak hesaplarınızı kurtarabilirsiniz.",
+    "delete_wallet_data_description": "Bu işlem cüzdanla ilgili tüm verileri cihazınızdan silecek. Hesaplar blokzincirinde bulunur ve Sora Wallet ile ilgili değildir. Dilediğiniz zaman Gizli Kurtarma İfadenizi kullanarak hesaplarınızı kurtarabilirsiniz.",
     "delete_wallet_data_button": "Cüzdanı sil",
     "delete_data_status_title": "Silme İşleminin Durumu",
     "delete_data_status_description": "Güncel durum ",
     "delete_metrics_error_title": "Şu anda bu verileri silemiyoruz.",
     "delete_metrics_error_description": "Bu talep analitik bir sistem sunucusu sorunundan dolayı şu anda tamamlanamıyor, lütfen daha sonra tekrar deneyin.",
     "ok": "Tamam",
-    "clear_sdk_connections_title": "Tüm MetaMask SDK Bağlantılarını temizle",
+    "clear_sdk_connections_title": "Tüm Sora Wallet SDK Bağlantılarını temizle",
     "clear_sdk_connections_text": "Tüm bağlantılar temizlenecek ve uygulamaların tekrar bağlantı talep etmesi gerekecek",
-    "sdk_connections": "MetaMask SDK Bağlantıları",
+    "sdk_connections": "Sora Wallet SDK Bağlantıları",
     "manage_sdk_connections_title": "Bağlantıları yönet",
-    "manage_sdk_connections_text": "Sitelere ve/veya MetaMask SDK bağlantılarını kaldırın.",
+    "manage_sdk_connections_text": "Sitelere ve/veya Sora Wallet SDK bağlantılarını kaldırın.",
     "fiat_on_ramp": {
       "title": "Kripto Al ve Sat",
       "description": "Bölge ve daha fazlası...",
@@ -831,11 +831,11 @@
     "contact_support": "Destek ile iletişim kurun",
     "display_nft_media": "NFT Medyasını göster",
     "display_nft_media_desc": "NFT medyasını ve verilerini göstermek IP adresinizi OpenSea veya diğer üçüncü taraflara ifşa edebilir. NFT otomatik algılama bu özelliğe dayanır ve bu kapatıldığında kullanılamaz.",
-    "autodetect_nft_desc": "MetaMask'in üçüncü taraf hizmetleri (OpenSea) kullanarak size ait olan NFT'leri eklemesine izin verin. NFT'leri otomatik algılama, IP adresinizi ve hesap adresinizi bu hizmetlere ifşa eder. Bu özelliğin etkinleştirilmesi IP adresinizi Ethereum adresinizle ilişkilendirebilir ve dolandırıcılar tarafından airdrop'u gerçekleştirilen sahte NFT'leri gösterebilir. Bu riski önlemek için token'leri elle ekleyebilirsiniz.",
+    "autodetect_nft_desc": "Sora Wallet'in üçüncü taraf hizmetleri (OpenSea) kullanarak size ait olan NFT'leri eklemesine izin verin. NFT'leri otomatik algılama, IP adresinizi ve hesap adresinizi bu hizmetlere ifşa eder. Bu özelliğin etkinleştirilmesi IP adresinizi Sora adresinizle ilişkilendirebilir ve dolandırıcılar tarafından airdrop'u gerçekleştirilen sahte NFT'leri gösterebilir. Bu riski önlemek için token'leri elle ekleyebilirsiniz.",
     "incoming_transactions_title": "Gelen işlemleri göster",
-    "incoming_transactions_content": "Bu, Ethereum adresinizi ve IP adresinizi ifşa edecek olan seçtiğiniz ağa dayalıdır.",
+    "incoming_transactions_content": "Bu, Sora adresinizi ve IP adresinizi ifşa edecek olan seçtiğiniz ağa dayalıdır.",
     "display_nft_media_desc_new": "NFT medyasını ve verilerini görüntülemek, IP adresinizin OpenSea veya diğer üçüncü taraflarla paylaşılmasına neden olabilir. NFT otomatik algılama bu özelliğe dayanır ve kapatıldığında kullanılamaz. NFT medyası tamamen IPFS'de bulunuyorsa bu özellik kapalı olduğunda bile görüntülenmeye devam edebilir.",
-    "use_safe_chains_list_validation_desc_1": "MetaMask ",
+    "use_safe_chains_list_validation_desc_1": "Sora Wallet ",
     "use_safe_chains_list_validation_desc_2": "adlı bir üçüncü taraf hizmetini kullanır. Bu, kötü amaçlı ve yanlış ağa bağlanma ihtimalinizi düşürür. Bu özelliği kullanırken IP adresiniz şununla paylaşılır:  ",
     "snaps": {
       "title": "Snap'ler",
@@ -874,7 +874,7 @@
           "endowment:keyring": "endowment:keyring",
           "wallet_snap": "{{otherSnapName}} adlı snap'e bağlan",
           "endowment:webassembly": "WebAssembly desteği",
-          "endowment:ethereum-provider": "Ethereum sağlayıcısına erişim sağla",
+          "endowment:ethereum-provider": "Sora sağlayıcısına erişim sağla",
           "endowment:unknown": "Bilinmeyen izin",
           "snap_getLocale": "Tercih ettiğiniz dili görüntüle",
           "endowment:caveat:transaction-origin": "İşlem öneren web sitelerinin kökenlerini gör",
@@ -892,7 +892,7 @@
     "symbol_required": "Sembol gerekli.",
     "blockaid": "Blockaid",
     "security_alerts": "Güvenlik uyarıları",
-    "security_alerts_desc": "Bu özellik, işlem ve imza taleplerinizi yerel olarak incelerken gizliliğinizi koruyarak Ethereum Ana Ağındaki kötü amaçlı aktivitelere karşı sizi uyarır. Talepleri onaylamadan önce her zaman gereken özeni kendiniz gösterin. Bu özelliğin tüm kötü amaçlı faaliyetleri algılayacağına dair herhangi bir garanti bulunmamaktadır. Bu özelliği etkinleştirerek sağlayıcının kullanım koşullarını kabul etmiş olursunuz."
+    "security_alerts_desc": "Bu özellik, işlem ve imza taleplerinizi yerel olarak incelerken gizliliğinizi koruyarak Sora Ana Ağındaki kötü amaçlı aktivitelere karşı sizi uyarır. Talepleri onaylamadan önce her zaman gereken özeni kendiniz gösterin. Bu özelliğin tüm kötü amaçlı faaliyetleri algılayacağına dair herhangi bir garanti bulunmamaktadır. Bu özelliği etkinleştirerek sağlayıcının kullanım koşullarını kabul etmiş olursunuz."
   },
   "sdk": {
     "disconnect_title": "Tüm sitelerin bağlantısı kesilsin mi?",
@@ -903,7 +903,7 @@
     "manage_connections": "Bağlantıları Yönet",
     "manage": "Yönet",
     "cancel": "İptal",
-    "loading": "MetaMask'a bağlanılıyor...",
+    "loading": "Sora Wallet'a bağlanılıyor...",
     "unkown_dapp": "Merkeziyetsiz uygulama adı kullanılamıyor",
     "no_connections": "Bağlantı yok",
     "no_connections_desc": "Bir siteye veya bir uygulamaya bağladığınız hesabı burada göreceksiniz."
@@ -928,7 +928,7 @@
   "sdk_feedback_modal": {
     "ok": "Tamam",
     "title": "Hesap bağlantısı kurulamadı",
-    "info": "MetaMask'a tekrar bağlanmak için lütfen merkeziyetsiz uygulama üzerinde QR kodunu tarayın"
+    "info": "Sora Wallet'a tekrar bağlanmak için lütfen merkeziyetsiz uygulama üzerinde QR kodunu tarayın"
   },
   "app_information": {
     "title": "Bilgi",
@@ -953,7 +953,7 @@
       "Gizli Kurtarma İfadesi (GKİ)",
       " cüzdanınıza,",
       " paranıza ve hesaplarınıza tam erişim verir.\n\n",
-      "MetaMask,",
+      "Sora Wallet,",
       "emanete dayalı olmayan bir cüzdandır",
       ". Yani, ",
       "GKİ'niz size aittir."
@@ -962,14 +962,14 @@
     "private_key_warning": "Bu, halihazırda seçili hesabın özel anahtarıdır: {{accountName}}. Bu anahtarı hiçbir zaman ifşa etmeyin. Özel anahtara sahip olan herkes, paranızın tamamını transfer etmek de dahil olmak üzere hesabınızı tam olarak kontrol edebilir.",
     "seed_phrase_warning_explanation": [
       "Hiç kimsenin ekranınıza bakmadığından emin olun.",
-      "MetaMask Destek bölümü bunu asla talep etmez."
+      "Sora Wallet Destek bölümü bunu asla talep etmez."
     ],
     "private_key_warning_explanation": "Bu anahtarı hiçbir zaman ifşa etmeyin. Özel anahtarınıza sahip olan herkes, paranızın tamamını transfer etmek de dahil olmak üzere hesabınızı tamamen kontrol edebilir.",
     "reveal_credential_modal": [
       "{{credentialName}} bilgileriniz ",
       "hesabınıza ve paranıza tam erişim sunar.\n\nBunu hiç kimseyle paylaşmayın.",
       "cüzdanınıza ve paranıza tam erişim sunar.\n\nBunu hiç kimseyle paylaşmayın.",
-      "MetaMask Destek tarafından bu talep edilmez, ",
+      "Sora Wallet Destek tarafından bu talep edilmez, ",
       "ancak dolandırıcılar tarafından talep edilebilir."
     ],
     "seed_phrase": "Gizli Kurtarma İfadeniz",
@@ -1005,7 +1005,7 @@
   },
   "password_reset": {
     "password_title": "Şifre",
-    "password_desc": "Cihazınızda MetaMask uygulamasının kilidini açmak için güçlü bir şifre seçin. Bu şifreyi kaybettiğiniz takdirde cüzdanınızı yeniden içe aktarmak için Gizli Kurtarma İfadenize ihtiyacınız olacaktır.",
+    "password_desc": "Cihazınızda Sora Wallet uygulamasının kilidini açmak için güçlü bir şifre seçin. Bu şifreyi kaybettiğiniz takdirde cüzdanınızı yeniden içe aktarmak için Gizli Kurtarma İfadenize ihtiyacınız olacaktır.",
     "password_learn_more": "Daha fazlasını öğren.",
     "change_password": "Şifreyi değiştir"
   },
@@ -1063,7 +1063,7 @@
       "show_less": "Daha az göster"
     },
     "activity": "{{symbol}} aktivitesi",
-    "disclaimer": "Piyasa verileri CoinGecko dahil bir veya daha fazla üçüncü taraf veri kaynakları tarafından sunulur. Söz konusu üçüncü taraf içerik sadece bilgi vermek amacıyla sunulur ve belirli bir varlığı satın alma, satma ya da kullanma tavsiyesi olarak görülmemelidir. MetaMask bu içeriğin herhangi bir belirli amaçla kullanımını önermez ve bunun doğruluğundan sorumlu değildir."
+    "disclaimer": "Piyasa verileri CoinGecko dahil bir veya daha fazla üçüncü taraf veri kaynakları tarafından sunulur. Söz konusu üçüncü taraf içerik sadece bilgi vermek amacıyla sunulur ve belirli bir varlığı satın alma, satma ya da kullanma tavsiyesi olarak görülmemelidir. Sora Wallet bu içeriğin herhangi bir belirli amaçla kullanımını önermez ve bunun doğruluğundan sorumlu değildir."
   },
   "account_details": {
     "title": "Hesap Bilgileri",
@@ -1106,7 +1106,7 @@
     "cancel": "İptal",
     "error": "Hata",
     "attempting_to_scan_with_wallet_locked": "Görünüşe göre bir QR kodunu taramaya çalışıyorsunuz, bunu kullanmak için cüzdanınızın kilidini açmanız gerekecek.",
-    "attempting_sync_from_wallet_error": "Görünüşe göre uzantı ile senkronize etmeye çalışıyorsunuz. Bunu yapabilmek için mevcut cüzdanınızı silmeniz gerekecek. \n\nUygulamayı sildiğinizde veya uygulamanın yeni bir sürümünü tekrar yüklediğinizde \"MetaMask Uzantısı ile Senkronize Et\" seçeneğini seçin. Önemli! Cüzdanınızı silmeden önce Gizli Kurtarma İfadenizi yedeklediğinizden emin olun.",
+    "attempting_sync_from_wallet_error": "Görünüşe göre uzantı ile senkronize etmeye çalışıyorsunuz. Bunu yapabilmek için mevcut cüzdanınızı silmeniz gerekecek. \n\nUygulamayı sildiğinizde veya uygulamanın yeni bir sürümünü tekrar yüklediğinizde \"Sora Wallet Uzantısı ile Senkronize Et\" seçeneğini seçin. Önemli! Cüzdanınızı silmeden önce Gizli Kurtarma İfadenizi yedeklediğinizden emin olun.",
     "not_allowed_error_title": "Kamera erişimini etkinleştir",
     "not_allowed_error_desc": "Bir hesap adresi veya iletişim adresi ile ilişkili bir QR kodunu taramak için kamera erişimine ihtiyaç var",
     "unrecognized_address_qr_code_title": "Tanınmayan QR kodu",
@@ -1152,7 +1152,7 @@
     "review_hex_data": "On altılı veriler",
     "insufficient": "Para yetersiz",
     "insufficient_amount": "Bu işlemi tamamlamak için {{amount}}{{tokenSymbol}} daha gerekiyor.",
-    "buy_more_eth": "Daha fazla ETH satın al",
+    "buy_more_eth": "Daha fazla SETH satın al",
     "buy_more": "Daha Fazla Satın Al",
     "go_to_faucet": "Musluğa git",
     "get_ether": "{{networkName}} ağı için Ether al.",
@@ -1215,12 +1215,12 @@
     "tokenContractAddressWarning_3": ". Bu adrese gönderdiğiniz tokenleri kaybedersiniz.",
     "smartContractAddressWarning": "Bu adres akıllı sözleşme adresidir. Lütfen bu adresin amacını anladığınızdan emin olun; aksi takdirde paranızı kaybetme riskini alırsınız.",
     "continueError": "Riskleri anlıyorum, devam et",
-    "gas_education_title_ethereum": "Ethereum gaz ücretleri",
+    "gas_education_title_ethereum": "Sora gaz ücretleri",
     "gas_education_title": "Gaz ücretleri",
     "gas_education_1": "Gaz ücretleri",
-    "gas_education_2_ethereum": "Ethereum ağında işlem gerçekleştiren kripto madencilerine ödenir.",
+    "gas_education_2_ethereum": "Sora ağında işlem gerçekleştiren kripto madencilerine ödenir.",
     "gas_education_2": "ağda işlem gerçekleştiren kripto madencilerine ödenir.",
-    "gas_education_3": "MetaMask gaz ücretlerinden kâr elde etmez.",
+    "gas_education_3": "Sora Wallet gaz ücretlerinden kâr elde etmez.",
     "gas_education_4": "Gaz ücretleri ağ trafiğine ve işlem karmaşıklığına göre dalgalanır.",
     "gas_education_learn_more": "Gaz ücretleri hakkında daha fazla bilgi alın",
     "confusable_title": "Alıcı adresini kontrol edin",
@@ -1235,7 +1235,7 @@
     "invalid_qr_code_sync": "Geçersiz QR kodu. Lütfen donanım cüzdanının senkronizasyon QR kodunu tarayın.",
     "no_camera_permission": "Kamera izni yok. Lütfen izin verin ve tekrar deneyin",
     "invalid_qr_code_sign": "Geçersiz QR kodu. Lütfen donanımınızı kontrol edin ve tekrar deneyin.",
-    "no_camera_permission_android": "Devam etmek için kameranıza MetaMask erişim izni vermeniz gerekiyor. Ayrıca sistem ayarlarınızı değiştirmeniz gerekebilir.",
+    "no_camera_permission_android": "Devam etmek için kameranıza Sora Wallet erişim izni vermeniz gerekiyor. Ayrıca sistem ayarlarınızı değiştirmeniz gerekebilir.",
     "mismatched_qr_request_id": "Uyumsuz işlem verisi. Lütfen aşağıdaki QR koduyla imzalamak için Kilidinizi kullanın ve 'İmzayı Al' tuşuna tıklayın.",
     "fiat_conversion_not_available": "Fiat para dönüştürmeleri şu anda kullanılmıyor",
     "hex_data_copied": "On altılı veriler panoya kopyalandı",
@@ -1253,7 +1253,7 @@
     "save": "Kaydet",
     "warning_gas_limit": "Gaz limiti 20999 üzerinde olmalıdır",
     "warning_gas_limit_estimated": "Tahmini gaz limiti {{gas}}, minimum değer olarak bunu kullanın",
-    "cost_explanation": "Gaz ücreti Ethereum ağında işleminizin gerçekleştirilme maliyetini kapsar. MetaMask bu ücretten kâr elde etmez. Ücret ne kadar yüksek olursa işleminizin gerçekleşme şansı o kadar yüksek olur."
+    "cost_explanation": "Gaz ücreti Sora ağında işleminizin gerçekleştirilme maliyetini kapsar. Sora Wallet bu ücretten kâr elde etmez. Ücret ne kadar yüksek olursa işleminizin gerçekleşme şansı o kadar yüksek olur."
   },
   "spend_limit_edition": {
     "save": "Kaydet",
@@ -1319,7 +1319,7 @@
     "change_url": "Url adresini değiştir",
     "switch_network": "Ağ değiştir",
     "dapp_browser": "MERKEZİYETSİZ UYGULAMA TARAYICISI",
-    "dapp_browser_message": "MetaMask, merkeziyetsiz web için cüzdanınız ve tarayıcınızdır. Bir bakın!",
+    "dapp_browser_message": "Sora Wallet, merkeziyetsiz web için cüzdanınız ve tarayıcınızdır. Bir bakın!",
     "featured_dapps": "ÖNE ÇIKAN MERKEZİYETSİZ UYGULAMALAR",
     "my_favorites": "FAVORİLERİM",
     "search": "Ara veya URL adresi gir",
@@ -1467,8 +1467,8 @@
     "status_not_ok": "Ağda bazı sorunlar yaşanıyor",
     "want_to_add_network": "Bu ağı eklemek istiyor musunuz?",
     "add_custom_network": "Özel ağ ekle",
-    "network_infomation": "Bu, bu ağın MetaMask dahilinde kullanılmasına izin verir",
-    "network_endorsement": "MetaMask kişisel ağları veya onların güvenliğini ciro etmez.",
+    "network_infomation": "Bu, bu ağın Sora Wallet dahilinde kullanılmasına izin verir",
+    "network_endorsement": "Sora Wallet kişisel ağları veya onların güvenliğini ciro etmez.",
     "learn_about": "Dolandırıcılıklar ve ağ güvenlik riskleri",
     "network_risk": "hakkında bilgi alın",
     "network_display_name": "Görüntü adı",
@@ -1504,7 +1504,7 @@
     "add_network": "manuel olarak daha fazla ekleyebilirsiniz.",
     "select_network": "Bir ağ seçin",
     "show_test_networks": "Test ağlarını göster",
-    "deprecated_goerli": "Ethereum'da yaşanan protokol değişikliklerinden dolayı: Goerli test ağı güvenilir bir şekilde çalışmayabilir ve yakında kullanım dışı olacak.",
+    "deprecated_goerli": "Sora'da yaşanan protokol değişikliklerinden dolayı: Goerli test ağı güvenilir bir şekilde çalışmayabilir ve yakında kullanım dışı olacak.",
     "network_deprecated_title": "Bu ağ artık kullanılmıyor",
     "network_deprecated_description": "Bağlanmaya çalıştığınız ağ artık Metamask'te desteklenmiyor."
   },
@@ -1535,7 +1535,7 @@
     "balance": "Bakiye"
   },
   "unit": {
-    "eth": "ETH",
+    "eth": "SETH",
     "sai": "SAI",
     "dai": "DAI",
     "negative": "-",
@@ -1560,9 +1560,9 @@
   },
   "authentication": {
     "auth_prompt_title": "Doğrulama gerekli",
-    "auth_prompt_desc": "MetaMask'ı kullanabilmek için lütfen doğrulama yapın",
+    "auth_prompt_desc": "Sora Wallet'ı kullanabilmek için lütfen doğrulama yapın",
     "fingerprint_prompt_title": "Doğrulama gerekli",
-    "fingerprint_prompt_desc": "MetaMask'ın kilidini açmak için parmak izinizi kullanın",
+    "fingerprint_prompt_desc": "Sora Wallet'ın kilidini açmak için parmak izinizi kullanın",
     "fingerprint_prompt_cancel": "İptal"
   },
   "accountApproval": {
@@ -1584,7 +1584,7 @@
   },
   "import_private_key": {
     "title": "Hesabı İçe Aktar",
-    "description_one": "İçe aktarılan hesaplar cüzdanınızda görüntülenebilir ancak MetaMask Gizli Kurtarma İfadenizle kurtarılamaz.",
+    "description_one": "İçe aktarılan hesaplar cüzdanınızda görüntülenebilir ancak Sora Wallet Gizli Kurtarma İfadenizle kurtarılamaz.",
     "learn_more_here": "Burada içe aktarılan hesaplar hakkında daha fazla bilgi alın.",
     "subtitle": "Özel anahtar dizinizi yapıştırın",
     "cta_text": "İÇE AKTAR",
@@ -1596,7 +1596,7 @@
   },
   "import_private_key_success": {
     "title": "Hesap başarılı bir şekilde içe aktarıldı!",
-    "description_one": "Artık hesabınızı MetaMask'ta görüntüleyebileceksiniz."
+    "description_one": "Artık hesabınızı Sora Wallet'ta görüntüleyebileceksiniz."
   },
   "first_incoming_transaction": {
     "title": "Hesabınıza {{asset}} yatırıldı",
@@ -1611,7 +1611,7 @@
     "step_1_description": "Şifre oluştur",
     "step_2": "Adım 2:",
     "step_2_description": "Cüzdan Gizli Kurtarma İfadesini kaydedin",
-    "info_text_1": "MetaMask cüzdanınızın kurulumunu bitirmek için birkaç dakika ayırın.",
+    "info_text_1": "Sora Wallet cüzdanınızın kurulumunu bitirmek için birkaç dakika ayırın.",
     "info_text_2": "Bu, sadece cihazınızı kaybettiğiniz takdirde paranıza erişim sağlayabilmenizi ve cüzdanınızı kurtarmanızı sağlar",
     "cta_text": "Şifre oluştur",
     "creating_password": "Şifre oluşturuluyor..."
@@ -1633,7 +1633,7 @@
     "what_is_seedphrase_title": "‘Gizli Kurtarma İfadesi’ nedir",
     "what_is_seedphrase_text_1": "Gizli Kurtarma İfadesi, paranız da dahil olmak üzere cüzdanınız hakkında tüm bilgileri içeren on iki sözcükten oluşan bir dizidir. Cüzdanınıza erişim sağlamak için kullanılan gizli bir kod gibidir.",
     "what_is_seedphrase_text_2": "Gizli Kurtarma İfadenizi gizli ve güvende tutmalısınız. Gizli Kurtarma İfadenizi ele geçiren biri hesaplarınızın kontrolünü de ele geçirir.",
-    "what_is_seedphrase_text_3": "Sadece sizin erişim sağlayabileceğiniz bir yere kaydedin. Kaybettiğiniz takdirde onu kurtarmanıza MetaMask bile yardımcı olamaz."
+    "what_is_seedphrase_text_3": "Sadece sizin erişim sağlayabileceğiniz bir yere kaydedin. Kaybettiğiniz takdirde onu kurtarmanıza Sora Wallet bile yardımcı olamaz."
   },
   "account_backup_step_1B": {
     "title": "Cüzdanınızı koruyun",
@@ -1706,7 +1706,7 @@
   },
   "account_backup_step_6": {
     "title": "Güvenlik İpuçları",
-    "info_text": "MetaMask, Gizli Kurtarma İfadenizi kaybettiğiniz takdirde kurtaramaz",
+    "info_text": "Sora Wallet, Gizli Kurtarma İfadenizi kaybettiğiniz takdirde kurtaramaz",
     "tip_1": "Gizli Kurtarma İfadenizin birden fazla yedeğini tutun",
     "tip_2": "İfadeyi güvenilen bir şifre yöneticisinde ve güvenli bir yerde kağıt yedekler halinde saklayın",
     "tip_3": "Bu ifadeyi asla hiç kimseyle paylaşmayın",
@@ -1746,7 +1746,7 @@
     "congratulations": "Tebrikler",
     "success": "Cüzdanınızı başarılı bir şekilde korudunuz! Gizli Kurtarma İfadenizi güvende tutmayı unutmayın, bu sizin sorumluluğunuzdadır!",
     "hint": "Kendine bir ipucu bırak?",
-    "recover": "Kaybettiğiniz takdirde MetaMask cüzdanınızı kurtaramaz. Gizli Kurtarma İfadenizi Ayarlar > Güvenlik ve Gizlilik kısmında bulabilirsiniz.",
+    "recover": "Kaybettiğiniz takdirde Sora Wallet cüzdanınızı kurtaramaz. Gizli Kurtarma İfadenizi Ayarlar > Güvenlik ve Gizlilik kısmında bulabilirsiniz.",
     "learn": "Daha fazlasını öğren",
     "done": "Bitti",
     "recovery_hint": "Kurtarma ipucu",
@@ -1757,9 +1757,9 @@
     "cancel": "İptal"
   },
   "phishing": {
-    "ethereum_phishing_detection": "Ethereum Kimlik Avı Algılama",
-    "ethereum_phishing_detector": "Ethereum Kimlik Avı Algılayıcı",
-    "intro": " şu anda MetaMask alan adı uyarı listesindedir. Yani, bizde bulunan bilgilere göre MetaMask, bu alan adının şu anda güvenliğinizi ihlal edebiliyor olduğuna inanıyor ve ek bir güvenlik özelliği olarak MetaMask bu siteye erişimi kısıtlamıştır. Bunu geçersiz kılmak için lütfen riski size ait olmak üzere nasıl devam edebileceğiniz hakkındaki talimatlar için bu uyarının geri kalan kısmını okuyun.",
+    "ethereum_phishing_detection": "Sora Kimlik Avı Algılama",
+    "ethereum_phishing_detector": "Sora Kimlik Avı Algılayıcı",
+    "intro": " şu anda Sora Wallet alan adı uyarı listesindedir. Yani, bizde bulunan bilgilere göre Sora Wallet, bu alan adının şu anda güvenliğinizi ihlal edebiliyor olduğuna inanıyor ve ek bir güvenlik özelliği olarak Sora Wallet bu siteye erişimi kısıtlamıştır. Bunu geçersiz kılmak için lütfen riski size ait olmak üzere nasıl devam edebileceğiniz hakkındaki talimatlar için bu uyarının geri kalan kısmını okuyun.",
     "reasons": "Uyarı listemizde sitelerin yer almasının pek çok sebebi vardır ve uyarı listemiz diğer çok kullanılan sektör listelerinden derlenir. Sebepleri şunlar olabilir: Şurada pozitif olan alan adları gibi bilinen dolandırıcılık veya güvenlik riskleri:",
     "list_content": "Bu uyarı listelerinde yer alan alan adları, tamamen kötü amaçlı web siteleri ve kötü amaçlı bir aktör tarafından gizliliği ihlal edilen meşru web siteler olabilir.",
     "to_read_more": "Bu site hakkında daha fazlasını okumak için ",
@@ -1794,7 +1794,7 @@
     "received_message": "Bu işlemi görüntülemek için dokunun",
     "received_payment_message": "{{amount}} DAI aldınız",
     "prompt_title": "Anlık Bildirimleri Etkinleştir",
-    "prompt_desc": "MetaMask'ın ne zaman ETH aldığınızı veya işlemlerinizin ne zaman onaylandığını size bildirebilmesi için bildirimleri etkinleştirin.",
+    "prompt_desc": "Sora Wallet'ın ne zaman SETH aldığınızı veya işlemlerinizin ne zaman onaylandığını size bildirebilmesi için bildirimleri etkinleştirin.",
     "prompt_ok": "Evet",
     "prompt_cancel": "Hayır, teşekkürler",
     "wc_connected_title": "{{title}} alanına bağlanıldı",
@@ -1904,7 +1904,7 @@
     "depositing_to": "Şuraya yatırılıyor:"
   },
   "fiat_on_ramp": {
-    "buy_eth": "ETH Satın Al",
+    "buy_eth": "SETH Satın Al",
     "buy": "{{ticker}} Satın Al",
     "purchased_currency": "{{currency}} Satın Alındı",
     "network_not_supported": "Geçerli ağ desteklenmiyor",
@@ -1934,7 +1934,7 @@
     "moonpay_options_fees_vary": "145'ten fazla ülke, ücret ve limitler değişiklik gösterir",
     "some_states_excluded": "Bazı ülkeler hariçtir",
     "purchase_method_modal_close": "Kapat",
-    "transak_cta": "Transak ile ETH satın al",
+    "transak_cta": "Transak ile SETH satın al",
     "transak_cta_ticker": "Transak ile {{ticker}} satın al",
     "apple_pay": "Apple Pay",
     "via": "ile",
@@ -1957,7 +1957,7 @@
     "wyre_minimum_deposit": "Minimum yatırılması gereken tutar{{amount}}",
     "wyre_maximum_deposit": "Maksimum yatırılması gereken tutar {{amount}}",
     "apple_pay_purchase": "{{currency}} Satın Alın",
-    "apple_pay_provider_total_label": "{{provider}}(MetaMask ile)",
+    "apple_pay_provider_total_label": "{{provider}}(Sora Wallet ile)",
     "buy_with": "Şununla satın al:",
     "plus_fee": "Artı {{fee}} ücret",
     "date": "Tarih",
@@ -1976,12 +1976,12 @@
         "average_gas_fee": "Güncel ortalama gaz ücreti:",
         "subtitle_1": "{{ticker}} öğenizi değiştirmeyi ve aktarmayı planlıyorsanız gaz ücretlerini karşılamak için ekstra satın alın.",
         "subtitle_2": "İşlemlerin gaz ücretleri {{ticker}} satın almanın maliyetinden ayrıdır.",
-        "subtitle_3": "MetaMask gaz ücretlerinden kâr elde etmez."
+        "subtitle_3": "Sora Wallet gaz ücretlerinden kâr elde etmez."
       },
       "step_2": {
         "title": "Gaz ücretleri nedir?",
-        "subtitle_1": "Ethereum ağındaki gaz gücü işlemleri. İşlemlerinizi gerçekleştiren kripto madencilerine {{ticker}} cinsinde ödenen bir ücrettir.",
-        "subtitle_2": "MetaMask gaz ücretlerinden kâr elde etmez.",
+        "subtitle_1": "Sora ağındaki gaz gücü işlemleri. İşlemlerinizi gerçekleştiren kripto madencilerine {{ticker}} cinsinde ödenen bir ücrettir.",
+        "subtitle_2": "Sora Wallet gaz ücretlerinden kâr elde etmez.",
         "learn_more": "Gaz ücretleri hakkında daha fazla bilgi alın"
       },
       "step_3": {
@@ -2021,7 +2021,7 @@
     "onboarding": {
       "what_to_expect": "Bekleyebileceklerin",
       "quotes": "Kripto satın alma özelliğimiz, entegre satıcılardan teklifleri toplayarak bekleme süresi olmadan doğrudan cüzdanınıza kripto para alabilmeniz için size bu kaynaklardan teklifleri sunar.",
-      "quotes_sell": "Artık doğrudan MetaMask'te paraya çevirebilirsiniz! Biz size yolun her adımında rehberlik ederken güvenilir sağlayıcılardan en güncel teklifleri alın.",
+      "quotes_sell": "Artık doğrudan Sora Wallet'te paraya çevirebilirsiniz! Biz size yolun her adımında rehberlik ederken güvenilir sağlayıcılardan en güncel teklifleri alın.",
       "benefits": "Daha az gaz ücreti ödenir ve çeşitli ağ, token ve ödeme yöntemleri desteklenir",
       "benefits_sell": "Kriptodan yerel para biriminize off-ramp artık hiç olmadığı kadar kolay.",
       "get_started": "Başlarken"
@@ -2205,15 +2205,15 @@
       "best_swap": "swap işlemini",
       "across": "bul...",
       "want_to_learn_more": "Daha fazla bilgi almak mı istiyorsunuz?",
-      "learn_more": "MetaMask Swap işlemleri hakkında daha fazla bilgi alın",
+      "learn_more": "Sora Wallet Swap işlemleri hakkında daha fazla bilgi alın",
       "what_are": "Token swap nedir?",
       "review_audits": "Resmi sözleşme denetimimizi inceleyin",
       "start_swapping": "Swap işlemine başlayın"
     },
     "feature_off_title": "Geçici olarak kullanılamıyor",
-    "feature_off_body": "MetaMask Swaps şu anda bakım altındadır. Lütfen daha sonra tekrar kontrol edin.",
+    "feature_off_body": "Sora Wallet Swaps şu anda bakım altındadır. Lütfen daha sonra tekrar kontrol edin.",
     "wrong_network_title": "Swaplar kullanılamıyor",
-    "wrong_network_body": "Sadece Ethereum Ana Ağında token swap işlemi gerçekleştirebilirsiniz.",
+    "wrong_network_body": "Sadece Sora Ana Ağında token swap işlemi gerçekleştirebilirsiniz.",
     "unallowed_asset_title": "Bu token ile swap gerçekleştirilemiyor",
     "unallowed_asset_body": "Eşsiz mekanikleri olan bazı tokenler şu anda swap için desteklenmiyor.",
     "convert_from": "Şuradan Dönüştür:",
@@ -2267,7 +2267,7 @@
     "you_need": "Bu swap işlemini tamamlamak için",
     "more_to_complete": "daha fazlasına ihtiyacınız var.",
     "more_gas_to_complete": "gaz için daha fazlasına ihtiyacınız var.",
-    "buy_more_eth": "Daha fazla ETH satın al.",
+    "buy_more_eth": "Daha fazla SETH satın al.",
     "buy_more": "Daha fazla {{ticker}} satın al.",
     "market_price_unavailable_title": "İlerlemeden önce oranını kontrol et",
     "market_price_unavailable": "Piyasa fiyatı mevcut değil ve fiyat etkisi bu nedenle bilinmiyor. Swap gerçekleştirmeden önce lütfen alacağınız token miktarı konusunda rahat olduğunuzu doğrulayın.",
@@ -2289,16 +2289,16 @@
     "estimated_gas_fee": "Tahmini gaz ücreti",
     "max_gas_fee": "Maks. gaz ücreti",
     "edit": "Düzenle",
-    "quotes_include_fee": "%{{fee}} MetaMask ücreti tekliflere dahildir",
+    "quotes_include_fee": "%{{fee}} Sora Wallet ücreti tekliflere dahildir",
     "tap_to_swap": "Swap gerçekleştirmek için dokun",
     "swipe_to_swap": "Swap gerçekleştirmek için kaydır",
     "swipe_to": "Swap gerçekleştirmek için",
     "swap": "swap",
     "completed_swap": "Swap gerçekleştir!",
-    "metamask_swap_fee": "MetaMask Swap ücreti",
+    "metamask_swap_fee": "Sora Wallet Swap ücreti",
     "fee_text": {
-      "fee_is_applied": "Bu teklife otomatik olarak {{fee}} ücret dahil edilmiştir. MetaMask'in likidite sağlayıcı bilgilerinin toplandığı yazılımı kullanma lisansı karşılığında ödersiniz.",
-      "fee_is_not_applied": "MetaMask bu teklife ek bir ücret eklemez."
+      "fee_is_applied": "Bu teklife otomatik olarak {{fee}} ücret dahil edilmiştir. Sora Wallet'in likidite sağlayıcı bilgilerinin toplandığı yazılımı kullanma lisansı karşılığında ödersiniz.",
+      "fee_is_not_applied": "Sora Wallet bu teklife ek bir ücret eklemez."
     },
     "enable": {
       "this_will": "Bu,",
@@ -2361,9 +2361,9 @@
     "recommended_gas": "Önerilen gaz ücreti",
     "gas_education_title": "Tahmini gaz ücretleri",
     "gas_education_1": "Gaz ücretleri",
-    "gas_education_2_ethereum": "Ethereum ağında işlem gerçekleştiren kripto madencilerine ödenir.",
+    "gas_education_2_ethereum": "Sora ağında işlem gerçekleştiren kripto madencilerine ödenir.",
     "gas_education_2": "ağda işlem gerçekleştiren kripto madencilerine ödenir.",
-    "gas_education_3": "MetaMask gaz ücretlerinden kâr elde etmez.",
+    "gas_education_3": "Sora Wallet gaz ücretlerinden kâr elde etmez.",
     "gas_education_4": "Bu",
     "gas_education_5": "“Tahmini gaz ücreti”",
     "gas_education_6": "olmasını beklediğimiz gerçek ücrettir. Tam tutar ağ koşullarına bağlıdır.",
@@ -2404,13 +2404,13 @@
     "title": "Yenilikler",
     "blockaid": {
       "title": "Güvenlik uyarıları ile güvende kalın",
-      "description_1": "Blockaid tarafından desteklenen güvenlik uyarıları ile gizliliğinizi korumaya devam ederken bilinen dolandırıcılıklardan güvenli bir şekilde uzakta kalın. Bu özellik şu anda tüm MetaMask kullanıcıları için varsayılan olarak açıktır.",
+      "description_1": "Blockaid tarafından desteklenen güvenlik uyarıları ile gizliliğinizi korumaya devam ederken bilinen dolandırıcılıklardan güvenli bir şekilde uzakta kalın. Bu özellik şu anda tüm Sora Wallet kullanıcıları için varsayılan olarak açıktır.",
       "description_2": "Talepleri onaylamadan önce kendiniz her zaman gerekli özeni gösterin.",
       "got_it": "Anladım"
     },
     "sell": {
       "title": "Paraya çevirmek artık kolay",
-      "description": "Kriptonuzu doğrudan MetaMask'ta satın! Kriptonuzu her defasında erişilebilir, hızlı ve güvenli bir şekilde satabilmeniz için güvenilir sağlayıcılardan teklifleri bulmanıza yardımcı olacağız.",
+      "description": "Kriptonuzu doğrudan Sora Wallet'ta satın! Kriptonuzu her defasında erişilebilir, hızlı ve güvenli bir şekilde satabilmeniz için güvenilir sağlayıcılardan teklifleri bulmanıza yardımcı olacağız.",
       "action_text": "Deneyin"
     }
   },
@@ -2424,15 +2424,15 @@
   "switch_custom_network": {
     "title_existing_network": "Bu site ağ değiştirmek istiyor",
     "title_new_network": "Yeni ağ eklendi",
-    "switch_warning": "Bu işlem, MetaMask'te seçili bir ağı önceden eklenmiş bir ağ ile değiştirecek:",
+    "switch_warning": "Bu işlem, Sora Wallet'te seçili bir ağı önceden eklenmiş bir ağ ile değiştirecek:",
     "available": "artık ağ seçicide mevcut.",
     "cancel": "İptal",
     "switch": "Ağ değiştir"
   },
   "add_custom_network": {
     "title": "Bu sitenin ağ eklemesine izin ver?",
-    "warning": "Bu, bu ağın MetaMask dahilinde kullanılmasına izin verir.",
-    "warning_subtext_1": "MetaMask kişisel ağları veya onların güvenliğini doğrulamaz.",
+    "warning": "Bu, bu ağın Sora Wallet dahilinde kullanılmasına izin verir.",
+    "warning_subtext_1": "Sora Wallet kişisel ağları veya onların güvenliğini doğrulamaz.",
     "warning_subtext_2": "Dolandırıcılıklar ve ağ güvenlik riskleri",
     "warning_subtext_3": "hakkında bilgi alın",
     "display_name": "Görüntü adı",
@@ -2448,7 +2448,7 @@
     "alert_recommend": "Size",
     "alert_verify": "zincir kimliğini doğrulamanızı öneririz",
     "warning_subtext_new": {
-      "1": "MetaMask özel ağları doğrulamaz, bu yüzden sadece güvendiğiniz ağları onaylayın.",
+      "1": "Sora Wallet özel ağları doğrulamaz, bu yüzden sadece güvendiğiniz ağları onaylayın.",
       "2": "Ağ güvenlik riskleri ve dolandırıcılıklar hakkında daha fazla bilgi alın."
     },
     "invalid_rpc_url": "Bu ağın URL adresi bu zincir kimliği için bilinen bir sağlayıcı ile eşleşmiyor.",
@@ -2521,9 +2521,9 @@
     "max_amount": "Maks. tutar",
     "estimated_gas_fee_tooltip": "Gaz ücretleri nedir?",
     "estimated_gas_fee_tooltip_text_1": "Gaz ücretleri",
-    "estimated_gas_fee_tooltip_text_2": " Ethereum",
+    "estimated_gas_fee_tooltip_text_2": " Sora",
     "estimated_gas_fee_tooltip_text_3": "ağında işlem gerçekleştiren kripto madencilerine ödenir.",
-    "estimated_gas_fee_tooltip_text_4": "MetaMask gaz ücretlerinden kâr elde etmez.",
+    "estimated_gas_fee_tooltip_text_4": "Sora Wallet gaz ücretlerinden kâr elde etmez.",
     "estimated_gas_fee_tooltip_text_5": "Gaz ücretleri ağ tarafından belirlenir ve ağ trafiğine ve işlemin karmaşıklığına göre dalgalanır.",
     "learn_more": "Gaz ücretleri hakkında daha fazla bilgi alın",
     "legacy_gas_suggestion_tooltip": "Bu gaz ücreti yanlış olabilen eski gaz tahmininin kullanılmasını öneriyor."
@@ -2547,7 +2547,7 @@
     "high_fees": "Ücretler neden bu kadar yüksek?",
     "missing_tokens": "Tokenlerim eksik...",
     "swap_issues": "Swap gerçekleştiremiyorum...",
-    "mobile_sentiment": "MetaMask mobil hakkında ne düşünüyorsunuz?",
+    "mobile_sentiment": "Sora Wallet mobil hakkında ne düşünüyorsunuz?",
     "sentiment_good_face": "😁",
     "sentiment_bad_face": "☹️",
     "sentiment_good": "Bayıldım!",
@@ -2595,12 +2595,12 @@
   },
   "remember_me": {
     "enable_remember_me": "Beni Hatırla özelliğini aç",
-    "enable_remember_me_description": "Beni Hatırla özelliği açıldığında telefonunuza erişimi olan herkes MetaMask hesabınıza erişim sağlayabilir."
+    "enable_remember_me_description": "Beni Hatırla özelliği açıldığında telefonunuza erişimi olan herkes Sora Wallet hesabınıza erişim sağlayabilir."
   },
   "turn_off_remember_me": {
     "title": "Beni Hatırla özelliğini kapatmak için şifrenizi girin",
     "placeholder": "Şifre",
-    "description": "Bu seçeneği kapatırsanız şu andan itibaren MetaMask'in kilidini açmak için şifrenizi girmeniz gerekecektir.",
+    "description": "Bu seçeneği kapatırsanız şu andan itibaren Sora Wallet'in kilidini açmak için şifrenizi girmeniz gerekecektir.",
     "action": "Beni Hatırla özelliğini kapat"
   },
   "dapp_connect": {
@@ -2612,11 +2612,11 @@
   },
   "automatic_security_checks": {
     "title": "Otomatik güvenlik kontrolleri",
-    "description": "Güncellemelerin otomatik kontrolü IP adresini GitHub sunucularında açığa çıkarabilir. Bu durum sadece IP adresinin MetaMask kullandığını gösterir. Başka hiçbir bilgi ya da hesap adresi açığa çıkmaz."
+    "description": "Güncellemelerin otomatik kontrolü IP adresini GitHub sunucularında açığa çıkarabilir. Bu durum sadece IP adresinin Sora Wallet kullandığını gösterir. Başka hiçbir bilgi ya da hesap adresi açığa çıkmaz."
   },
   "terms_of_use_modal": {
     "title": "En yeni Kullanım Şartları bölümümüzü inceleyin",
-    "terms_of_use_check_description": "MetaMask ve tüm özelliklerini kullanırken geçerli olan Kullanım Koşulları bölümünü kabul ediyorum",
+    "terms_of_use_check_description": "Sora Wallet ve tüm özelliklerini kullanırken geçerli olan Kullanım Koşulları bölümünü kabul ediyorum",
     "accept_cta": "Kabul Edin",
     "accept_helper_description": "Tüm bölümleri okumak için lütfen kaydırın"
   },
@@ -2628,7 +2628,7 @@
   },
   "enable_automatic_security_check_modal": {
     "title": "Güvenlik güncellemelerini otomatik kontrol et?",
-    "description": "Güncellemelerin otomatik kontrolü IP adresini GitHub sunucularında açığa çıkarabilir. Bu durum sadece IP adresinin MetaMask kullandığını gösterir. Başka hiçbir bilgi ya da hesap adresi açığa çıkmaz.",
+    "description": "Güncellemelerin otomatik kontrolü IP adresini GitHub sunucularında açığa çıkarabilir. Bu durum sadece IP adresinin Sora Wallet kullandığını gösterir. Başka hiçbir bilgi ya da hesap adresi açığa çıkmaz.",
     "primary_action": "Otomatik güvenlik kontrollerini etkinleştir",
     "secondary_action": "Hayır, teşekkürler"
   },
@@ -2681,7 +2681,7 @@
     "new_wallet_needed_create_try_again_action": "Cüzdanı kurtarmayı dene",
     "new_wallet_needed_description_part_one": "Cüzdanınızla ilgili bir sorun oluştu ve yeni bir tane oluşturmanız gerekecek. Hesaplarınız blokzincirinde olduğu için hala güvende. Sadece cihazınızda kayıtlı olan tercihler, kaydedilen ağlar, hesap adları ve ilgili veriler kayboldu.",
     "new_wallet_needed_description_part_two": "Hesapları yeni bir cüzdana aktarmak için Gizli Kurtarma İfadene ihtiyacın olacak. Gizli Kurtarma İfaden yoksa hesaplarını içe aktaramayacaksın.",
-    "new_wallet_needed_description_part_three": "Bunun tekrar olmasını önlemek için her zaman MetaMask uygulamanı ve işletim sistemini en yeni sürümde güncel tuttuğundan emin ol."
+    "new_wallet_needed_description_part_three": "Bunun tekrar olmasını önlemek için her zaman Sora Wallet uygulamanı ve işletim sistemini en yeni sürümde güncel tuttuğundan emin ol."
   },
   "srp_security_quiz": {
     "title": "Güvenlik testi",
@@ -2692,7 +2692,7 @@
     "continue": "Devam",
     "of": "/",
     "question_one": {
-      "question": "Gizli Kurtarma İfadenizi kaybederseniz MetaMask...",
+      "question": "Gizli Kurtarma İfadenizi kaybederseniz Sora Wallet...",
       "right_answer": "Size yardımcı olamaz",
       "wrong_answer": "Size onu tekrar verebilir",
       "right_answer_title": "Doğru! Hiç kimse Gizli Kurtarma İfadenizi geri almanıza yardımcı olamaz",
@@ -2720,18 +2720,18 @@
     "location_access_blocked": "Ledger, mobil cihazınızla eşleşmek için konum erişimine ihtiyaç duyuyor.",
     "location_access_blocked_message": "Bluetooth kullanarak Ledger cihazınızı eşleştirmek istiyorsanız Ayarlar kısmında konum erişimini etkinleştirip tekrar denemeniz gerekecek.",
     "bluetooth_scanning_error": "Cihaz taranırken hata",
-    "bluetooth_scanning_error_message": "Lütfen cihazınızın kilidinin açık olduğundan ve Ethereum uygulamasının çalıştığından emin olun",
+    "bluetooth_scanning_error_message": "Lütfen cihazınızın kilidinin açık olduğundan ve Sora uygulamasının çalıştığından emin olun",
     "bluetooth_connection_failed": "Bluetooth bağlantısı başarısız oldu",
     "bluetooth_connection_failed_message": "Lütfen Ledger'ınızın kilidinin açık olduğundan ve Bluetooth özelliğinin etkin olduğundan emin olun",
     "ethereum_app_open": "Ledger onaya ihtiyaç duyuyor",
-    "ethereum_app_open_message": "Ethereum uygulamasını açmak için lütfen cihazınızda onaylayın. Yapıktan sonra Tamam düğmesine basın.",
-    "ethereum_app_unconfirmed_error": "Ethereum uygulamasını açma talebini reddettiniz.",
-    "failed_to_open_eth_app": "Ethereum uygulaması açılamadı.",
-    "ethereum_app_open_error": "Lütfen Ledger cihazınızda Ethereum uygulamasını yükleyin/kabul edin.",
+    "ethereum_app_open_message": "Sora uygulamasını açmak için lütfen cihazınızda onaylayın. Yapıktan sonra Tamam düğmesine basın.",
+    "ethereum_app_unconfirmed_error": "Sora uygulamasını açma talebini reddettiniz.",
+    "failed_to_open_eth_app": "Sora uygulaması açılamadı.",
+    "ethereum_app_open_error": "Lütfen Ledger cihazınızda Sora uygulamasını yükleyin/kabul edin.",
     "running_app_close": "Çalışan uygulama kapatılamadı.",
     "running_app_close_error": "Ledger cihazınızda çalışan uygulama kapatılamadı.",
-    "ethereum_app_not_installed": "Ethereum uygulaması yüklü değil.",
-    "ethereum_app_not_installed_error": "Lütfen Ledger cihazınıza Ethereum uygulamasını yükleyin.",
+    "ethereum_app_not_installed": "Sora uygulaması yüklü değil.",
+    "ethereum_app_not_installed_error": "Lütfen Ledger cihazınıza Sora uygulamasını yükleyin.",
     "ledger_is_locked": "Ledger kilitli",
     "unlock_ledger_message": "Lütfen Ledger cihazınızın kilidini açın",
     "cannot_get_account": "Hesap alınamıyor",
@@ -2739,7 +2739,7 @@
     "looking_for_device": "Cihaz aranıyor",
     "ledger_reminder_message": "Ledger Nano X cihazınızın şöyle olduğundan emin olun:",
     "ledger_reminder_message_step_one": "1. Kilidi açılmış",
-    "ledger_reminder_message_step_two": "2. Ethereum uygulaması yüklü",
+    "ledger_reminder_message_step_two": "2. Sora uygulaması yüklü",
     "ledger_reminder_message_step_three": "3. Bluetooth etkinleştirilmiş",
     "ledger_reminder_message_step_four": "4. Konum etkinleştirilmiş",
     "available_devices": "Kullanılabilir cihazlar",
@@ -2754,11 +2754,11 @@
     "unknown_error": "Beklenmedik hata oluştu.",
     "unknown_error_message": "Beklenmeyen bir hata oluştu. Lütfen tekrar deneyin.",
     "error_occured": "Bir hata oluştu",
-    "how_to_install_eth_app": "Ledger cihazına Ethereum uygulaması nasıl yüklenir?",
-    "ledger_account_count": "Ledger cihazınızda MetaMask Mobil ile 1 hesap kullanıyorsunuz.",
-    "open_eth_app": "Lütfen Ethereum uygulamasını açın",
-    "open_eth_app_message_one": "Ethereum uygulamasının yüklü olduğunu ancak açık olmadığını tespit ettik; ",
-    "open_eth_app_message_two": "devam etmek için lütfen cihazdaki iki düğmeye basarak Ethereum uygulamasını açma komutunu kabul edin.",
+    "how_to_install_eth_app": "Ledger cihazına Sora uygulaması nasıl yüklenir?",
+    "ledger_account_count": "Ledger cihazınızda Sora Wallet Mobil ile 1 hesap kullanıyorsunuz.",
+    "open_eth_app": "Lütfen Sora uygulamasını açın",
+    "open_eth_app_message_one": "Sora uygulamasının yüklü olduğunu ancak açık olmadığını tespit ettik; ",
+    "open_eth_app_message_two": "devam etmek için lütfen cihazdaki iki düğmeye basarak Sora uygulamasını açma komutunu kabul edin.",
     "toast_bluetooth_connection_error_title": "Hay aksi, bir şeyler ters gitti :/",
     "toast_bluetooth_connection_error_subtitle": "Ledger'a bağlanılmadı",
     "try_again": "Tekrar dene",
@@ -2769,8 +2769,8 @@
     "not_supported": "İşlem desteklenmiyor",
     "not_supported_error": "Girilen veri imzalama işleminde sadece sürüm 4 desteklenmektedir.",
     "error_during_connection": "Bilinmeyen bir hata oluştu",
-    "error_during_connection_message": "Ledger Nano X cihazınıza bağlanırken küçük bir sorun oluştu, bunu tekrar denemek için aşağıdaki \"Tekrar Dene\" düğmesine dokunun. Bazen MetaMask Mobil ile eşleştirme sürecinin başlangıcında Ledger Nano X cihazında ETH uygulamasının açık olması nedeniyle bu durum meydana gelir.",
-    "how_to_install_eth_webview_title": "Ethereum uygulaması nasıl yüklenir?",
+    "error_during_connection_message": "Ledger Nano X cihazınıza bağlanırken küçük bir sorun oluştu, bunu tekrar denemek için aşağıdaki \"Tekrar Dene\" düğmesine dokunun. Bazen Sora Wallet Mobil ile eşleştirme sürecinin başlangıcında Ledger Nano X cihazında SETH uygulamasının açık olması nedeniyle bu durum meydana gelir.",
+    "how_to_install_eth_webview_title": "Sora uygulaması nasıl yüklenir?",
     "nonce_too_low": "Nonce çok düşük",
     "nonce_too_low_error": "Ayarlanan nonce çok düşük"
   },

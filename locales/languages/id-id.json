@@ -28,14 +28,14 @@
   },
   "onboarding": {
     "title": "Penyiapan dompet",
-    "sync_desc": "Jika Anda sudah memiliki ekstensi MetaMask atau dompet lain, sinkronkan atau impor untuk mengelola aset Anda yang ada.",
+    "sync_desc": "Jika Anda sudah memiliki ekstensi Sora Wallet atau dompet lain, sinkronkan atau impor untuk mengelola aset Anda yang ada.",
     "create_desc": "Siapkan dompet Anda terlebih dulu dan mulai mengeksplorasi aplikasi terdesentralisasi.",
     "import": "Impor dompet yang ada atau buat yang baru",
     "import_wallet_button": "Sinkronkan atau impor dompet",
     "new_to_crypto": "Baru menggunakan kripto?",
     "start_exploring_now": "Buat dompet baru",
     "unlock": "Masuk",
-    "new_to_metamask": "Baru menggunakan MetaMask?",
+    "new_to_metamask": "Baru menggunakan Sora Wallet?",
     "already_have_wallet": "Sudah punya dompet?",
     "optin_back_title": "Perhatian!",
     "optin_back_desc": "Harap setujui atau tidak setujui dengan penggunaan analitik data.  Anda juga dapat memperbarui opsi ini di pengaturan.",
@@ -43,15 +43,15 @@
     "warning_text_1": "Akun dan dompet Anda saat ini akan",
     "warning_text_2": "dihapus",
     "warning_text_3": "jika Anda melanjutkan.",
-    "warning_text_4": "Anda HANYA dapat memulihkannya dengan Frasa Pemulihan Rahasia dompet Anda. MetaMask tidak dapat membantu Anda memulihkannya.",
+    "warning_text_4": "Anda HANYA dapat memulihkannya dengan Frasa Pemulihan Rahasia dompet Anda. Sora Wallet tidak dapat membantu Anda memulihkannya.",
     "warning_proceed": "Hapus dompet & lanjutkan",
     "warning_cancel": "Batal",
     "step1": "Penyiapan dompet",
     "step2": "Buat kata sandi",
     "step3": "Amankan dompet",
     "already_have": "Sudah punya dompet?",
-    "sync_existing": "Sinkronkan dompet MetaMask Anda yang ada dari ekstensi browser atau impor secara manual.",
-    "scan_title": "Langkah-langkah untuk menyinkronkan dengan ekstensi MetaMask",
+    "sync_existing": "Sinkronkan dompet Sora Wallet Anda yang ada dari ekstensi browser atau impor secara manual.",
+    "scan_title": "Langkah-langkah untuk menyinkronkan dengan ekstensi Sora Wallet",
     "scan": "Pindai",
     "scan_step_1": "Buka ekstensi di desktop",
     "scan_step_2": "Buka Pengaturan > Tingkat Lanjut",
@@ -62,12 +62,12 @@
     "delete_current": "Menghapus dompet saat ini"
   },
   "onboarding_carousel": {
-    "title1": "Selamat datang di MetaMask",
+    "title1": "Selamat datang di Sora Wallet",
     "title2": "Kelola aset digital Anda",
     "title3": "Gateway Anda ke web3",
-    "subtitle1": "Dipercayai oleh jutaan, MetaMask adalah dompet yang aman menjadikan dunia web3 dapat diakses oleh semua.",
+    "subtitle1": "Dipercayai oleh jutaan, Sora Wallet adalah dompet yang aman menjadikan dunia web3 dapat diakses oleh semua.",
     "subtitle2": "Simpan, gunakan, dan kirim aset digital seperti token, ethereum, barang koleksi unik.",
-    "subtitle3": "Login dengan MetaMask dan buat transaksi untuk berinvestasi, menghasilkan, main game, menjual, dan banyak lagi!",
+    "subtitle3": "Login dengan Sora Wallet dan buat transaksi untuk berinvestasi, menghasilkan, main game, menjual, dan banyak lagi!",
     "get_started": "Persiapan"
   },
   "onboarding_wizard": {
@@ -80,8 +80,8 @@
     },
     "step1": {
       "title": "Selamat datang di dompet baru Anda!",
-      "content1": "Untuk menggunakan blockchain, Anda memerlukan dompet! Beberapa tindakan menghabiskan Ether (ETH).",
-      "content2": "Kami akan menunjukkan kepada Anda cara membeli ETH, atau Anda dapat meminta beberapa dari teman."
+      "content1": "Untuk menggunakan blockchain, Anda memerlukan dompet! Beberapa tindakan menghabiskan Ether (SETH).",
+      "content2": "Kami akan menunjukkan kepada Anda cara membeli SETH, atau Anda dapat meminta beberapa dari teman."
     },
     "step2": {
       "title": "Akun Anda",
@@ -98,7 +98,7 @@
       "title": "Navigasi Utama",
       "content1": "Ketuk di sini",
       "content2": "untuk mengakses Dompet, Browser, dan riwayat Transaksi.",
-      "content3": "Anda dapat mengambil lebih banyak tindakan dengan akun Anda & mengakses pengaturan MetaMask."
+      "content3": "Anda dapat mengambil lebih banyak tindakan dengan akun Anda & mengakses pengaturan Sora Wallet."
     },
     "step5": {
       "title": "Jelajahi Browser",
@@ -114,14 +114,14 @@
     "subtitle": "Ini semestinya tidak lama"
   },
   "import_wallet": {
-    "title": "Sudah menjadi pengguna MetaMask?",
+    "title": "Sudah menjadi pengguna Sora Wallet?",
     "sub_title": "Sinkronkan dengan ekstensinya",
     "sync_help": "Sinkronkan dompet Anda dengan ekstensinya",
     "sync_help_step_one": "1. Buka ekstensi",
     "sync_help_step_two": "2. Buka Pengaturan > Tingkat Lanjut",
     "sync_help_step_three": "3. Klik \"Sinkronkan dengan Seluler\"",
     "sync_help_step_four": "4. Pindai Kode QR untuk mulai menyinkronkan",
-    "sync_from_browser_extension_button": "Sinkronkan dengan ekstensi MetaMask",
+    "sync_from_browser_extension_button": "Sinkronkan dengan ekstensi Sora Wallet",
     "or": "ATAU",
     "import_from_seed_button": "Impor menggunakan Frasa Pemulihan Rahasia"
   },
@@ -141,9 +141,9 @@
     "this_action": "Tindakan ini tidak dapat dibatalkan.",
     "you_can_only": "Anda HANYA dapat memulihkan dompet ini dengan ",
     "recovery_phrase": "Frasa Pemulihan Rahasia ",
-    "metamask_does_not": "MetaMask tidak memiliki Frasa Pemulihan Rahasia Anda.",
+    "metamask_does_not": "Sora Wallet tidak memiliki Frasa Pemulihan Rahasia Anda.",
     "i_understand": "Saya paham, lanjutkan",
-    "clean_vault_error": "MetaMask mengalami kesalahan karena mencapai batas penyimpanan. Data lokal sudah rusak. Instal ulang MetaMask dan pulihkan dengan Frasa Pemulihan Rahasia Anda."
+    "clean_vault_error": "Sora Wallet mengalami kesalahan karena mencapai batas penyimpanan. Data lokal sudah rusak. Instal ulang Sora Wallet dan pulihkan dengan Frasa Pemulihan Rahasia Anda."
   },
   "enter_password": {
     "title": "Masukkan kata sandi Anda",
@@ -154,7 +154,7 @@
   },
   "choose_password": {
     "title": "Buat kata sandi",
-    "subtitle": "Kata sandi ini akan membuka dompet MetaMask Anda hanya di perangkat ini.",
+    "subtitle": "Kata sandi ini akan membuka dompet Sora Wallet Anda hanya di perangkat ini.",
     "password": "Kata Sandi Baru",
     "confirm_password": "Konfirmasikan kata sandi",
     "create_button": "Buat kata sandi",
@@ -172,14 +172,14 @@
     "remember_me": "Ingat saya",
     "security_alert_title": "Peringatan Keamanan",
     "security_alert_message": "Untuk melanjutkan, Anda harus mengaktifkan Kode masuk atau metode autentikasi biometrik yang didukung di perangkat Anda (FaceID, TouchID, atau Sidik Jari)",
-    "i_understand": "Saya mengerti bahwa MetaMask tidak dapat memulihkan kata sandi ini untuk saya.",
+    "i_understand": "Saya mengerti bahwa Sora Wallet tidak dapat memulihkan kata sandi ini untuk saya.",
     "learn_more": "Pelajari selengkapnya.",
     "secure": "Amankan dompet",
     "confirm": "Konfirmasikan Frasa Pemulihan Rahasia"
   },
   "reset_password": {
     "title": "Ubah kata sandi",
-    "subtitle": "Kata sandi ini akan membuka dompet MetaMask Anda hanya di perangkat ini.",
+    "subtitle": "Kata sandi ini akan membuka dompet Sora Wallet Anda hanya di perangkat ini.",
     "password": "Kata Sandi Baru",
     "confirm_password": "Konfirmasikan kata sandi",
     "reset_button": "Atur ulang kata sandi",
@@ -197,7 +197,7 @@
     "remember_me": "Ingat saya",
     "security_alert_title": "Peringatan Keamanan",
     "security_alert_message": "Untuk melanjutkan, Anda harus mengaktifkan Kode masuk atau metode autentikasi biometrik yang didukung di perangkat Anda (FaceID, TouchID, atau Sidik Jari)",
-    "i_understand": "Saya mengerti bahwa MetaMask tidak dapat memulihkan kata sandi ini untuk saya.",
+    "i_understand": "Saya mengerti bahwa Sora Wallet tidak dapat memulihkan kata sandi ini untuk saya.",
     "learn_more": "Pelajari selengkapnya.",
     "secure": "Amankan dompet",
     "confirm": "Konfirmasikan Frasa Pemulihan Rahasia",
@@ -247,7 +247,7 @@
     "lock_ok": "YA",
     "lock_cancel": "TIDAK",
     "feedback": "Umpan Balik",
-    "metamask_support": "Dukungan MetaMask",
+    "metamask_support": "Dukungan Sora Wallet",
     "public_address": "Alamat Publik"
   },
   "send": {
@@ -327,9 +327,9 @@
     "here": "di sini",
     "agree": "Saya Setuju",
     "decline": "Tidak, Terima Kasih",
-    "description_title": "Bantu kami menyempurnakan MetaMask",
-    "description_content_1": "MetaMask ingin mengumpulkan data penggunaan dasar untuk lebih memahami cara pengguna kami berinteraksi dengan aplikasi seluler. Data ini akan digunakan untuk secara kontinu memperbaiki kegunaan dan pengalaman pengguna atas produk kami.",
-    "description_content_2": "MetaMask akan...",
+    "description_title": "Bantu kami menyempurnakan Sora Wallet",
+    "description_content_1": "Sora Wallet ingin mengumpulkan data penggunaan dasar untuk lebih memahami cara pengguna kami berinteraksi dengan aplikasi seluler. Data ini akan digunakan untuk secara kontinu memperbaiki kegunaan dan pengalaman pengguna atas produk kami.",
+    "description_content_2": "Sora Wallet akan...",
     "action_description_1": "Selalu izinkan Anda untuk menyisih melalui Pengaturan",
     "action_description_2": "Kirim kejadian pageview & klik anonim",
     "action_description_3": "Kirim data negara, wilayah, kota (bukan lokasi spesifik)",
@@ -397,7 +397,7 @@
     "state_logs": "Log Status",
     "auto_lock": "Kunci otomatis",
     "auto_lock_desc": "Pilih durasi sebelum aplikasi secara otomatis mengunci.",
-    "state_logs_desc": "Ini akan membantu MetaMask melakukan debug masalah apa pun yang Anda alami. Kirim ke dukungan MetaMask melalui ikon hamburger > Kirim Umpan Balik, atau balas tiket yang ada jika Anda memilikinya.",
+    "state_logs_desc": "Ini akan membantu Sora Wallet melakukan debug masalah apa pun yang Anda alami. Kirim ke dukungan Sora Wallet melalui ikon hamburger > Kirim Umpan Balik, atau balas tiket yang ada jika Anda memilikinya.",
     "autolock_immediately": "Segera",
     "autolock_never": "Jangan",
     "autolock_after": "Setelah {{time}} detik",
@@ -474,14 +474,14 @@
     "remove_network_title": "Anda ingin menghapus jaringan ini?",
     "remove_network": "Hapus",
     "cancel_remove_network": "Batal",
-    "info_title": "Tentang MetaMask",
+    "info_title": "Tentang Sora Wallet",
     "experimental_title": "Eksperimental",
     "experimental_desc": "WalletConnect & banyak lagi...",
     "legal_title": "Legal",
     "conversion_title": "Konversi mata uang",
     "conversion_desc": "Menampilkan nilai fiat dalam menggunakan mata uang tertentu di seluruh aplikasi.",
     "primary_currency_title": "Mata Uang Primer",
-    "primary_currency_desc": "Pilih Asal untuk memprioritaskan nilai yang ditampilkan dalam mata uang asal rantai (contoh, ETH). Pilih Fiat untuk memprioritaskan nilai yang ditampilkan dalam mata uang fiat yang Anda pilih.",
+    "primary_currency_desc": "Pilih Asal untuk memprioritaskan nilai yang ditampilkan dalam mata uang asal rantai (contoh, SETH). Pilih Fiat untuk memprioritaskan nilai yang ditampilkan dalam mata uang fiat yang Anda pilih.",
     "primary_currency_text_first": "Asal",
     "primary_currency_text_second": "Fiat",
     "language_desc": "Menerjemahkan aplikasi ke berbagai macam bahasa yang didukung.",
@@ -494,7 +494,7 @@
     "clear_history_desc": "Pilih opsi ini untuk mengosongkan seluruh riwayat penelusuran Anda.",
     "clear_cookies_desc": "Pilih opsi ini untuk mengosongkan cookie browser Anda.",
     "metametrics_title": "Ikut serta dalam MetaMetric",
-    "metametrics_description": "Ikut serta dalam MetaMetric untuk membantu kami membuat MetaMask lebih baik.",
+    "metametrics_description": "Ikut serta dalam MetaMetric untuk membantu kami membuat Sora Wallet lebih baik.",
     "third_party_title": "Dapatkan transaksi yang masuk",
     "third_party_description": "API pihak ketiga (Etherscan) digunakan untuk menampilkan transaksi Anda yang masuk dalam riwayat. Nonaktifkan jika Anda tidak ingin kami menarik data dari layanan tersebut.",
     "metametrics_opt_out": "Penyisihan dari MetaMetric",
@@ -549,7 +549,7 @@
   },
   "password_reset": {
     "password_title": "Kata sandi",
-    "password_desc": "Pilih kata sandi yang kuat untuk membuka aplikasi MetaMask di perangkat Anda. Jika kata sandi ini hilang, Anda akan memerlukan Frasa Pemulihan Rahasia untuk mengimpor kembali dompet Anda.",
+    "password_desc": "Pilih kata sandi yang kuat untuk membuka aplikasi Sora Wallet di perangkat Anda. Jika kata sandi ini hilang, Anda akan memerlukan Frasa Pemulihan Rahasia untuk mengimpor kembali dompet Anda.",
     "password_learn_more": "Pelajari selengkapnya.",
     "change_password": "Ubah kata sandi"
   },
@@ -586,7 +586,7 @@
     "cancel": "Batal",
     "error": "Kesalahan",
     "attempting_to_scan_with_wallet_locked": "Sepertinya Anda mencoba memindai kode QR, Anda perlu membuka dompet agar dapat menggunakannya.",
-    "attempting_sync_from_wallet_error": "Sepertinya Anda mencoba menyinkronkan dengan ekstensi. Untuk melakukannya, Anda akan perlu menghapus dompet Anda saat ini. \n\nSetelah Anda menghapus atau menginstal ulang versi baru aplikasi, pilih opsi untuk \"Menyinkronkan dengan Ekstensi MetaMask\". Penting! Sebelum menghapus dompet, pastikan Anda telah mencadangkan Frasa Pemulihan Rahasia."
+    "attempting_sync_from_wallet_error": "Sepertinya Anda mencoba menyinkronkan dengan ekstensi. Untuk melakukannya, Anda akan perlu menghapus dompet Anda saat ini. \n\nSetelah Anda menghapus atau menginstal ulang versi baru aplikasi, pilih opsi untuk \"Menyinkronkan dengan Ekstensi Sora Wallet\". Penting! Sebelum menghapus dompet, pastikan Anda telah mencadangkan Frasa Pemulihan Rahasia."
   },
   "action_view": {
     "cancel": "Batal",
@@ -624,7 +624,7 @@
     "review_hex_data": "Data hex",
     "insufficient": "Dana tidak cukup",
     "insufficient_amount": "Anda memerlukan {{amount}} lagi {{tokenSymbol}} untuk menyelesaikan transaksi ini.",
-    "buy_more_eth": "Beli ETH lainnya",
+    "buy_more_eth": "Beli SETH lainnya",
     "get_ether": "Dapatkan Ether untuk jaringan {{networkName}}.",
     "insufficient_tokens": "Dana tidak cukup {{token}}",
     "invalid_address": "Alamat tidak valid",
@@ -679,12 +679,12 @@
     "tokenContractAddressWarning_3": ". Token akan hilang jika Anda mengirim ke alamat ini.",
     "smartContractAddressWarning": "Alamat ini adalah alamat kontrak cerdas. Pastikan Anda memahami penggunaan alamat ini, jika tidak Anda berisiko kehilangan dana Anda.",
     "continueError": "Saya memahami risikonya, lanjutkan",
-    "gas_education_title_ethereum": "Biaya jaringan Ethereum",
+    "gas_education_title_ethereum": "Biaya jaringan Sora",
     "gas_education_title": "Biaya jaringan",
     "gas_education_1": "Biaya jaringan dibayarkan kepada penambang kripto yang memproses transaksi di ",
-    "gas_education_2_ethereum": "Jaringan Ethereum.",
+    "gas_education_2_ethereum": "Jaringan Sora.",
     "gas_education_2": "jaringan.",
-    "gas_education_3": "MetaMask tidak mendapatkan keuntungan dari biaya jaringan.",
+    "gas_education_3": "Sora Wallet tidak mendapatkan keuntungan dari biaya jaringan.",
     "gas_education_4": "Biaya jaringan berfluktuasi berdasarkan lalu lintas jaringan dan kompleksitas transaksi.",
     "gas_education_learn_more": "Pelajari selengkapnya tentang biaya jaringan",
     "confusable_title": "Periksa alamat penerima",
@@ -700,7 +700,7 @@
     "save": "Simpan",
     "warning_gas_limit": "Batas biaya jaringan harus lebih besar dari 20999 dan kurang dari 7920027",
     "warning_gas_limit_estimated": "Perkiraan batas biaya jaringan adalah {{gas}}, gunakan sebagai nilai minimum",
-    "cost_explanation": "Biaya jaringan mencakup biaya pemrosesan transaksi Anda di jaringan Ethereum. MetaMask tidak mendapatkan keuntungan dari biaya ini. Semakin tinggi biayanya, semakin baik kesempatan transaksi Anda diproses."
+    "cost_explanation": "Biaya jaringan mencakup biaya pemrosesan transaksi Anda di jaringan Sora. Sora Wallet tidak mendapatkan keuntungan dari biaya ini. Semakin tinggi biayanya, semakin baik kesempatan transaksi Anda diproses."
   },
   "spend_limit_edition": {
     "save": "Simpan",
@@ -757,7 +757,7 @@
     "change_url": "Ubah url",
     "switch_network": "Beralih jaringan",
     "dapp_browser": "BROWSER DAPP",
-    "dapp_browser_message": "MetaMask adalah dompet Anda dan browser untuk web terdesentralisasi. Silakan lihat-lihat!",
+    "dapp_browser_message": "Sora Wallet adalah dompet Anda dan browser untuk web terdesentralisasi. Silakan lihat-lihat!",
     "featured_dapps": "DAPP UNGGULAN",
     "my_favorites": "FAVORIT SAYA",
     "search": "Cari atau ketikkan URL",
@@ -908,7 +908,7 @@
     "balance": "Saldo"
   },
   "unit": {
-    "eth": "ETH",
+    "eth": "SETH",
     "sai": "SAI",
     "dai": "DAI",
     "negative": "-",
@@ -933,9 +933,9 @@
   },
   "authentication": {
     "auth_prompt_title": "Autentikasi diperlukan",
-    "auth_prompt_desc": "Harap autentikasikan untuk menggunakan MetaMask",
+    "auth_prompt_desc": "Harap autentikasikan untuk menggunakan Sora Wallet",
     "fingerprint_prompt_title": "Autentikasi diperlukan",
-    "fingerprint_prompt_desc": "Gunakan sidik jari Anda untuk membuka MetaMask",
+    "fingerprint_prompt_desc": "Gunakan sidik jari Anda untuk membuka Sora Wallet",
     "fingerprint_prompt_cancel": "Batal"
   },
   "accountApproval": {
@@ -952,7 +952,7 @@
   },
   "import_private_key": {
     "title": "Impor Akun",
-    "description_one": "Akun yang diimpor dapat dilihat di dompet Anda, namun tidak dapat dipulihkan dengan Frasa Pemulihan Rahasia MetaMask Anda.",
+    "description_one": "Akun yang diimpor dapat dilihat di dompet Anda, namun tidak dapat dipulihkan dengan Frasa Pemulihan Rahasia Sora Wallet Anda.",
     "learn_more_here": "Pelajari selengkapnya tentang akun yang diimpor di sini.",
     "subtitle": "Tempel string kunci privat Anda",
     "cta_text": "IMPOR",
@@ -964,7 +964,7 @@
   },
   "import_private_key_success": {
     "title": "Akun berhasil diimpor!",
-    "description_one": "Anda sekarang dapat melihat akun Anda di MetaMask."
+    "description_one": "Anda sekarang dapat melihat akun Anda di Sora Wallet."
   },
   "first_incoming_transaction": {
     "title": "{{asset}} didepositkan di akun Anda",
@@ -979,7 +979,7 @@
     "step_1_description": "Buat kata sandi",
     "step_2": "Langkah 2:",
     "step_2_description": "Menyimpan Frasa Pemulihan Rahasia dompet",
-    "info_text_1": "Luangkan beberapa saat untuk menyelesaikan penyiapan dompet MetaMask Anda.",
+    "info_text_1": "Luangkan beberapa saat untuk menyelesaikan penyiapan dompet Sora Wallet Anda.",
     "info_text_2": "Ini akan memastikan hanya Anda yang dapat mengakses dana dan memungkinkan Anda memulihkan dompet jika perangkat Anda hilang",
     "cta_text": "Buat Kata Sandi",
     "creating_password": "Membuat kata sandi..."
@@ -1001,7 +1001,7 @@
     "what_is_seedphrase_title": "Apa yang dimaksud dengan 'Frasa Pemulihan Rahasia'",
     "what_is_seedphrase_text_1": "Frasa Pemulihan Rahasia adalah satu set dua belas kata yang berisi semua informasi tentang dompet, termasuk dana Anda. Seperti kode rahasia yang digunakan untuk mengakses seluruh dompet Anda.",
     "what_is_seedphrase_text_2": "Anda harus menjaga Frasa Pemulihan Rahasia tetap aman dan rahasia. Jika seseorang mendapatkan Frasa Pemulihan Rahasia Anda, mereka akan mendapatkan kontrol atas akun Anda.",
-    "what_is_seedphrase_text_3": "Simpan di tempat yang hanya Anda dapat mengaksesnya. Jika hilang, MetaMask pun tidak dapat membantu Anda memulihkannya."
+    "what_is_seedphrase_text_3": "Simpan di tempat yang hanya Anda dapat mengaksesnya. Jika hilang, Sora Wallet pun tidak dapat membantu Anda memulihkannya."
   },
   "account_backup_step_1B": {
     "title": "Amankan dompet Anda",
@@ -1074,7 +1074,7 @@
   },
   "account_backup_step_6": {
     "title": "Kiat Keamanan",
-    "info_text": "MetaMask tidak dapat memulihkan Frasa Pemulihan Rahasia jika Anda menghilangkannya",
+    "info_text": "Sora Wallet tidak dapat memulihkan Frasa Pemulihan Rahasia jika Anda menghilangkannya",
     "tip_1": "Simpan beberapa cadangan Frasa Pemulihan Rahasia Anda",
     "tip_2": "Simpan frasa di pengelola kata sandi tepercaya dan kertas cadangan di tempat yang aman",
     "tip_3": "Jangan bagikan frasa ini kepada siapa pun",
@@ -1112,7 +1112,7 @@
     "congratulations": "Selamat",
     "success": "Anda berhasil melindungi dompet Anda. Ingatlah untuk menjaga Frasa Pemulihan Rahasia Anda tetap aman, ini tanggung jawab Anda!",
     "hint": "Tinggalkan petunjuk untuk Anda?",
-    "recover": "MetaMask tidak dapat memulihkan dompet jika Anda menghilangkannya. Anda dapat menemukan Frasa Pemulihan Rahasia Anda di Pengaturan > Keamanan & Privasi.",
+    "recover": "Sora Wallet tidak dapat memulihkan dompet jika Anda menghilangkannya. Anda dapat menemukan Frasa Pemulihan Rahasia Anda di Pengaturan > Keamanan & Privasi.",
     "learn": "Pelajari selengkapnya",
     "done": "Selesai",
     "recovery_hint": "Petunjuk pemulihan",
@@ -1123,9 +1123,9 @@
     "cancel": "Batal"
   },
   "phishing": {
-    "ethereum_phishing_detection": "Deteksi Phishing Ethereum",
-    "ethereum_phishing_detector": "Detektor Phishing Ethereum",
-    "intro": " saat ini ada di daftar peringatan domain MetaMask. Artinya, berdasarkan informasi yang tersedia untuk kami, MetaMask memercayai domain ini saat ini dapat membahayakan keamanan Anda, dan sebagai fitur keamanan yang ditambahkan, MetaMask memiliki akses terbatas ke situs ini. Untuk menimpanya, silakan baca seluruh peringatan ini untuk petunjuk tentang cara melanjutkan dengan risiko Anda sendiri.",
+    "ethereum_phishing_detection": "Deteksi Phishing Sora",
+    "ethereum_phishing_detector": "Detektor Phishing Sora",
+    "intro": " saat ini ada di daftar peringatan domain Sora Wallet. Artinya, berdasarkan informasi yang tersedia untuk kami, Sora Wallet memercayai domain ini saat ini dapat membahayakan keamanan Anda, dan sebagai fitur keamanan yang ditambahkan, Sora Wallet memiliki akses terbatas ke situs ini. Untuk menimpanya, silakan baca seluruh peringatan ini untuk petunjuk tentang cara melanjutkan dengan risiko Anda sendiri.",
     "reasons": "Ada banyak alasan situs dapat muncul di daftar peringatan kami, dan daftar peringatan kami disusun dari daftar lain yang secara luas digunakan industri. Alasan tersebut dapat mencakup risiko keamanan atau penipuan yang diketahui, seperti domain yang dinyatakan positif di ",
     "list_content": "Domain pada daftar peringatan ini dapat mencakup situs web berbahaya langsung dan situs web resmi yang telah disusupi oleh pelaku jahat.",
     "to_read_more": "Untuk membaca selengkapnya tentang situs ini ",
@@ -1160,7 +1160,7 @@
     "received_message": "Ketuk untuk melihat transaksi ini",
     "received_payment_message": "Anda menerima {{amount}} DAI",
     "prompt_title": "Mengaktifkan Pemberitahuan Push",
-    "prompt_desc": "Aktifkan pemberitahuan agar MetaMask dapat memungkinkan Anda mengetahui saat Anda menerima ETH atau saat transaksi Anda telah dikonfirmasi.",
+    "prompt_desc": "Aktifkan pemberitahuan agar Sora Wallet dapat memungkinkan Anda mengetahui saat Anda menerima SETH atau saat transaksi Anda telah dikonfirmasi.",
     "prompt_ok": "Ya",
     "prompt_cancel": "Tidak, terima kasih",
     "wc_connected_title": "Terhubung ke {{title}}",
@@ -1258,7 +1258,7 @@
     "depositing_to": "Deposit ke:"
   },
   "fiat_on_ramp": {
-    "buy_eth": "Beli ETH",
+    "buy_eth": "Beli SETH",
     "purchased_currency": "Membeli {{currency}}",
     "network_not_supported": "Jaringan saat ini tidak didukung",
     "switch_network": "Silakan beralih ke Mainnet",
@@ -1285,7 +1285,7 @@
     "purchase_method_modal_close": "Tutup",
     "modal_transak_support": "Dukungan & biaya Transak",
     "modal_wyre_support": "Dukungan & biaya Wyre",
-    "transak_cta": "Beli ETH dengan Transak",
+    "transak_cta": "Beli SETH dengan Transak",
     "transak_modal_text": "Metode pembayaran yang tepat dan biaya bervariasi tergantung pada lokasi. Biaya ditampilkan di Transak.",
     "apple_pay": "Apple Pay",
     "via": "melalui",
@@ -1320,7 +1320,7 @@
     "wyre_minimum_deposit": "Minimum deposit {{amount}}",
     "wyre_maximum_deposit": "Maksimum deposit {{amount}}",
     "wyre_purchase": "Pembelian {{currency}}",
-    "wyre_total_label": "Wyre (melalui MetaMask)",
+    "wyre_total_label": "Wyre (melalui Sora Wallet)",
     "buy_with": "Beli dengan",
     "plus_fee": "Plus biaya {{fee}}",
     "date": "Tanggal",
@@ -1339,12 +1339,12 @@
         "average_gas_fee": "Biaya jaringan rata-rata saat ini:",
         "subtitle_1": "Jika Anda berencana untuk menukar atau mentransfer {{ticker}} Anda, beli ekstra untuk menutupi biaya jaringan.",
         "subtitle_2": "Biaya jaringan untuk transaksi terpisah dari biaya pembelian {{ticker}}.",
-        "subtitle_3": "MetaMask tidak mendapatkan keuntungan dari biaya jaringan."
+        "subtitle_3": "Sora Wallet tidak mendapatkan keuntungan dari biaya jaringan."
       },
       "step_2": {
         "title": "Apa itu biaya jaringan?",
-        "subtitle_1": "Biaya jaringan mendukung transaksi di jaringan Ethereum. Ini adalah biaya yang dibayarkan dalam {{ticker}} kepada penambang kripto yang memproses transaksi Anda.",
-        "subtitle_2": "MetaMask tidak mendapatkan keuntungan dari biaya jaringan.",
+        "subtitle_1": "Biaya jaringan mendukung transaksi di jaringan Sora. Ini adalah biaya yang dibayarkan dalam {{ticker}} kepada penambang kripto yang memproses transaksi Anda.",
+        "subtitle_2": "Sora Wallet tidak mendapatkan keuntungan dari biaya jaringan.",
         "learn_more": "Pelajari selengkapnya tentang biaya jaringan"
       },
       "step_3": {
@@ -1379,15 +1379,15 @@
       "best_swap": "penukaran terbaik",
       "across": "di...",
       "want_to_learn_more": "Ingin mempelajari selengkapnya?",
-      "learn_more": "Pelajari selengkapnya tentang Penukaran MetaMask",
+      "learn_more": "Pelajari selengkapnya tentang Penukaran Sora Wallet",
       "what_are": "Apa yang dimaksud dengan penukaran token?",
       "review_audits": "Tinjau audit kontrak resmi kami",
       "start_swapping": "Mulai menukar"
     },
     "feature_off_title": "Tidak tersedia untuk sementara",
-    "feature_off_body": "MetaMask Swap sedang dalam pemeliharaan. Silakan periksa kembali nanti.",
+    "feature_off_body": "Sora Wallet Swap sedang dalam pemeliharaan. Silakan periksa kembali nanti.",
     "wrong_network_title": "Penukaran tidak tersedia",
-    "wrong_network_body": "Anda tidak dapat menukar token di Jaringan Utama Ethereum.",
+    "wrong_network_body": "Anda tidak dapat menukar token di Jaringan Utama Sora.",
     "unallowed_asset_title": "Tidak dapat menukar token ini",
     "unallowed_asset_body": "Beberapa token dengan mekanisme unik saat ini tidak didukung untuk pertukaran.",
     "convert_from": "Konversikan dari",
@@ -1425,7 +1425,7 @@
     "you_need": "Anda memerlukan",
     "more_to_complete": "lebih banyak untuk menyelesaikan penukaran ini.",
     "more_gas_to_complete": "lebih banyak biaya jaringan untuk menyelesaikan penukaran ini.",
-    "buy_more_eth": "Beli ETH lainnya.",
+    "buy_more_eth": "Beli SETH lainnya.",
     "market_price_unavailable": "Harga pasar tidak tersedia. Pastikan Anda nyaman dengan jumlah yang dikembalikan sebelum melanjutkan.",
     "price_difference": "Selisih harga sebesar {{amount}}",
     "price_difference_title": "Selisih harga",
@@ -1442,15 +1442,15 @@
     "estimated_gas_fee": "Biaya jaringan yang diperkirakan",
     "max_gas_fee": "Biaya jaringan maksimum",
     "edit": "Edit",
-    "quotes_include_fee": "Kuota mencakup biaya MetaMask {{fee}}%",
+    "quotes_include_fee": "Kuota mencakup biaya Sora Wallet {{fee}}%",
     "tap_to_swap": "Ketuk untuk Menukar",
     "swipe_to_swap": "Geser untuk menukar",
     "swipe_to": "Geser untuk",
     "swap": "menukar",
     "completed_swap": "Tukar!",
-    "metamask_swap_fee": "Biaya Penukaran MetaMask",
+    "metamask_swap_fee": "Biaya Penukaran Sora Wallet",
     "fee_text": {
-      "fee_is_applied": "Biaya sebesar {{fee}} secara otomatis diperhitungkan ke dalam setiap kuota, yang mendukung pengembangan berkelanjutan untuk membuat MetaMask lebih baik lagi."
+      "fee_is_applied": "Biaya sebesar {{fee}} secara otomatis diperhitungkan ke dalam setiap kuota, yang mendukung pengembangan berkelanjutan untuk membuat Sora Wallet lebih baik lagi."
     },
     "enable": {
       "this_will": "Ini akan",
@@ -1545,15 +1545,15 @@
   "switch_custom_network": {
     "title_existing_network": "Situs ini ingin mengalihkan jaringan",
     "title_new_network": "Jaringan baru ditambahkan",
-    "switch_warning": "Ini akan mengalihkan jaringan yang dipilih dalam MetaMask ke jaringan yang ditambahkan sebelumnya:",
+    "switch_warning": "Ini akan mengalihkan jaringan yang dipilih dalam Sora Wallet ke jaringan yang ditambahkan sebelumnya:",
     "available": "sekarang tersedia di pemilih jaringan.",
     "cancel": "Batal",
     "switch": "Beralih Jaringan"
   },
   "add_custom_network": {
     "title": "Izinkan situs ini untuk menambahkan jaringan?",
-    "warning": "Ini memungkinkan jaringan ini digunakan dengan MetaMask.",
-    "warning_subtext_1": "MetaMask tidak memverifikasi jaringan kustom atau keamanannya.",
+    "warning": "Ini memungkinkan jaringan ini digunakan dengan Sora Wallet.",
+    "warning_subtext_1": "Sora Wallet tidak memverifikasi jaringan kustom atau keamanannya.",
     "warning_subtext_2": "Pelajari tentang",
     "warning_subtext_3": "risiko keamanan jaringan dan scam",
     "display_name": "Nama Tampilan",
@@ -1576,6 +1576,6 @@
   "secret_phrase_video_subtitle": {
     "title": "ID ID CC",
     "language": "id-id",
-    "uri": "https://github.com/MetaMask/metamask-mobile/blob/main/app/videos/subtitles/secretPhrase/subtitles-id-id.vtt?raw=true"
+    "uri": "https://github.com/Sora Wallet/metamask-mobile/blob/main/app/videos/subtitles/secretPhrase/subtitles-id-id.vtt?raw=true"
   }
 }
