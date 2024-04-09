@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from 'react';
 import PropTypes from 'prop-types';
-import { InteractionManager, StyleSheet, View } from 'react-native';
+import {Image, InteractionManager, StyleSheet, View} from 'react-native';
 import MediaPlayer from '../../Views/MediaPlayer';
 import scaling from '../../../util/scaling';
 import I18n from '../../../../locales/i18n';
@@ -29,15 +29,21 @@ const SeedPhraseVideo = ({ style, onClose }) => {
   }, []);
 
   return (
-    <View style={styles.videoContainer}>
-      {showVideo ? (
-        <MediaPlayer
-          onClose={onClose}
-          uri={recoveryPhraseVideo}
-          style={[styles.mediaPlayer, style]}
-          selectedTextTrack={{ type: 'language', value: language }}
-        />
-      ) : null}
+    <View style={styles.foxWrapper}>
+      {/*{showVideo ? (*/}
+      {/*  <MediaPlayer*/}
+      {/*    onClose={onClose}*/}
+      {/*    uri={recoveryPhraseVideo}*/}
+      {/*    style={[styles.mediaPlayer, style]}*/}
+      {/*    selectedTextTrack={{ type: 'language', value: language }}*/}
+      {/*  />*/}
+      {/*) : null}*/}
+      <Image
+          // source={require('../../../images/fox.png')}
+          source={require('../../../images/sora-head-logos.png')}
+          style={styles.mediaPlayer}
+          resizeMethod={'auto'}
+      />
     </View>
   );
 };

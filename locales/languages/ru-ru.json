@@ -908,7 +908,7 @@
     "balance": "Баланс"
   },
   "unit": {
-    "eth": "SETH",
+    "eth": "ETH",
     "sai": "SAI",
     "dai": "DAI",
     "negative": "-",

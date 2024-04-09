@@ -5,6 +5,7 @@ export const HOMESTEAD = 'homestead';
 export const GOERLI = 'goerli';
 
 export const SORA = 'sora';
+export const BSC = 'bsc';
 export const SEPOLIA = 'sepolia';
 export const LINEA_GOERLI = 'linea-goerli';
 export const LINEA_SEPOLIA = 'linea-sepolia';
@@ -19,7 +20,6 @@ export const IPFS_DEFAULT_GATEWAY_URL = 'https://cloudflare-ipfs.com/ipfs/';
  * @enum {string}
  */
 export const NETWORKS_CHAIN_ID = {
-  // MAINNET: toHex('1'),
   MAINNET: toHex('56'),
   OPTIMISM: toHex('10'),
   SORA: toHex('145'),
@@ -52,7 +52,7 @@ export const DEPRECATED_NETWORKS = [
 ];
 export const CHAINLIST_CURRENCY_SYMBOLS_MAP = {
   // MAINNET: 'ETH',
-  MAINNET: "BNB",
+  MAINNET: "ETH",
   SORA: 'SETH',
   OPTIMISM: 'ETH',
   BNB: 'BNB',

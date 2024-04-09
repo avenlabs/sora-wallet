@@ -29,7 +29,7 @@ import Networks, {
   getNetworkImageSource,
   isTestNet,
 } from '../../../util/networks';
-import { LINEA_MAINNET, MAINNET } from '../../../constants/network';
+import {BSC, LINEA_MAINNET, MAINNET, SORA} from '../../../constants/network';
 import Button from '../../../component-library/components/Buttons/Button/Button';
 import {
   ButtonSize,
@@ -97,6 +97,7 @@ const NetworkSelector = () => {
 
   const onSetRpcTarget = async (rpcTarget: string) => {
     const { CurrencyRateController, NetworkController } = Engine.context;
+    console.log(networkConfigurations)
 
     const entry = Object.entries(networkConfigurations).find(([, { rpcUrl }]) =>
       compareRpcUrls(rpcUrl, rpcTarget),
@@ -107,6 +108,7 @@ const NetworkSelector = () => {
       const { ticker, nickname } = networkConfiguration;
 
       CurrencyRateController.setNativeCurrency(ticker);
+
 
       NetworkController.setActiveNetwork(networkConfigurationId);
 
@@ -139,27 +141,13 @@ const NetworkSelector = () => {
     );
   };
 
-  const renderLineaMainnet = () => {
-    const { name: lineaMainnetName, chainId } = Networks['linea-mainnet'];
-    return (
-      <Cell
-        variant={CellVariant.Select}
-        title={lineaMainnetName}
-        avatarProps={{
-          variant: AvatarVariant.Network,
-          name: lineaMainnetName,
-          imageSource: images['LINEA-MAINNET'],
-        }}
-        isSelected={chainId === providerConfig.chainId}
-        onPress={() => onNetworkChange(LINEA_MAINNET)}
-      />
-    );
-  };
-
   const renderRpcNetworks = () =>
     Object.values(networkConfigurations).map(
       ({ nickname, rpcUrl, chainId }) => {
         if (!chainId) return null;
+          if (chainId === "0x91") {
+              return null;
+          }
         const { name } = { name: nickname || rpcUrl };
         //@ts-expect-error - The utils/network file is still JS and this function expects a networkType, and should be optional
         const image = getNetworkImageSource({ chainId: chainId?.toString() });
@@ -184,11 +172,37 @@ const NetworkSelector = () => {
       },
     );
 
-  const renderOtherNetworks = () => {
+  const renderSoraNetworks = () => {
     const getOtherNetworks = () => getAllNetworks().slice(2);
     return getOtherNetworks().map((networkType) => {
       // TODO: Provide correct types for network.
       const { name, imageSource, chainId } = (Networks as any)[networkType];
+
+      return (
+        <Cell
+          key={chainId}
+          variant={CellVariant.Select}
+          title={name}
+          avatarProps={{
+            variant: AvatarVariant.Network,
+            name,
+            imageSource,
+          }}
+          isSelected={chainId === providerConfig.chainId}
+          onPress={() => onSetRpcTarget("https://rpc-testnet.soraai.bot")}
+          style={styles.networkCell}
+        />
+      );
+    });
+  };
+  const renderOtherNetworks = () => {
+    const getOtherNetworks = () => getAllNetworks().slice(1);
+    return getOtherNetworks().map((networkType) => {
+      // TODO: Provide correct types for network.
+      const { name, imageSource, chainId } = (Networks as any)[networkType];
+        if (chainId === "0x91" || chainId === "0x38") {
+            return null;
+        }
 
       return (
         <Cell
@@ -244,9 +258,9 @@ const NetworkSelector = () => {
       <SheetHeader title={strings('networks.select_network')} />
       <ScrollView {...generateTestId(Platform, NETWORK_SCROLL_ID)}>
         {renderMainnet()}
-        {renderLineaMainnet()}
         {renderRpcNetworks()}
         {renderTestNetworksSwitch()}
+        {showTestNetworks && renderSoraNetworks()}
         {showTestNetworks && renderOtherNetworks()}
       </ScrollView>
 

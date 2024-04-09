@@ -103,6 +103,7 @@ import { MetaMetrics } from '../../../core/Analytics';
 import trackErrorAsAnalytics from '../../../util/metrics/TrackError/trackErrorAsAnalytics';
 import generateDeviceAnalyticsMetaData from '../../../util/metrics/DeviceAnalyticsMetaData/generateDeviceAnalyticsMetaData';
 import generateUserSettingsAnalyticsMetaData from '../../../util/metrics/UserSettingsAnalyticsMetaData/generateUserProfileAnalyticsMetaData';
+import {toHex} from "@metamask/controller-utils";
 
 const clearStackNavigatorOptions = {
   headerShown: false,
@@ -245,6 +246,39 @@ const App = ({ userLoggedIn }) => {
   const dispatch = useDispatch();
   const sdkInit = useRef();
   const [onboarded, setOnboarded] = useState(false);
+  const { NetworkController } = Engine.context;
+  console.log('NetworkController', NetworkController)
+  const createSoraNetwork = async () => {
+    await NetworkController.upsertNetworkConfiguration(
+        {
+          rpcUrl: 'https://bsc-dataseed.binance.org/',
+          chainId: toHex("56"),
+          ticker: 'BNB',
+          nickname: 'BNB Smart Chain',
+        },
+        {
+          referrer: "ignored",
+          source: "ignored"
+        }
+    ),
+    await NetworkController.upsertNetworkConfiguration(
+        {
+          rpcUrl: 'https://rpc-testnet.soraai.bot/',
+          chainId: '0x91',
+          ticker: 'SETH',
+          nickname: 'Sora Network',
+          rpcPrefs: {
+            blockExplorerUrl: 'https://explorer.soraai.bot',
+          }
+        },
+        {
+          referrer: "ignored",
+          source: "ignored"
+        }
+    )
+  }
+
+  createSoraNetwork().then(() => {})
   const triggerSetCurrentRoute = (route) => {
     dispatch(setCurrentRoute(route));
     if (route === 'Wallet' || route === 'BrowserView') {

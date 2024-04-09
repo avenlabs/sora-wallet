@@ -6,15 +6,6 @@ const infuraProjectId = InfuraKey === 'null' ? '' : InfuraKey;
 const TENDERLY_KEY = process.env.TENDERLY_NETWORK_ID;
 
 const PopularNetworksList = {
-  Avalanche: {
-    providerConfig: {
-      type: 'rpc',
-      chainId: toHex('43114'),
-      rpcUrl: 'https://api.avax.network/ext/bc/C/rpc',
-      nickname: 'Avalanche Mainnet C-Chain',
-      ticker: 'AVAX',
-    },
-  },
   BNB: {
     providerConfig: {
       type: 'rpc',
@@ -22,51 +13,6 @@ const PopularNetworksList = {
       rpcUrl: 'https://bsc-dataseed.binance.org/',
       nickname: 'BNB Smart Chain',
       ticker: 'BNB',
-    },
-  },
-  Fantom: {
-    providerConfig: {
-      type: 'rpc',
-      chainId: toHex('250'),
-      rpcUrl: '`https://rpc.ftm.tools/`',
-      nickname: 'Fantom Opera',
-      ticker: 'FTM',
-    },
-  },
-  Harmony: {
-    providerConfig: {
-      type: 'rpc',
-      chainId: toHex('1666600000'),
-      rpcUrl: 'https://api.harmony.one/',
-      nickname: 'Harmony Mainnet Shard 0',
-      ticker: 'ONE',
-    },
-  },
-  Optimism: {
-    providerConfig: {
-      type: 'rpc',
-      chainId: toHex('10'),
-      rpcUrl: `https://optimism-mainnet.infura.io/v3/${infuraProjectId}`,
-      nickname: 'Optimism',
-      ticker: 'ETH',
-    },
-  },
-  Polygon: {
-    providerConfig: {
-      type: 'rpc',
-      chainId: toHex('137'),
-      rpcUrl: `https://polygon-mainnet.infura.io/v3/${infuraProjectId}`,
-      nickname: 'Polygon Mainnet',
-      ticker: 'MATIC',
-    },
-  },
-  Palm: {
-    providerConfig: {
-      type: 'rpc',
-      chainId: toHex('11297108109'),
-      rpcUrl: `https://palm-mainnet.infura.io/v3/${infuraProjectId}`,
-      nickname: 'Palm',
-      ticker: 'PALM',
     },
   },
 };

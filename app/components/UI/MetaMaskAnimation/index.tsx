@@ -83,16 +83,8 @@ const MetaMaskAnimation = ({
               style={styles.animation}
               loop={false}
               // eslint-disable-next-line
-              source={require('../../../animations/fox-in.json')}
+              source={require('../../../animations/sora-in.json')}
               onAnimationFinish={onAnimationFinish}
-            />
-            <LottieView
-              autoPlay={false}
-              ref={animationName}
-              style={styles.metamaskName}
-              loop={false}
-              // eslint-disable-next-line
-              source={wordmark}
             />
           </View>
         </View>

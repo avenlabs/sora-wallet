@@ -233,7 +233,7 @@ const createStyles = (colors) =>
 
 const allNetworks = getAllNetworks();
 const allNetworksblockExplorerUrl = (networkName) =>
-    networkName === 'mainnet' ? 'https://bsc-dataseed.binance.org/' : networkName === 'sora' ? 'https://rpc-testnet.soraai.bot' : `https://${networkName}.infura.io/v3/`;
+    networkName === 'bsc' ? 'https://bsc-dataseed.binance.org/' : networkName === 'sora' ? 'https://rpc-testnet.soraai.bot' : `https://${networkName}.infura.io/v3/`;
 
 /**
  * Main view for app configurations
@@ -316,7 +316,7 @@ class NetworkSettings extends PureComponent {
   inputSymbol = React.createRef();
   inputBlockExplorerURL = React.createRef();
 
-  getOtherNetworks = () => allNetworks.slice(1);
+  getOtherNetworks = () => allNetworks;
 
   updateNavBar = () => {
     const { navigation, route } = this.props;
@@ -366,13 +366,7 @@ class NetworkSettings extends PureComponent {
         chainId = networkInformation.chainId.toString();
         editable = false;
         rpcUrl = allNetworksblockExplorerUrl(networkTypeOrRpcUrl);
-        ticker = ![
-          NETWORKS_CHAIN_ID.LINEA_GOERLI,
-          NETWORKS_CHAIN_ID.LINEA_SEPOLIA,
-        ].includes(networkInformation.chainId.toString())
-          ? strings('unit.eth')
-          : 'LineaETH';
-        // Override values if UI is updating custom mainnet RPC URL.
+        ticker = networkInformation.chainId.toString() === "0x91" ? "SETH": networkInformation.chainId.toString() === "0x38" ? "BNB" : strings('unit.eth')
         if (isCustomMainnet) {
           nickname = DEFAULT_MAINNET_CUSTOM_NAME;
           rpcUrl = this.getCustomMainnetRPCURL();
@@ -1312,21 +1306,15 @@ class NetworkSettings extends PureComponent {
     const { navigation } = this.props;
     const formChainId = stateChainId.trim().toLowerCase();
 
-    // Ensure chainId is a 0x-prefixed, lowercase hex string
     let chainId = formChainId;
     if (!chainId.startsWith('0x')) {
       chainId = `0x${parseInt(chainId, 10).toString(16)}`;
     }
 
-    // if chainId is goerli, show deprecation modal
-    if (chainId === CHAIN_IDS.GOERLI) {
-      navigation.navigate(Routes.DEPRECATED_NETWORK_DETAILS);
-      return;
-    }
-
     if (!(await this.validateChainIdOnSubmit(formChainId, chainId, rpcUrl))) {
       return;
     }
+
     this.setState({
       showNetworkDetailsModal: !this.state.showNetworkDetailsModal,
     });

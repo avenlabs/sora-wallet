@@ -65,7 +65,6 @@ function NetworkSwitcher() {
     supportedNetworks.forEach(({ chainId: supportedChainId, active }) => {
       const currentChainId = toHex(supportedChainId);
       if (
-        currentChainId === ChainId['linea-mainnet'] ||
         currentChainId === ChainId.mainnet ||
         !active
       ) {
@@ -132,7 +131,7 @@ function NetworkSwitcher() {
     }
   }, [isCurrentNetworkRampSupported, navigation]);
 
-  const switchToMainnet = useCallback((type: 'mainnet' | 'linea-mainnet') => {
+  const switchToMainnet = useCallback((type: 'mainnet') => {
     const { NetworkController } = Engine.context;
     NetworkController.setProviderType(type as NetworkType);
   }, []);
@@ -243,30 +242,6 @@ function NetworkSwitcher() {
                       </View>
 
                       <Text bold>Ethereum Main Network</Text>
-                    </View>
-                    <View style={customNetworkStyle.popularWrapper}>
-                      <Text link>{strings('networks.switch')}</Text>
-                    </View>
-                  </TouchableOpacity>
-                ) : null}
-                {isNetworkRampSupported(
-                  ChainId['linea-mainnet'],
-                  supportedNetworks,
-                ) ? (
-                  <TouchableOpacity
-                    style={customNetworkStyle.popularNetwork}
-                    onPress={() => switchToMainnet('linea-mainnet')}
-                  >
-                    <View style={customNetworkStyle.popularWrapper}>
-                      <View style={customNetworkStyle.popularNetworkImage}>
-                        <Avatar
-                          variant={AvatarVariant.Network}
-                          size={AvatarSize.Sm}
-                          name={'Linea Mainnet'}
-                          imageSource={imageIcons['LINEA-MAINNET']}
-                        />
-                      </View>
-                      <Text bold>Linea Main Network</Text>
                     </View>
                     <View style={customNetworkStyle.popularWrapper}>
                       <Text link>{strings('networks.switch')}</Text>

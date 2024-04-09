@@ -211,7 +211,7 @@ class LockScreen extends PureComponent {
           }}
           style={styles.animation}
           loop={false}
-          source={require('../../../animations/fox-in.json')}
+          source={require('../../../animations/sora-in.json')}
           onAnimationFinish={this.onAnimationFinished}
         />
         <LottieView

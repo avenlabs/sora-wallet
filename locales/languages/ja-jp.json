@@ -908,7 +908,7 @@
     "balance": "残高"
   },
   "unit": {
-    "eth": "SETH",
+    "eth": "ETH",
     "sai": "SAI",
     "dai": "DAI",
     "negative": "-",

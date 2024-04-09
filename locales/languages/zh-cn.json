@@ -866,7 +866,7 @@
     "balance": "余额"
   },
   "unit": {
-    "eth": "SETH",
+    "eth": "ETH",
     "sai": "SAI",
     "dai": "DAI",
     "negative": "-",

@@ -20,8 +20,8 @@ export const DEFAULT_BANNERTIP_LOGOTYPE = BannerTipLogoType.Greeting;
 export const BANNERTIP_TEST_ID = 'bannertip';
 
 // Mappings
-import logoFoxChat from './assets/fox-chat.png';
-import logoFoxGreeting from './assets/fox-greeting.png';
+import logoFoxChat from './../../../../../../images/sora-head-logos.png';
+import logoFoxGreeting from './../../../../../../images/sora-head-logos.png';
 export const IMAGESOURCE_BY_BANNERTIPLOGOTYPE: ImageSourceByBannerTipLogoType =
   {
     [BannerTipLogoType.Chat]: logoFoxChat,

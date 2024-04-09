@@ -13,6 +13,7 @@ import { useAppTheme, ThemeContext } from '../../../util/theme';
 import { ToastContextWrapper } from '../../../component-library/components/Toast';
 import { SafeAreaProvider } from 'react-native-safe-area-context';
 import { isTest } from '../../../util/test/utils';
+import Engine from "../../../core/Engine";
 
 /**
  * Top level of the component hierarchy
@@ -63,6 +64,7 @@ export default class Root extends PureComponent {
   }
 
   render() {
+
     const { isTest, isLoading } = this.state;
     if (isTest && isLoading) {
       return null;

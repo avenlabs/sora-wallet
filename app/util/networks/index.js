@@ -5,14 +5,14 @@ import { getContractFactory } from '@eth-optimism/contracts/dist/contract-defs';
 import { predeploys } from '@eth-optimism/contracts/dist/predeploys';
 import networksWithImages from 'images/image-icons';
 import {
-  MAINNET,
+    MAINNET,
     SORA,
-  NETWORKS_CHAIN_ID,
-  SEPOLIA,
-  RPC,
-  LINEA_GOERLI,
-  LINEA_MAINNET,
-  LINEA_SEPOLIA,
+    NETWORKS_CHAIN_ID,
+    SEPOLIA,
+    RPC,
+    LINEA_GOERLI,
+    LINEA_MAINNET,
+    LINEA_SEPOLIA, BSC,
 } from '../../../app/constants/network';
 import { NetworkSwitchErrorType } from '../../../app/constants/error';
 import { ChainId, NetworkType, toHex } from '@metamask/controller-utils';
@@ -26,12 +26,9 @@ import { regex } from '../../../app/util/regex';
 export { handleNetworkSwitch };
 
 /* eslint-disable */
-// const ethLogo = require('../../images/eth-logo-new.png');
+const ethLogo = require('../../images/eth-logo-new.png');
 const bnbLogo = require('../../images/bnb-logo.png');
 const soraLogo = require('../../images/sora-head-logos.png');
-const sepoliaLogo = require('../../images/sepolia-logo-dark.png');
-const lineaTestnetLogo = require('../../images/linea-testnet-logo.png');
-const lineaMainnetLogo = require('../../images/linea-mainnet-logo.png');
 
 /* eslint-enable */
 import PopularList from './customNetworks';
@@ -62,59 +59,68 @@ const NetworkList = {
   //   imageSource: ethLogo,
   // },
     [MAINNET]: {
-        name: 'BNB Smart Chain',
-        shortName: 'BSC',
+        name: 'Ethereum Main Network',
+        shortName: 'ETH',
         networkId: 1,
-        chainId: toHex('56'),
+        chainId: toHex('1'),
         color: '#3cc29e',
         networkType: 'mainnet',
+        imageSource: ethLogo,
+    },
+    [BSC]: {
+        name: 'BNB Smart Chain',
+        shortName: 'BSC',
+        networkId: 56,
+        chainId: toHex('56'),
+        color: '#cfb5f0',
+        networkType: 'bsc',
         imageSource: bnbLogo,
     },
-  [LINEA_MAINNET]: {
-    name: 'Linea Main Network',
-    shortName: 'Linea',
-    networkId: 59144,
-    chainId: toHex('59144'),
-    color: '#121212',
-    networkType: 'linea-mainnet',
-    imageSource: lineaMainnetLogo,
-  },
-  [SEPOLIA]: {
-    name: 'Sepolia Test Network',
-    shortName: 'Sepolia',
-    networkId: 11155111,
-    chainId: toHex('11155111'),
+  [SORA]: {
+    name: 'Sora Network',
+    shortName: 'Sora',
+    networkId: 145,
+    chainId: toHex('145'),
     color: '#cfb5f0',
-    networkType: 'sepolia',
-    imageSource: sepoliaLogo,
+    networkType: 'sora',
+    imageSource: soraLogo,
   },
-  [LINEA_GOERLI]: {
-    name: 'Linea Goerli Test Network',
-    shortName: 'Linea Goerli',
-    networkId: 59140,
-    chainId: toHex('59140'),
-    color: '#61dfff',
-    networkType: 'linea-goerli',
-    imageSource: lineaTestnetLogo,
-  },
-  [LINEA_SEPOLIA]: {
-    name: 'Linea Sepolia Test Network',
-    shortName: 'Linea Sepolia',
-    networkId: 59141,
-    chainId: toHex('59141'),
-    color: '#61dfff',
-    networkType: 'linea-sepolia',
-    imageSource: lineaTestnetLogo,
-  },
-    [SORA]: {
-        name: 'Sora Network',
-        shortName: 'Sora',
-        networkId: 145,
-        chainId: toHex('145'),
-        color: '#cfb5f0',
-        networkType: 'sora',
-        imageSource: soraLogo,
-    },
+  // [LINEA_MAINNET]: {
+  //   name: 'Linea Main Network',
+  //   shortName: 'Linea',
+  //   networkId: 59144,
+  //   chainId: toHex('59144'),
+  //   color: '#121212',
+  //   networkType: 'linea-mainnet',
+  //   imageSource: lineaMainnetLogo,
+  // },
+  // [SEPOLIA]: {
+  //   name: 'Sepolia Test Network',
+  //   shortName: 'Sepolia',
+  //   networkId: 11155111,
+  //   chainId: toHex('11155111'),
+  //   color: '#cfb5f0',
+  //   networkType: 'sepolia',
+  //   imageSource: sepoliaLogo,
+  // },
+  // [LINEA_GOERLI]: {
+  //   name: 'Linea Goerli Test Network',
+  //   shortName: 'Linea Goerli',
+  //   networkId: 59140,
+  //   chainId: toHex('59140'),
+  //   color: '#61dfff',
+  //   networkType: 'linea-goerli',
+  //   imageSource: lineaTestnetLogo,
+  // },
+  // [LINEA_SEPOLIA]: {
+  //   name: 'Linea Sepolia Test Network',
+  //   shortName: 'Linea Sepolia',
+  //   networkId: 59141,
+  //   chainId: toHex('59141'),
+  //   color: '#61dfff',
+  //   networkType: 'linea-sepolia',
+  //   imageSource: lineaTestnetLogo,
+  // },
   [RPC]: {
     name: 'Private Network',
     shortName: 'Private',

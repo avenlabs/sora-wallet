@@ -815,38 +815,6 @@ const Settings: React.FC = () => {
       );
     };
 
-    const renderLineaMainnet = () => {
-      const { name: lineaMainnetName, chainId } = Networks['linea-mainnet'];
-
-      return (
-        <Cell
-          variant={CellVariant.Display}
-          title={lineaMainnetName}
-          avatarProps={{
-            variant: AvatarVariant.Network,
-            name: lineaMainnetName,
-            imageSource: images['LINEA-MAINNET'],
-          }}
-          secondaryText="lineascan.build"
-          style={styles.cellBorder}
-        >
-          <Switch
-            value={showIncomingTransactionsNetworks[chainId]}
-            onValueChange={(value) =>
-              toggleEnableIncomingTransactions(chainId, value)
-            }
-            trackColor={{
-              true: colors.primary.default,
-              false: colors.border.muted,
-            }}
-            thumbColor={theme.brandColors.white['000']}
-            style={styles.switch}
-            ios_backgroundColor={colors.border.muted}
-          />
-        </Cell>
-      );
-    };
-
     const renderRpcNetworks = () =>
       Object.values(networkConfigurations).map(
         ({ nickname, rpcUrl, chainId }) => {
@@ -891,7 +859,7 @@ const Settings: React.FC = () => {
 
     const renderOtherNetworks = () => {
       const NetworksTyped = Networks as NetworksI;
-      const getOtherNetworks = () => getAllNetworks().slice(2);
+      const getOtherNetworks = () => getAllNetworks().slice(1);
       return getOtherNetworks().map((networkType) => {
         const { name, imageSource, chainId } = NetworksTyped[networkType];
         if (!chainId) return null;
@@ -943,7 +911,6 @@ const Settings: React.FC = () => {
         </Text>
         <View style={styles.transactionsContainer}>
           {renderMainnet()}
-          {renderLineaMainnet()}
           {renderRpcNetworks()}
           {showTestNetworks && renderOtherNetworks()}
         </View>

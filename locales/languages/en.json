@@ -1536,7 +1536,7 @@
     "balance": "Balance"
   },
   "unit": {
-    "eth": "SETH",
+    "eth": "ETH",
     "sai": "SAI",
     "dai": "DAI",
     "negative": "-",

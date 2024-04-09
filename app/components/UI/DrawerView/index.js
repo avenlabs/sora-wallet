@@ -321,7 +321,9 @@ const createStyles = (colors) =>
     protectWalletButtonWrapper: { marginVertical: 8 },
   });
 
-const metamask_name = require('../../../images/metamask-name.png'); // eslint-disable-line
+// const metamask_name = require('../../../images/metamask-name.png'); // eslint-disable-line
+const metamask_name = require('../../../images/sora-name.png'); // eslint-disable-line
+
 // const metamask_fox = require('../../../images/sora-head-logos.png.png'); // eslint-disable-line
 const metamask_fox = require('../../../images/fox.png'); // eslint-disable-line
 const ICON_IMAGES = {

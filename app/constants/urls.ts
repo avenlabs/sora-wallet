@@ -39,6 +39,8 @@ export const LINEA_GOERLI_BLOCK_EXPLORER = 'https://goerli.lineascan.build';
 export const LINEA_SEPOLIA_BLOCK_EXPLORER = 'https://sepolia.lineascan.build';
 export const LINEA_MAINNET_BLOCK_EXPLORER = 'https://lineascan.build';
 
+export const SORA_BLOCK_EXPLORER = 'https://explorer.soraai.bot';
+export const BSC_BLOCK_EXPLORER = '';
 // Phishing
 export const MM_PHISH_DETECT_URL =
   'https://github.com/metamask/eth-phishing-detect';
