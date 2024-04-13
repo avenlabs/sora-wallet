@@ -1,4 +1,4 @@
-package io.metamask.newarchitecture.modules;
+package bot.soraai.newarchitecture.modules;
 
 import com.facebook.jni.HybridData;
 import com.facebook.react.ReactPackage;

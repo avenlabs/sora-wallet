@@ -1,4 +1,4 @@
-package io.metamask;
+package bot.soraai;
 
 import com.wix.detox.Detox;
 

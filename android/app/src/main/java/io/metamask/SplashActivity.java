@@ -1,4 +1,4 @@
-package io.metamask;
+package bot.soraai;
 
 import android.content.Intent;
 import android.os.Bundle;

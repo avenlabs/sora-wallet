@@ -1,4 +1,4 @@
-package io.metamask;
+package bot.soraai;
 
 import android.app.Application;
 import com.facebook.react.ReactApplication;
@@ -8,21 +8,21 @@ import com.airbnb.android.react.lottie.LottiePackage;
 
 import cl.json.ShareApplication;
 import io.branch.rnbranch.RNBranchModule;
-import io.metamask.nativeModules.RCTMinimizerPackage;
+import bot.soraai.nativeModules.RCTMinimizerPackage;
 import com.facebook.react.ReactNativeHost;
 import com.facebook.react.ReactPackage;
 import com.facebook.soloader.SoLoader;
 import com.facebook.react.defaults.DefaultNewArchitectureEntryPoint;
 import com.facebook.react.defaults.DefaultReactNativeHost;
 import java.util.List;
-import io.metamask.nativeModules.PreventScreenshotPackage;
+import bot.soraai.nativeModules.PreventScreenshotPackage;
 import android.webkit.WebView;
 
 import android.database.CursorWindow;
 import java.lang.reflect.Field;
 
 import io.metamask.nativesdk.NativeSDKPackage;
-import io.metamask.nativeModules.RNTar.RNTarPackage;
+import bot.soraai.nativeModules.RNTar.RNTarPackage;
 
 public class MainApplication extends Application implements ShareApplication, ReactApplication {
 

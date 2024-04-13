@@ -1,4 +1,4 @@
-package io.metamask.newarchitecture;
+package bot.soraai.newarchitecture;
 
 import android.app.Application;
 import androidx.annotation.NonNull;
@@ -19,9 +19,9 @@ import com.facebook.react.fabric.CoreComponentsRegistry;
 import com.facebook.react.fabric.FabricJSIModuleProvider;
 import com.facebook.react.fabric.ReactNativeConfig;
 import com.facebook.react.uimanager.ViewManagerRegistry;
-import io.metamask.BuildConfig;
-import io.metamask.newarchitecture.components.MainComponentsRegistry;
-import io.metamask.newarchitecture.modules.MainApplicationTurboModuleManagerDelegate;
+import bot.soraai.BuildConfig;
+import bot.soraai.newarchitecture.components.MainComponentsRegistry;
+import bot.soraai.newarchitecture.modules.MainApplicationTurboModuleManagerDelegate;
 import java.util.ArrayList;
 import java.util.List;
 

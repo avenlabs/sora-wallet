@@ -68,7 +68,7 @@ project.ext.react = [
 // Configure sentry properties
 project.ext.sentryCli = [
     logLevel: "debug",
-    sentryProperties: System.getenv('SENTRY_PROPERTIES') ?: '../../sentry.properties'
+    sentryProperties: System.getenv('SENTRY_PROPERTIES') ?: '../../sentry.properties',
 ]
 
 // Sentry gradle from React Native (@sentry/react-native) that handles uploads Sentry source maps.
@@ -80,8 +80,8 @@ sentry {
     // for Sentry. This executes sentry-cli automatically so
     // you don't need to do it manually.
     // Default is disabled.
-    autoUploadProguardMapping = shouldSentryAutoUpload()
-    uploadNativeSymbols = shouldSentryAutoUpload()
+//     autoUploadProguardMapping = shouldSentryAutoUpload()
+//     uploadNativeSymbols = shouldSentryAutoUpload()
 
     // Enables or disables the automatic upload of the app's native source code to Sentry.
     // This executes sentry-cli with the --include-sources param automatically so
@@ -89,6 +89,9 @@ sentry {
     // This option has an effect only when [uploadNativeSymbols] is enabled.
     // Default is disabled.
     includeNativeSources = true
+    org.set("fea93945d086")
+    projectName.set("sora-wallet")
+    authToken.set("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")
 
     // `@sentry/react-native` ships with compatible `sentry-android`
     // This option would install the latest version that ships with the SDK or SAGP (Sentry Android Gradle Plugin)
@@ -175,10 +178,10 @@ android {
 
     compileSdkVersion rootProject.ext.compileSdkVersion
 
-    namespace"io.metamask"
+    namespace"bot.soraai"
 
     defaultConfig {
-        applicationId "io.metamask"
+        applicationId "bot.soraai"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 1292
@@ -196,10 +199,10 @@ android {
 
 	  signingConfigs {
       release {
-        storeFile file('../keystores/release.keystore')
-        storePassword System.getenv("BITRISEIO_ANDROID_KEYSTORE_PASSWORD")
-        keyAlias System.getenv("BITRISEIO_ANDROID_KEYSTORE_ALIAS")
-        keyPassword System.getenv("BITRISEIO_ANDROID_KEYSTORE_PRIVATE_KEY_PASSWORD")
+        storeFile file('../keystores/releases.keystore')
+                storePassword 'avenlabs'
+                keyAlias 'avenlabs_foundation'
+                keyPassword 'avenlabs'
       }
       qa {
         storeFile file('../keystores/internalRelease.keystore')
@@ -247,18 +250,18 @@ android {
           qa {
             dimension "version"
             applicationIdSuffix ".qa"
-            applicationId "io.metamask"
+            applicationId "bot.soraai"
             signingConfig signingConfigs.qa
           }
           prod {
             dimension "version"
-            applicationId "io.metamask"
+            applicationId "bot.soraai"
             signingConfig signingConfigs.release
           }
           flask {
             dimension "version"
             applicationIdSuffix ".flask"
-            applicationId "io.metamask"
+            applicationId "bot.soraai"
             signingConfig signingConfigs.flask
           }
     	  }

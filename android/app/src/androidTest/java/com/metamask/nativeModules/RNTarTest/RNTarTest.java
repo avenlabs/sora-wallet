@@ -26,7 +26,7 @@ import java.nio.file.StandardCopyOption;
 import java.util.concurrent.CountDownLatch;
 import java.util.concurrent.TimeUnit;
 
-import io.metamask.nativeModules.RNTar.RNTar;
+import bot.soraai.nativeModules.RNTar.RNTar;
 
 @RunWith(JUnit4.class)
 public class RNTarTest {

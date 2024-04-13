@@ -1,4 +1,4 @@
-package io.metamask.nativeModules.RNTar;
+package bot.soraai.nativeModules.RNTar;
 
 import androidx.annotation.NonNull;
 import com.facebook.react.bridge.ReactApplicationContext;

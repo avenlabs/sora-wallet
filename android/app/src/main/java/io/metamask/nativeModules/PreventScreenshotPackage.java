@@ -1,4 +1,4 @@
-package io.metamask.nativeModules;
+package bot.soraai.nativeModules;
 
 import com.facebook.react.ReactPackage;
 import com.facebook.react.bridge.NativeModule;
