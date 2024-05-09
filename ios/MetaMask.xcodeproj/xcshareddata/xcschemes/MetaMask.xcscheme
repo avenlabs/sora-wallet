@@ -73,11 +73,20 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
+            BuildableName = "MetaMask.app"
+            BlueprintName = "MetaMask"
+            ReferencedContainer = "container:Sora Wallet.xcodeproj">
+         </BuildableReference>
+      </BuildableProductRunnable>
+      <MacroExpansion>
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
             BuildableName = "Sora Wallet.app"
             BlueprintName = "MetaMask"
             ReferencedContainer = "container:MetaMask.xcodeproj">
          </BuildableReference>
-      </BuildableProductRunnable>
+      </MacroExpansion>
       <EnvironmentVariables>
          <EnvironmentVariable
             key = "METAMASK_BUILD_TYPE"
@@ -102,6 +111,15 @@
             ReferencedContainer = "container:MetaMask.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
+      <MacroExpansion>
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
+            BuildableName = "Sora Wallet.app"
+            BlueprintName = "MetaMask"
+            ReferencedContainer = "container:MetaMask.xcodeproj">
+         </BuildableReference>
+      </MacroExpansion>
    </ProfileAction>
    <AnalyzeAction
       buildConfiguration = "Debug">
