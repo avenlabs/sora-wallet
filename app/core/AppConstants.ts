@@ -80,21 +80,21 @@ export default {
   },
   MAX_SAFE_CHAIN_ID: 4503599627370476,
   URLS: {
-    TERMS_AND_CONDITIONS: 'https://legal.consensys.io/metamask/terms-of-use/',
-    PRIVACY_POLICY: 'https://legal.consensys.io/metamask/privacy-policy/',
+    TERMS_AND_CONDITIONS: 'https://raw.githubusercontent.com/avenlabs/sora-wallet/main/docs/terms-of-use.md',
+    PRIVACY_POLICY: 'https://raw.githubusercontent.com/avenlabs/sora-wallet/main/docs/privacy-policy.md',
     DATA_RETENTION_UPDATE:
       'https://consensys.net/blog/news/consensys-data-retention-update/',
     CONNECTIVITY_ISSUES:
-      'https://metamask.zendesk.com/hc/en-us/articles/360059386712',
-    NFT: 'https://metamask.zendesk.com/hc/en-us/articles/360058238591-NFT-tokens-in-MetaMask-wallet',
+      'https://soraai.bot/',
+    NFT: 'https://soraai.bot/',
     SECURITY:
-      'https://metamask.zendesk.com/hc/en-us/articles/360015489591-Basic-Safety-and-Security-Tips-for-MetaMask',
+      'https://soraai.bot/',
     TOKEN_BALANCE:
-      'https://metamask.zendesk.com/hc/en-us/articles/360028059272-What-to-do-when-your-balance-of-ETH-and-or-ERC20-tokens-is-incorrect-inaccurate',
+      'https://soraai.bot/',
     WHY_TRANSACTION_TAKE_TIME:
-      'https://community.metamask.io/t/what-is-gas-why-do-transactions-take-so-long/3172',
+      'https://soraai.bot/',
     WHAT_IS_ETH_SIGN_AND_WHY_IS_IT_A_RISK:
-      'https://support.metamask.io/hc/articles/14764161421467',
+      'https://soraai.bot/',
   },
   ERRORS: {
     INFURA_BLOCKED_MESSAGE:
@@ -118,16 +118,16 @@ export default {
   },
   REVIEW_PROMPT: {
     HIGH_GAS_FEES:
-      'https://metamask.zendesk.com/hc/en-us/articles/360058751211-Why-my-gas-fees-are-so-high',
+      'https://soraai.bot/',
     MISSING_TOKENS:
-      'https://metamask.zendesk.com/hc/en-us/articles/360015489031-How-to-add-unlisted-tokens-custom-tokens-in-MetaMask',
+      'https://soraai.bot/',
     SWAP_ISSUES:
-      'https://metamask.zendesk.com/hc/en-us/articles/360060329612-Error-fetching-quote',
-    SUPPORT: 'https://support.metamask.io',
+      'https://soraai.bot/',
+    SUPPORT: 'https://soraai.bot/',
   },
   BUNDLE_IDS: {
     IOS: 'io.metamask.MetaMask',
-    ANDROID: 'io.metamask',
+    ANDROID: 'bot.soraai',
   },
   LEAST_SUPPORTED_ANDROID_API_LEVEL: 29,
   ADD_CUSTOM_NETWORK_POPULAR_TAB_ID: 'popular-tab',
@@ -159,7 +159,7 @@ export default {
     TERMS_DISPLAYED: 'ToU Displayed',
     TERMS_ACCEPTED: 'ToU Accepted',
     TERMS_OF_USE_URL_WITHOUT_COOKIES:
-      'https://legal.consensys.io/plain/terms-of-use/',
+      'https://raw.githubusercontent.com/avenlabs/sora-wallet/main/docs/terms-of-use.md',
   },
   FAVICON_CACHE_MAX_SIZE: 100,
   PPOM_INITIALISATION_STATE_CHANGE_EVENT:

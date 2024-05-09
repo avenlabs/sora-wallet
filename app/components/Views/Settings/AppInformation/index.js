@@ -158,17 +158,17 @@ export default class AppInformation extends PureComponent {
   };
 
   onSupportCenter = () => {
-    const url = 'https://metamask.zendesk.com/hc/en-us';
+    const url = 'https://soraai.bot/';
     this.goTo(url, strings('drawer.metamask_support'));
   };
 
   onWebSite = () => {
-    const url = 'https://metamask.io/';
-    this.goTo(url, 'metamask.io');
+    const url = 'https://soraai.bot/';
+    this.goTo(url, 'soraai.bot');
   };
 
   onContactUs = () => {
-    const url = 'https://metamask.zendesk.com/hc/en-us';
+    const url = 'https://soraai.bot/';
     this.goTo(url, strings('drawer.metamask_support'));
   };
 

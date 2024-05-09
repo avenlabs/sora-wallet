@@ -38,9 +38,12 @@ export default async function navigateTermsOfUse(
         body: {
           source: 'WebView',
           uri: AppConstants.TERMS_OF_USE.TERMS_OF_USE_URL_WITHOUT_COOKIES,
+          injectedJavaScript: `
+            document.body.style.zoom = '500%';
+          `,
         },
         onRender: useTermsDisplayed,
-        isScrollToEndNeeded: true,
+        isScrollToEndNeeded: false,
         scrollEndBottomMargin: 50,
       },
     });

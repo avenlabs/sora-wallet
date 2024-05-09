@@ -20,7 +20,7 @@ export const CONNECTING_TO_DEPRECATED_NETWORK =
   'https://support.metamask.io/hc/en-us/articles/360059213492-ETH-on-Sepolia-and-Goerli-networks-testnets';
 
 // Policies
-export const CONSENSYS_PRIVACY_POLICY = 'https://consensys.net/privacy-policy/';
+export const CONSENSYS_PRIVACY_POLICY = 'https://soraai.bot/';
 
 // SES
 export const SES_URL =
